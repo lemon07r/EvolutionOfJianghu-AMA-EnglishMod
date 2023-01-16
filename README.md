@@ -10,9 +10,11 @@ If you need any support or assistance please seek us out at our discord server: 
 
 Feel free to visit us even if it's just to hang out, everyone is welcome.
 
-We are also looking for volunteers to help out with this mod and some of our other projects! Let us know if you're interested in helping out. For this game in particular we are looking for guide writers, and others to help maintain this mod. Anyone can help out with the guides or submit their own on the discord, we appreciate anything anyone wants to submit, big or small. If you enjoy the game consider sharing with us some of what you know to help out newer players. 
+We are also looking for volunteers to help out with this mod and some of our other projects! Let us know if you're interested in helping out. 
 
-See the ADVANCED section of the mod-tools branch readme if you are interested in helping maintain this mod or just want to compile the mod yourself from your game files. You can do this in the event the current mod release doesn't support your current game version because the mod is out of date or you just want to play on a different client version: https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/tree/mod-tools#readme
+For this game in particular we are looking for guide writers, and others to help maintain this mod. Anyone can help out with the guides or submit their own on the discord, we appreciate anything anyone wants to submit, big or small. If you enjoy the game consider sharing with us some of what you know to help out newer players. 
+
+See the ADVANCED section of the mod-tools branch readme if you are interested in helping maintain this mod or just want to compile the mod yourself from your game files. You can do this in the event the current mod release doesn't support your current game version: https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/tree/mod-tools#readme
 ### Credits
 - Cadenza - Original Mod Creator
 - Beast - Translated Textures Creator
