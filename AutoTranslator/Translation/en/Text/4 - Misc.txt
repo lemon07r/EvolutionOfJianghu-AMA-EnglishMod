@@ -1,0 +1,11 @@
+sr:"(.*)无念山(.*)"=$1Numinous Peak$2
+sr:"(.*)十绝派(.*)"=$1Ten Absolute School$2
+sr:"(.*)玄天宗(.*)"=$1Xuantian Sect$2
+sr:"(.*)真武殿(.*)"=$1True Martial Hall$2
+sr:"(.*)大衍城(.*)"=$1Dayan City$2
+sr:"(.*)雷火帮(.*)"=$1Thunderfire Sect$2
+sr:"(.*)攻(.*)"=$1Attack$2
+sr:"(.*)功法突破(.*)"=$1Breakthrough$2
+sr:"(.*)修炼速度(.*)"=$1Cultivation Speed$2
+sr:"(.*)受伤概率(.*)"=$1Injury Prob$2
+sr:"(.*)生命上限(.*)"=$1Max HP$2
