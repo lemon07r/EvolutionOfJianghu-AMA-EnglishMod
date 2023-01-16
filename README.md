@@ -23,9 +23,9 @@ We are also looking for volunteers to help out with this mod and some of our oth
 
 See below to see how to help us maintain this mod.
 ### ADVANCED (optional) - Compiling the Mod for any version of the game
-Please ignore this readme if you just want to install the mod and the mod is already updated for the current version of the game. Read the current-release branch readme to see how to install the mod: https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod#readme
+Please ignore this readme if you want to install the mod and the mod isn't out of date. Read the current-release branch readme to see how to install the mod: https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod#readme
 
-This section will provide information on how to manually compile the mod using your own game files, allowing anyone to update the translation mod to the current game version in case if for some reason this mod is no longer being maintained or updated anymore (I am currently the sole maintainer! I'm looking for helpers). 
+This section will provide information on manually compiling the mod using your game files, allowing anyone to update the translation mod to their current game version. If this mod is no longer updated anymore, you can give this a try (I am currently the sole maintainer! I'm looking for helpers).
 #### Prerequisites and Downloads
 You will need:
 
