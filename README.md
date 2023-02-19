@@ -41,8 +41,16 @@ This is no longer mandatory, this new v2 mod will theoretically work with any ve
 3. There will be a drop-down menu under "Select the beta you want to opt into:". Click the drop-down arrow to the right and select "stable - Stable branch" 
 4. That's it. You're now on the stable branch of the game and can proceed to follow the instructions below to install the translation mod. 
 ![Switching to Stable Branch Demonstration](https://i.imgur.com/70yoood.gif)
-#### Mod Installation
+#### Mod V2 Installation and Information
 *More beginner friendly instructions coming soon.*
+
+This is probably the biggest update we've ever had for this mod. All credits to Cadenza, and the others that helped with this mod (rfc_club for the template, Beast for help troubleshooting bugs, etc).
+
+This new mod should work better with updates since in theory it will work with any version of the game. It will patch and generate the translated DLLs for you in a very automated and straight forward process.
+
+CAUTION - There will be bugs. Cadenza has found and fixed as many as he could before greenlighting this release but we still need a lot more testing and feedback from you guys! Find more info on how the mod works and how to use it below, straight from the mod maker himself, Cadenza. I will be working to make a simpler more beginner friendly guide in the future. 
+
+IMPORTANT - This mod breaks old saves because some untranslated stuff gets hardcoded into the save for some reason. We also need help improving the translation since a lot of old manual translations had to be removed for MTL because of a lot of big changes from the developer. 
 
 Important files and procedure :
 
