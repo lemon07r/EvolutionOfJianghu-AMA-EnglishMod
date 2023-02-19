@@ -50,7 +50,7 @@ This new mod should work better with updates since in theory it will work with a
 
 CAUTION - There will be bugs. Cadenza has found and fixed as many as he could before greenlighting this release but we still need a lot more testing and feedback from you guys! Find more info on how the mod works and how to use it below, straight from the mod maker himself, Cadenza. I will be working to make a simpler more beginner friendly guide in the future. 
 
-IMPORTANT - This mod breaks old saves because some untranslated stuff gets hardcoded into the save for some reason. We also need help improving the translation since a lot of old manual translations had to be removed for MTL because of a lot of big changes from the developer. 
+IMPORTANT - This mod breaks old saves because some untranslated stuff gets hardcoded into the save for some reason. We also need help improving the translation since a lot of old manual translations had to be removed for MTL because of a lot of big changes from the developer. Also make sure to delete any files from the old mod by either doing a clean install of the game or verifying the game files with steam from properties. 
 
 Important files and procedure :
 
