@@ -1,0 +1,1249 @@
+好货¤Goodies
+白玉¤White jade
+普通白色玉石,对韧性略有助益。¤Plain white jade, slightly beneficial to Tenacity。
+碧玉¤Jasper
+普通碧绿玉石,对刀法略有助益。¤Ordinary turquoise jade, slightly useful for Blade skills。
+黑曜石¤Black Obsidian
+通体黝黑,对体魄略有助益。¤Night Black, slightly beneficial to Stamina。
+猫眼石¤Cat's eye stone
+纹路形似猫眼,对洞察略有助益。¤The pattern resembles a cat's eye, and is good for Insight。
+珍珠¤Pearl
+贝类体内所生,对悟性略有助益。¤Born in the body of a shellfish, slightly useful for Wits。
+水晶¤Crystal
+无色透明晶体,对灵敏略有助益。¤Colorless and transparent crystals, slightly useful for Agility。
+寿山石¤Shoushan stone
+石质晶莹脂润,对力量略有助益。¤A crystal with a clear and moist texture, slightly beneficial to strength。
+天河石¤Tianhe stone
+蓝绿色结晶矿,对内力略有助益。¤Blue-green crystalline ore, slightly beneficial to Stance。
+青金石¤Lapis Lazuli
+深蓝色的玉石,对剑法略有助益。¤Dark blue jade stone, slightly beneficial to sword skill。
+羊脂玉¤Sheep's-flesh jade
+状如凝脂,佩之有助内力。¤It is like solid fat, it is good for a better Stance。
+独山玉¤Dushan Jade
+细腻柔润,佩之有助灵敏。¤Fine, soft and supple, useful for Agility。
+黄龙玉¤Yellow Dragon Jade
+黄如金红如血,佩之有助韧性。¤Yellow like gold and red like blood。
+红宝石¤Ruby
+宝石鲜红如血,佩之有助力量。¤Bright red like blood, worn for Strength。
+琥珀¤Amber
+树脂千年化石,佩之有助悟性。¤A thousand-year-old fossilized resin, worn for its enhancement of Wits。
+翡翠¤Jadeite
+名贵玉石,佩之有助剑法。¤Precious jade, worn for Swordplay。
+碧玺¤Tourmaline
+色泽华丽多变,佩之有助刀法。¤Gorgeous and colorful, it is useful for Blade users。
+玛瑙¤Agate
+色泽艳丽细润,佩之有助洞察。¤It is a beautiful and delicate color, and can be worn for better Insight。
+金刚石¤Adamantite
+坚硬无色结晶,佩之有助体魄。¤Hard, colorless crystals, known to enhance Stamina。
+冰芯¤Ice core
+冰之精华,对剑法提升大有助益。¤The essence of ice, good for improving Sword Skills。
+玉髓¤Chalcedony
+玉之精髓,对刀法提升大有助益。¤The essence of jade, good for improving Blade mastery。
+天极石¤Tianji Stone
+身藏无极,对内力提升大有助益。¤It is beneficial to the improvement of Stances。
+紫阳石¤Purple Sun Stone
+极阳之力,对力量提升大有助益。¤Contains the power of extreme sunlight, good for enhancing Strength。
+伏雷晶¤Vermillion Crystal
+天雷之精,对灵敏提升大有助益。¤The essence of heavenly thunder, which is useful for enhancing Agility。
+星晶¤Star Crystal
+星辰之华,对体魄提升大有助益。¤The power of the stars, good for Stamina improvement。
+金胎玉¤Golden jade
+金精玉髓,对韧性提升大有助益。¤Gold essence and chalcedony, good for Tenacity improvement。
+玄阴珠¤Xuan Yin Pearl
+致阴之力,对洞察提升大有助益。¤Yin power, good for Insight improvement。
+七星珠¤Seven Star Pearl
+北斗之精,对悟性提升大有助益。¤The essence of the Northern Dipper, useful for improving Wits。
+紫青奇玉¤Purple and Green Jade
+蕴藏阴阳提升灵敏|内力|韧性。¤Contains yin and yang to enhance Agility|Stance|Tenacity。
+灵金宝石¤Spiritual Gold Gem
+灵金之气提升力量|刀法|剑法。¤The energy of spiritual gold enhances strength|swordplay|swordplay。
+真光玄晶¤True Light Xuan Crystal
+大道之力提升体魄|悟性|洞察。¤The power of the Great Dao enhances Physical|Wits|Insight。
+铸铁¤Cast Iron
+初级铁料,锻造之斩略有助益。¤Elementary iron, forging of the chopping is slightly beneficial。
+生铁¤Pig Iron
+初级铁料,锻造之刺略有助益。¤Elementary iron, with a slight advantage of forging thorns。
+精铜¤Fine copper
+精炼之铜,锻造之削略有助益。¤Refined copper, which is slightly useful for forging。
+钨铜¤Tungsten copper
+钨铜合金,锻造之绞略有助益。¤Tungsten copper alloy, the forging of stranding is slightly helpful。
+粗钢¤Rough steel
+粗制钢材,锻造之砸略有助益。¤Rough steel, the forging of which is slightly helpful。
+痕钢¤Streak steel
+下等钢材,锻造之突略有助益。¤Lower grade steel, forged with a little help。
+蚀银¤Etched silver
+初级银料,锻造之挑略有助益。¤Primary silver, forged with a little help。
+重银¤Heavy silver
+初级银料,锻造之斩略有助益。¤Beginner silver, forged with a slight benefit to the forge。
+暗金¤Dark Gold
+初级金料,锻造之撩略有助益。¤Primary gold, forged with a slight benefit to the Tug。
+百炼钢¤Refined Steel
+精炼之钢,锻造有助提升砸。¤Refined steel, forged to improve smashing。
+钨刚¤Tungsten
+钨刚合金,锻造有助提升突。¤Tungsten alloy, forging helps to improve the strength。
+陨铁¤Meteorite Iron
+天外陨铁,锻造有助提升斩。¤Meteorite iron, forging helps to improve the chopping power。
+玄铁¤Genesteel
+珍稀合金,锻造有助提升刺。¤A rare alloy that can be forged to enhance the thrust。
+虹铜¤Rainbow Copper
+表有虹光,锻造有助提升削。¤Forged with a rainbow light, it helps to improve cutting。
+断钢铜¤Steel Bronze
+高级铜料,锻造有助提升绞。¤High-grade copper, forged to enhance the twist。
+雷银¤Thunder Silver
+含雷电之力,锻造有助提升劈。¤Contains the power of thunder and lightning。
+秘银¤Secret Silver
+稀有银料,锻造有助提升挑。¤Rare silver, forged to enhance the pick。
+玉金¤Jade Gold
+如玉之金,锻造有助提升撩。¤Gold like jade, forged to help enhance the tantalizing。
+晶铁¤Crystallized Iron
+结晶之铁,锻造有助提升斩。¤Crystallized iron, forged to improve the cut。
+极铁¤Iron
+铁中精华,锻造有助提升刺。¤The essence of iron, forged to enhance the thorns。
+琉希铜¤Lucite Copper
+表面虹光流转,锻造大幅提升削。¤The iridescence of the surface, forged to improve cutting。
+蕴铜¤Copper
+珍稀铜材,锻造大幅提升绞。¤Rare copper material, forged to improve the strands。
+星银¤Star Silver
+所含星辰之精,锻造大幅提升挑。¤Contains the essence of the stars。
+月煌银¤Moon Silver
+所含太阴之精,锻造大幅提升劈。¤Contains the essence of Tai Yin。
+幻金¤Phantom Gold
+隐有眩光外放,锻造大幅提升劈。¤It contains the light of the dazzle, and it can be forged to enhance Rip attacks。
+紫云钢¤Purple Cloud Steel
+紫色云纹缠绕,锻造大幅提升砸。¤Forged with purple clouds, it enhances Bash attacks。
+碎星钢¤Shattered Star Steel
+星辰碎片,锻造大幅提升突。¤Star fragments, forged to greatly enhance the Break attacks。
+混元天金¤Mixed Yuan Heavenly Gold
+混沌之源,锻造提升撩|挑|劈。¤Source of Chaos, forged to enhance the 'Tear', 'Pick' and 'Rip' attacks。
+太初神铁¤Divine Iron
+太初之始,锻造提升斩|刺|削。¤The beginning of the beginning of the world, forged to enhance Slash|Stab|Cut。
+璃元金钢¤Glazed Golden Steel
+璃元所化,锻造提升砸|突|绞。¤Forged to Bash|Break|Twist。
+粗皮¤Rough Leather
+粗糙的动物皮,能对斩稍作抵挡。¤Rough animal skin, can resist cuts。
+碎皮¤Shattered Leather
+零碎的动物皮,能对刺稍作抵挡。¤Fragmented animal skin, which is slightly resistant to Stabs。
+薄皮¤Thin leather
+单薄的动物皮,能对绞稍作抵挡。¤A thin animal skin, which is slightly resistant to Twists。
+沙蚕丝¤Silkworm silk
+沙蚕所吐之丝,能对削稍作抵挡。¤The silk spitted by the sand silkworm can resist Cuts slightly。
+柞蚕丝¤Quercus sericea silk
+柞蚕所吐之丝,能对突稍作抵挡。¤The silk spitted by the sericulture silkworm can resist Break attacks。
+灰缎¤Gray satin
+灰白色的绸缎,能对斩稍作抵挡。¤The gray silk can resist Slashes。
+素缎¤Plain satin
+素色绸缎,能对斩稍作抵挡。¤Plain satin, which is able to resist Slashes。
+白绫¤White silk
+寻常白绫,能对砸稍作抵挡。¤Ordinary white silk, can add a little resistance to Bash attacks。
+清绫¤Clear damask
+寻常清绫,能对撩稍作抵挡。¤Ordinary clear damask, can be a little resistance to Tear attacks。
+豹皮¤Leopard skin
+猎豹皮毛,能提升对斩的防御¤Cheetah skin, can improve the defense against Slashes
+虎皮¤Tiger skin
+老虎皮毛,能提升对刺的防御¤Tiger's fur improves defense against Stabs。
+熊皮¤Bear skin
+黑熊皮毛,能提升对绞的防御¤Black bear fur, improves defense against Twists
+天蚕丝¤Celestial Silk
+天蚕之丝,能提升对削的防御。¤Silk of the Heavenly Silkworm, improves defense against Cuts。
+冰蚕丝¤Ice Silkworm Silk
+冰蚕之丝,能提升对突的防御。¤The silk of the ice silkworm enhances the defense against Break attacks。
+赤缎¤Red satin
+赤红绸缎,能提升对斩的防御。¤Red silk, can improve the defense against Slash。
+青缎¤Blue satin
+蓝青绸缎,能提升对劈的防御。¤Blue and green silk, can improve the defense against Rip attacks。
+花绫¤Flower damask
+绫带织花,能提升对砸的防御。¤A silk ribbon with flowers to improve defense against Bash attacks。
+彩绫¤Colored damask
+彩色之绫,能提升对撩的防御。¤Colored damask, which can improve the defense against Tear attacks。
+古蟒皮¤Ancient Python Skin
+远古巨蟒之皮,能大幅提升斩防。¤The skin of an ancient python, which can greatly improve the defense against Slashes。
+巨鳄皮¤Giant Crocodile Skin
+巨鳄之皮,能大幅提升刺防。¤The skin of a giant crocodile, which can greatly improve Stab defense。
+犀兽皮¤Rhinoceros Skin
+犀牛之皮,能大幅提升绞防。¤Skin of rhinoceros, can greatly improve Twist defense。
+玉蚕丝¤Jade Silk
+玉蚕所吐之丝,能大幅提升削防。¤The silk spat by the jade silkworm can greatly improve Cut defense。
+金蚕丝¤Golden Silkworm Silk
+金蚕所吐之丝,能大幅提升突防。¤The silk exhaled by the golden silkworm can greatly improve Break defense。
+九霞缎¤Nine haze satin
+如彩霞降临,能大幅提升斩防。¤Like the colorful haze descending, can greatly improve Slash defense。
+流云缎¤Flowing cloud satin
+形如流云,能大幅提升劈防。¤Shaped like flowing clouds, can greatly improve Rip defense。
+琉光绫¤Ryukou damask
+如琉光夺目,能大幅提升砸防。¤As the light of the glare, can greatly improve Bash defense。
+赤辉绫¤Red glory aya
+如赤红光辉,能大幅提升撩防。¤Like red glow, can greatly improve Tear defense。
+灵冰光丝¤Spiritual ice light silk
+冰丝如灵光,能御削|突|斩。¤The ice silk is like spiritual light, and it can protect against Cut|Break|Slash
+莲华宝绫¤Lotus Aya
+宝莲所化,能御砸|撩|刺。¤Made of precious lotus, it can defend against Cut|Tear|Stab。
+游云羽缎¤Cloud feather satin
+云霞所生,能御斩|劈|绞。¤Born from clouds, it can resist Slash|Rip|Twist。
+合欢花¤Acacia Flower
+安五脏,和心志,令人欢乐无忧。¤It calms the five internal organs, harmonizes the heart and mind, and makes people happy and carefree。
+舒筋草¤Tendon Relaxing Herb
+舒筋活络,使角色功法成长。¤Relaxes the tendons and invigorates the muscles, enabling the character to improve Skillsets。
+黄精¤Yellow Essence
+补气养阴,提升身体各个属性。¤Nourishes the qi, nourishes the yin, and enhances various body attributes。
+鸡血藤¤Chicken Blood Vine
+活血化瘀,恢复角色气血。¤Revitalizes blood circulation and restores the character's Lifeforce。
+当归¤Angelica
+止痛合血,能治疗角色伤势。¤Stops pain and calms the blood, heals character's injuries。
+何首乌¤Fallopia
+补肝益肾,有助功法突破。¤Nourishes the liver and kidneys to help with breakthroughs。
+五味子¤Schisandra
+养五脏补元气,可临时提升战力。¤Nourishes the five organs and replenishes vital energy, temporarily enhances combat power。
+枸杞子¤Chinese Wolfberry
+补益精气,可恢复角色真气。¤Nourishes the essence and restores the character's Qi。
+地黄¤Di Huang
+填骨髓长肌肉,使人体力恢复。¤Fills bone marrow and grows muscles, restores one's Vigor。
+山参¤Mountain Ginseng
+大补元气,快速恢复角色体力。¤It restores the character's strength quickly。
+灵芝¤Lingzhi
+补气安神,快速恢复角色真气。¤Replenishes Qi and tranquilizes the mind, quickly restores the character's true energy。
+鹿茸¤Deer antler
+益精血,快速恢复角色生命。¤It restores the character's Lifeforce quickly。
+蛇胆¤Snake Bile
+消肿止痛,快速恢复角色伤势。¤Relieves swelling and pain, quickly restores the character's injuries。
+石斛¤Dendrobium
+壮筋补虚,提升身体各个属性。¤Strengthens the tendons and nourishes the deficiencies, and improves the body attributes。
+雪莲¤Snow Lotus
+通经活血,可快速提升战斗力。¤Promotes blood circulation and blood circulation, and can quickly increase combat power。
+虫草¤Cordyceps
+名贵药材,可快速提升角色功法。¤Valuable medicinal herbs, can quickly improve the character's skills。
+西红花¤Saffron
+解郁安神,可快速提升角色心情。¤Relieves depression and calms the mind, can quickly improve the mood of the character。
+天麻¤Tian Ma
+通血开窍,助角色突破功法瓶颈。¤Allows for a better circulation of Qi and helps the character breakthrough the bottleneck of a Skillset。
+托月叶¤Moon Leaf
+形如捧月,大幅提升角色功法。¤Shaped like the moon, it can greatly improve the character's Skillsets。
+龙鳞叶¤Dragon Scale Leaf
+如龙鳞之状,治疗伤势有奇效。¤Like dragon scales, it is effective in healing injuries。
+归元果¤Returning fruit
+珍稀药材,能迅速恢复角色体力。¤Rare medicinal herbs, can quickly restore the character's Vigor。
+荧辉草¤Fluorescence Herb
+略带辉光,能大幅提升角色属性。¤Slightly glowing, can greatly enhance character attributes。
+云芝¤Turkey Tail
+状如云朵,对突破功法有奇效。¤Like clouds, it is effective in breaking through a Skillset。
+檀参¤Sandalwood Ginseng
+檀香缭绕,大量恢复角色气血。¤Sandalwood fragrance, restores a lot of Lifeforce。
+地髓根¤Earth Marrow Root
+含地脉之气,能大幅提升战力。¤Contains the qi of the earth vein, can greatly enhance combat power。
+珠芯花¤Pearl Core Flower
+花芯如珠,大幅提升角色心情。¤The core of the flower is like a pearl, which greatly enhances the mood of the character。
+莲华子¤Lotus seeds
+莲中精华,对恢复真气有奇效。¤The essence of lotus, it is effective in restoring true energy。
+凤羽草¤Phoenix feather grass
+恢复真气|提升功法|恢复生命。¤Restores Qi|Boosts Skillsets|Restores life。
+幻蛇灵目¤Phantom Snake Eye
+提升属性|增强战力|突破功法。¤Enhance attributes|Boost battle power|Breakthrough Skillsets。
+天元金莲¤Tian Yuan Golden Lotus
+治疗伤势|提升心情|恢复体力。¤Heal injuries|Enhance Mood|Recover Vigor。
+松木¤Pine Wood
+随处可见的普通木料。¤Common wood that can be found everywhere。
+杉木¤Fir wood
+榉木¤Beech wood
+优秀的建筑材料。¤Excellent building material。
+香樟木¤Balsam fir wood
+银杏木¤Ginkgo wood
+紫檀木¤Rosewood
+难得一见的高级木料。¤Rarely found premium wood。
+花梨木¤Huali wood
+乌木¤Ebony
+沉香木¤Incense wood
+产量稀少且极其珍贵的木料。¤Rare and extremely valuable wood。
+金丝楠木¤Goldenrod wood
+看过此书会使人性情大变。¤Reading this book will change one's disposition dramatically。
+此书记载了世间之奥秘。¤This book records the mysteries of the world。
+合作¤Cooperation
+教人武功¤Teach people martial arts
+地主家的傻儿子想要学习武功，希望派遣一名会些许<color=#FFB851>「武技」</color>的弟子前往教导一番，并承诺事后必有重谢。¤The landlord's foolish son wanted to learn martial arts and wanted to send a disciple who knew some <color=#FFB851>'martial arts skills'</color> to teach him, promising a big reward afterwards。
+弟子<color=#78E2FF>{0}</color>在地主家教导他的傻儿子数月后，傻儿子仿佛开窍一般，居然学得有模有样，地主特别开心，给与了不少报酬，还夸我派都是英雄好汉。¤The landlord was so happy that he paid a lot of money and praised our Sect as heroes and heroines。
+弟子<color=#78E2FF>{0}</color>在地主家教导他的傻儿子数月后，傻儿子虽笨，但是努力练习居然也学会了一招半式，地主见了很是开心，并给与了报酬。¤The landlord was very happy to see him and paid him for his efforts。
+弟子<color=#78E2FF>{0}</color>在地主家教导他的傻儿子数月后，傻儿子确实很笨，到最后还是啥也没学会，地主也没太在意，但表示不会支付报酬。¤Disciple <color=#78E2FF>{0}</color> After teaching his foolish son at the landlord's house for several months, the foolish son was indeed very stupid, and in the end he learned nothing. The landlord did not care much about it, but said he refused to pay。
+弟子<color=#78E2FF>{0}</color>在地主家教导他的傻儿子数月后，傻儿子实在笨得出奇，不仅武功没学会，还不小心把自己弄伤了，地主大发雷霆，不仅没有支付报酬，还说我们门派都是骗子。¤Our disciple <color=#78E2FF>{0}</color>, tried teaching the Landlord's son at his house for several months. But he couldn't learn anything. Not only did he not learn martial arts, but also accidentally injured himself。 The landlord was furious, and not only did he not pay, but he also said that our sects were all liars。
+送信¤Deliver the letter
+山下一老汉身患重病，眼看时日无多，唯一的儿子在大衍城谋生，老汉想再见儿子最后一面，希望派遣一名身手较为<color=#FFB851>「灵敏」</color>的弟子前往大衍城送信。¤An old man at the bottom of the mountain was seriously ill and his days were numbered。 His only son was making a living in Dayan City, and he wanted to see his son one last time。
+弟子<color=#78E2FF>{0}</color>接到任务后日夜兼程，在大衍城顺利找到了老汉的儿子并将其带回，老汉交代完后事安详离去，其儿子为表达感谢将家传玉佩赠与了我们¤Our disciple, <color=#78E2FF>{0}</color>, received the mission and traveled day and night, successfully found the old man's son in Dayan City and brought him back。
+弟子<color=#78E2FF>{0}</color>接到任务后日夜兼程，在大衍城花了些时间终于找到老汉的儿子并将其带回，老汉刚见到儿子便离去了，其儿子给与了金钱作为报酬。¤After receiving the task, our disciple <color=#78E2FF>{0}</color> traveled day and night, and spent some time in Dayan City to find the old man's son and bring him back。
+弟子<color=#78E2FF>{0}</color>接到任务后虽然日夜兼程，半路却迷失了方向，花费了很长时间才找到老汉的儿子将其带回，最终老汉没能见到儿子便离去，其儿子非常难过，我们不忍再索要报酬。¤Our disciple <color=#78E2FF>{0}</color> received the task, traveled day and night, but eventually got lost halfway... It took our disciple a long time to find the old man's son and bring him back。
+弟子<color=#78E2FF>{0}</color>接到任务后虽然日夜兼程，但自身轻功不济，在半路还迷失了方向，最终找到老汉的儿子时已经过去大半月，赶回家后老汉早已去世，其儿子悲痛万分，并质问我等为何延误。¤After receiving the task, our disciple <color=#78E2FF>{0}</color> traveled day and night, but too slowly... eventually, our disciple got lost and didn't find the old man's son until half a month later. 
+家畜失踪¤Missing livestock
+山下有村民反应，其圈养的家畜最近经常莫名失踪，怀疑是山中野兽所为，希望派一名拥有一定<color=#FFB851>「洞察与力量」</color>的弟子前往协助村民，抓住这只野兽。¤A villager at the bottom of the mountain explained that his livestock had been disappearing inexplicably, and he suspected that it was the work of a wild animal in the mountain。
+弟子<color=#78E2FF>{0}</color>来到村中后四处调查并布下了陷阱，终于在一天夜里将其引诱出来并发现是一只硕大无比的野猪，好在有陷阱加上村民配合，终于成功抓获并且无人受伤，村民非常感激，不仅送上了不少粮食还四处宣扬我们的事迹。¤Our disciple <color=#78E2FF>{0}</color> came to the village and investigated around and laid traps, and finally lured it out one night and found it to be a huge wild boar。
+弟子<color=#78E2FF>{0}</color>来到村中在四处调查一番后，终于在一天夜里将其引诱出来并发现是一只硕大无比的野猪，好在自己力气不小加上村民配合，终于成功抓获，只有几名村民受了一些轻伤，村民很高兴，送上了粮食做为谢礼。¤The villagers were so grateful that they sent us food as a thank you gift。
+弟子<color=#78E2FF>{0}</color>来到村中虽然四处调查，但也不知道该如何入手，在一天夜里将其引诱出来后发现是一只硕大无比的野猪，自己也被吓住，虽然依靠人数优势将其赶走，但也不知道它还会不会再来，村民事后表示我们派去的弟子没啥作用。¤Our disciples <color=#78E2FF>{0}</color> came to the village and although they investigated around, they didn't know how to start。 After luring it out one night and finding it to be a huge wild boar, they themselves were frightened。 Although they relied on their numerical advantage to drive it away, they didn't know if it would come back, and the villagers said afterwards that the disciples we sent there were of no use。
+弟子<color=#78E2FF>{0}</color>来到村中并未调查，表示区区野兽，自己能轻松制服，然而在一天夜里一只硕大无比的野猪突然出现，自己匆忙组织村民前去，但在毫无准备的情况下被野猪连伤数人后逃走，村民非常愤怒，指责都是我们的过失。¤However, one night a huge wild boar appeared out of nowhere, and we hurriedly organized the villagers to go there, but the boar injured several people and escaped, and the villagers were furious and blamed it on our fault。
+试药¤Medicine Trial
+山下来了个游医，说自己无意发现一个药方，但不确定药效，现寻找一名试药者，需要一名<color=#FFB851>「体魄」</color>不错的试药者，对方承诺丹药绝无副作用。¤A wandering doctor came down from the mountain, saying that he had found a prescription unintentionally, but was not sure of its efficacy, and was now looking for a medicine tester, needing a tester with good <color=#FFB851>'Stamina'</color> , who promised that the elixir would have no side effects。
+弟子<color=#78E2FF>{0}</color>来到这名游医所在处并配合试用丹药，好在自己身体强健，丹药也非虎狼之药，数月过后，居然发现此药还有强身健体的功效，游医对此也很满意，支付了我们不少报酬。¤I <color=#78E2FF>{0}</color> came to the place where this traveling doctor was and tried the elixir with it。 I was able to find out after a few months that the elixir was also effective in strengthening my body and body。
+弟子<color=#78E2FF>{0}</color>来到这名游医所在处并配合试用丹药，还好丹药并非虎狼之药，自己最多也是偶尔拉拉肚子就好了，也不知道这药有什么作用，那名游医给与了我们报酬后就离开了。¤Our disciple <color=#78E2FF>{0}</color> came to the place where this traveling doctor was and tried the elixir with it, fortunately the elixir was not a tiger and wolf medicine, and he himself was at most occasionally diarrhea, and he did not know what the effect of this medicine was, and the traveling doctor left after paying us。
+弟子<color=#78E2FF>{0}</color>来到这名游医所在处并配合试用丹药，但是时间一长，身体渐渐开始扛不住了，初期只是拉肚子，后来开始上吐下泻，继续下去恐有性命之忧，便中断了试药，但是那名游医却以此为由不愿支付报酬。¤Our disciple <color=#78E2FF>{0}</color> came to the place where the wandering doctor was and tried the medicine with it, but as time went on, his body gradually began to fail him, and at first he only had diarrhea, but later he began to vomit and have diarrhea, and if he continued, he feared for his life, so he stopped trying the medicine, but the wandering doctor used this as a reason not to pay him。
+弟子<color=#78E2FF>{0}</color>来到这名游医所在处并配合试用丹药，但是不知是身体赢弱，还是药效太强，试药还没几日，我们的弟子突然就口吐白沫直接晕死了过去，那名游医也不知去向。¤Our disciple <color=#78E2FF>{0}</color> came to the place where the traveling doctor was and tried the medicine, but I don't know if it was because his body was weak or the medicine was too strong, but after a few days of trying the medicine, our disciple suddenly foamed at the mouth and passed out, and the traveling doctor was nowhere to be found。
+卖艺¤sell your art
+据说最近大衍城有个庙会，届时城中会聚集不少百姓，要不我们找一名有些<color=#FFB851>「外功」</color>修为的弟子前去表演个胸口碎大石，说不定能挣不少钱。¤It is said that there will be a temple fair in Dayan City, and many people will gather in the city, so why don't we find a disciple who has some <color=#FFB851>'external Martial Arts'</color> cultivation to perform a chest-breaking performance?
+弟子<color=#78E2FF>{0}</color>前往大衍城后果然发现城中比往日热闹得多，想到能给门派露露脸，自己也兴奋异常，于是一提气直接在身上盖了三层石板，然后让人数锤砸下，石板碎裂，自己毫发无伤，围观百姓纷纷打赏拍手叫好，甚至有富家公子直接赏了几锭元宝，我们大赚了一笔。¤Our disciple <color=#78E2FF>{0}</color> went to Dayan City and found the city much more lively than usual。 We made a big profit。
+弟子<color=#78E2FF>{0}</color>前往大衍城后果然发现城中比往日热闹得多，想到能给门派露露脸，自己也兴奋异常，于是一提气直接在身上盖了三层石板，然后让人数锤砸下，虽然石板碎裂，但自己也疼得面目通红，围观百姓也有不少打赏，我们挣了些血汗钱。¤After Our disciple <color=#78E2FF>{0}</color> went to Dayan City, he found the city was much more lively than usual, and was excited to show his face to the sect。
+弟子<color=#78E2FF>{0}</color>前往大衍城后果然发现城中比往日热闹得多，想到能给门派露露脸，自己也兴奋异常，于是托大直接在身上盖了三层石板，但是每砸一锤，自己都忍不住痛得直嚷嚷，围观百姓不想继续看这么残忍的表演，纷纷离开了。¤Our disciple <color=#78E2FF>{0}</color> went to Dayan City and found the city much more lively than usual, and was excited to show his face to the sect, so he took the liberty of covering his body with three layers of stone slabs, but with each smashing hammer, he couldn't help but yell in pain, and the onlookers didn't want to continue watching such a brutal performance and left。
+弟子<color=#78E2FF>{0}</color>前往大衍城后果然发现城中比往日热闹得多，想到能给门派露露脸，自己也兴奋异常，于是托大直接在身上盖了三层石板，但是刚一锤下去，自己就一口鲜血喷出，直接晕了过去，吓得围观百姓四散而逃。¤Our disciple <color=#78E2FF>{0}</color> went to Dayan City and found the city much more lively than usual。 He was excited to show his face to the sect, so he covered his body with three layers of stone plates, but as soon as the hammer went down, he spurted out a mouthful of blood and fainted, scaring the onlookers。
+协助炼器¤Assistance in smithing
+山下打铁铺老板最近接了一笔大生意，但是自己的学徒却生病了，如果没有助手帮忙的话，恐怕自己一个人忙不过来，希望我们派一名有些<color=#FFB851>「力量」</color>的弟子前往帮忙打打下手。¤The owner of the ironworking store under the mountain recently took a big deal, but his own apprentice is sick。 I'm afraid he can't be busy by himself if he doesn't have an assistant to help, and he hopes we will send a disciple with some <color=#FFB851>'strength'</color> to help with the smithing。
+弟子<color=#78E2FF>{0}</color>来到打铁铺后开始帮忙打铁，不仅力气不小，而且对打铁学习得也很快，一天下来顶他徒弟两三天的活儿，不仅没耽误生意，还额外帮了不少忙，打铁铺老板特别高兴，直接将自己珍藏的一把好剑赠送给了我们。¤Our disciple <color=#78E2FF>{0}</color> came to the iron store and started to help with the ironworking。 Not only was he very strong, but he also learned ironworking very quickly, and in one day he was able to do two or three days of his disciple's work, not only did he not miss business, but he also helped out a lot。
+弟子<color=#78E2FF>{0}</color>来到打铁铺后开始帮忙打铁，虽然自己不太会打铁，但是却又一把子力气，一天下也不比他徒弟干活少，最后顺利的完成了工作，打铁铺老板支付了报酬并表示感谢。¤Our disciple <color=#78E2FF>{0}</color> came to the ironworking store and started to help with the ironworking。 Although he was not very good at ironworking himself, he had a lot of strength, and he did not work less than his disciple in a day。
+弟子<color=#78E2FF>{0}</color>来到打铁铺后开始帮忙打铁，虽然有力气，但从来没打过铁，打铁铺老板还花不少时间来教才勉强能干活，最后还是只能靠打铁铺老板自己没日没夜的赶工，才没耽误了工期，事后表示我们派来的弟子只会帮倒忙，不会支付报酬。¤Our disciple <color=#78E2FF>{0}</color> came to the iron store and started to help with the ironwork。 Although he had the strength, he had never beaten iron before, and the store owner spent a lot of time teaching him before he could barely work。
+弟子<color=#78E2FF>{0}</color>来到打铁铺后开始帮忙打铁，没干多久就表示累到不行，平时都是敷衍了事，完全帮不上忙，最后打铁铺老板都累得病倒了，也没能在工期内完成，事后暴跳如雷，称我们门派都是一群混混，应该赔偿他的损失。¤Our disciples <color=#78E2FF>{0}</color> came to the iron store and started to help with the iron, but they didn't work for long before they said they were too tired to do anything, and they were usually too perfunctory to help at all, and finally the iron store owner was so tired that he fell ill and couldn't finish the work within the deadline。
+照顾药田¤Take care of the medicinal fields
+山下药材铺老板开辟了一块新的药田，要赶在换季前种下药材，希望我们派遣一名有些<color=#FFB851>「悟性」</color>的弟子前往帮忙种植药材。¤The owner of the herb store at the bottom of the mountain had opened a new medicinal field and wanted to plant the herbs in time for the change of season。 He wanted us to send a disciple with some <color=#FFB851>'Wits'</color> to help plant the herbs。
+弟子<color=#78E2FF>{0}</color>在药材铺老板的药田里帮忙种植药材，很快便记住了各种药材与种植的方法，给药材铺老板的药田照顾得井井有条，将来一定能收获不少道地药材，药材铺老板非常满意，将一瓶丹药作为报酬赠送给了我们。¤Our disciple <color=#78E2FF>{0}</color> helped plant the herbs in the herb store owner's field, and quickly learned the various herbs and planting methods, and took care of the herb store owner's field in an orderly manner。
+弟子<color=#78E2FF>{0}</color>在药材铺老板的药田里帮忙种植药材，各种药材与种植的方法虽然很多，但是自己也差不多记得八九不离十，都按照要求种植了各种药材，药材铺老板事后表示了感谢并支付了报酬。¤Our disciple <color=#78E2FF>{0}</color> helped to plant herbs in the herb store owner's medicinal field。 Although there were many different herbs and planting methods, he almost remembered eight or nine of them himself and planted all kinds of herbs as required, and the herb store owner expressed his gratitude and paid him afterwards。
+弟子<color=#78E2FF>{0}</color>在药材铺老板的药田里帮忙种植药材，但是各种药材与种植的方法实在太多，自己只能勉强记了一些，然后开始种植这些药材，最后药材铺老板来检查时，发现大多都不符合要求，生气的表示不会支付任何报酬。¤Our disciple <color=#78E2FF>{0}</color> helped to plant herbs in the herb store owner's field, but there were so many different herbs and planting methods that he could only barely remember some of them, and then started to plant them, and finally when the herb store owner came to check, he found that most of them did not meet the requirements and was angry and said he would not pay anything。
+弟子<color=#78E2FF>{0}</color>在药材铺老板的药田里帮忙种植药材，在学习药材与种植的方法时完全不用心，而且在种植的时候也是粗手粗脚，还没下地就弄死不少幼苗，药材铺老板非常生气，称不会再相信我们，更不会支付报酬。¤Our disciple <color=#78E2FF>{0}</color> helped to plant herbs in the herb store owner's medicinal field。 He was not at all attentive in learning the herbs and planting methods, and was also careless in planting, killing many seedlings before they even hit the ground。
+身中蛇毒¤Being poisoned by snake
+山下村子里老王家的小儿子贪玩跑到后山玩，结果被毒蛇咬伤，目前已经昏迷，只能送往大衍城才能医治，但是路途遥远必须使用内功护住心脉方能暂时保命，尽快派遣一名有<color=#FFB851>「内功」</color>修为的弟子前往救助。¤The youngest son of the old Wang family in the village down the hill was bitten by a poisonous snake when he ran to the back of the mountain to play。 He is now in a coma and can only be taken to Dayan City for medical treatment, but he has to use internal energy to protect his heart and veins to save his life for the time being。
+弟子<color=#78E2FF>{0}</color>收到消息后迅速赶了过去，并施展内功一边逼出毒血，一边守护其心脉，终于平安送到大衍城，大夫表示已经性命无忧，服药慢慢清除体内残余毒血即可，老王喜极而泣，对我们感恩戴德。¤After receiving the news, disciple <color=#78E2FF>{0}</color> quickly rushed over and used his internal energy to force out the poisonous blood while protecting his heart veins。
+弟子<color=#78E2FF>{0}</color>收到消息后迅速赶了过去，并施展内功护住其心脉，但是路途遥远，送到大衍城的时候，自己也累到快虚脱，大夫表示虽然保住性命，但是恐要落下残疾，老王听后虽然非常难过，但是也感谢了我们的救命之恩。¤The doctor said that although he had saved his life, he was afraid that he would be disabled。
+弟子<color=#78E2FF>{0}</color>收到消息后迅速赶了过去，并施展内功护住其心脉，但是自身内功并不深厚，加之路途遥远，送到大衍城时，自己已经虚脱晕倒，虽然大夫对孩子全力医治，勉强保住了性命，但是恐怕今后只能卧床，变成废人了，老王一家痛哭不止。¤I received the news and quickly rushed there, and used my internal energy to protect his heart and veins, but my own internal energy was not deep enough, and I had to travel a long distance to get to Dayan City。 The family cried。
+弟子<color=#78E2FF>{0}</color>收到消息后迅速赶了过去，并施展内功护住其心脉，但是自身的内功才学会不久，加之路途遥远，还没到大衍城，自己已经无法坚持，等送到大衍城时，大夫表示已经无力回天了，老王一家悲痛欲绝，称是我们害死了自家孩子。¤When I received the news, my disciple <color=#78E2FF>{0}</color> quickly rushed over and performed his internal energy to protect his heart, but he had only learned his own internal energy not long ago, and because of the long journey, he could not hold on to himself before he reached Dayan City。
+后山采药¤Back Mountain Medicine Picking
+山下药材铺老板表示急需几味药材来炼药，希望派遣一名懂一些<color=#FFB851>「身法」</color>的弟子前往后山的悬崖峭壁之处，将需要的草药采摘回来，事后必有重谢。¤The owner of the herb store at the bottom of the mountain said he urgently needed some herbs to make medicine, and wanted to send a disciple who knew <color=#FFB851>'Body Technique'</color> to the cliffs at the back of the mountain to pick the needed herbs, and he would be highly appreciated afterwards。
+弟子<color=#78E2FF>{0}</color>接到任务后，即刻前往了后山，果然在后山一些峭壁之上发现了与之描述相符的草药，随即施展身法穿梭于峭壁之间，回去之后，药材铺老板对我们非常满意，赠送了一些不错的药材给我们。¤Our disciple <color=#78E2FF>{0}</color> received the task and immediately went to the back of the mountain, and found some herbs that matched the description on the cliffs of the back of the mountain。
+弟子<color=#78E2FF>{0}</color>接到任务后，即刻前往了后山，在一番寻找之后，发现一些与之描述相符的草药，随即施展身法，虽然峭壁险峻，但也采到一些，药材铺老板表示满意，并支付了报酬。¤Disciple <color=#78E2FF>{0}</color> received the task and immediately went to the back of the mountain, and after some searching, found some herbs that matched the description, and then used his body technique, and although the cliffs were treacherous, he picked some, and the owner of the herb store was satisfied and paid。
+弟子<color=#78E2FF>{0}</color>接到任务后，即刻前往了后山，在一番寻找之后，觉得这些植物长相都差不多，而且峭壁险峻，自己随便采了些就拿回去复命了，但是药材铺老板表示这些并不是自己需要的药材，也没有支付报酬。¤Our disciple <color=#78E2FF>{0}</color> received the task and immediately went to the back of the mountain。 After some searching, he felt that the plants all looked similar and the cliffs were treacherous, so he picked some at random and took them back to his job, but the owner of the herb store said that these were not the herbs he needed and did not pay him。
+弟子<color=#78E2FF>{0}</color>接到任务后，即刻前往了后山，在一番寻找之后，觉得这些植物长相都差不多，而且峭壁险峻，自己一不小心还摔伤了自己，结果药材没采到，自己弄伤了自己。¤Our disciple <color=#78E2FF>{0}</color> received the task and immediately went to the back of the mountain。 After some searching, he felt that the plants all looked similar and the cliffs were treacherous, and he even hurt himself when he accidentally fell, as a result, the herbs were not picked and he hurt himself。
+比试剑法¤Competition of swordplay
+小镇上开了一家新武馆，到处宣传说传授的剑法比我们门派的还要厉害得多，最近门下弟子都在议论此事，最好派遣一名<color=#FFB851>「剑法」</color>修为不错的弟子前往教训一番，以彰显我派威名。¤A new martial arts school has opened in the town, advertising everywhere that the swordplay taught is much more powerful than that of our school。 Recently, the disciples under the school have been discussing this matter, and it would be best to send a disciple with good <color=#FFB851>'swordplay'</color> training to teach a lesson, in order to show the prestige of our school。
+弟子<color=#78E2FF>{0}</color>来到这家武馆后与其馆主直接摆下擂台，在交手过程中发现此人虽然有也一些剑法修为，但比自己还差了不少，应对起来游刃有余，仅仅数招就让对方就败下阵来，对方输得心服口服并表示今后不敢再胡言乱语。¤Our disciple <color=#78E2FF>{0}</color> came to the martial arts school and set up the ring directly with the owner。 In the course of the fight, he found that although this person had some swordsmanship skills, he was still much inferior to himself and was able to deal with the situation with ease。
+弟子<color=#78E2FF>{0}</color>来到这家武馆后与其馆主直接摆下擂台，在交手过程中发现此人虽然有也一些剑法修为，但自己还能应付，与对方大战数十回合，终于让对方败下阵来，对方不甘的表示自己技不如人，今后不会再吹嘘自家剑法。¤Our disciple <color=#78E2FF>{0}</color> came to this martial arts school and set up the ring directly with its owner。 In the course of the fight, he found that although this person had some sword skill, he could still handle it, and fought with the other party for dozens of rounds, finally defeating the other party, who reluctantly said he was inferior and would not brag about his sword skill in the future。
+弟子<color=#78E2FF>{0}</color>来到这家武馆后与其馆主直接摆下擂台，在交手过程中发现此人的剑法修为与自己在伯仲之间，与对方过了上百招也无法将对方击败，最后只能以平手收场，对方表示今后会稍微收敛，但是也让我们不要再去找事。¤Our disciple <color=#78E2FF>{0}</color> came to this martial arts school and set up the ring directly with its owner。 In the course of the fight, he found that this person's sword skill was between himself and his own, and he could not defeat the other party even after hundreds of moves with him, and finally he could only end up with a draw, and the other party said that he would be slightly restrained in the future, but also told us not to go looking for trouble again。
+弟子<color=#78E2FF>{0}</color>来到这家武馆后与其馆主直接摆下擂台，在交手过程中发现此人的剑法修为居然隐隐在自己之上，在交手数十招后就渐渐不敌，终于还是败下阵来，对方获胜后哈哈大笑，让我们的三脚猫功夫不要再去献丑。¤Our disciple <color=#78E2FF>{0}</color> came to this martial arts school and set up the ring directly with its owner。 In the course of the fight, he found that this person's sword skill was actually vaguely above his own, and after a few dozen moves, he was gradually defeated and finally lost。
+功夫表演¤Martial Arts Performance
+大衍城一富户家成亲，大摆宴席之余想请我们派遣数名会一些<color=#FFB851>「武技」</color>的弟子前往表演助兴，承诺打得好看的话，报酬一定丰厚。¤A rich family in Dayan City wanted to invite us to send some of our disciples who knew <color=#FFB851>'martial arts'</color> to perform for them, promising a good fight and a good pay。
+弟子<color=#78E2FF>{0}</color>等人在对方的喜宴之上纷纷表演自己的得意武学，并收起那些实战招式，故意将动作打得天花乱坠，让宾客们看得目瞪口呆，把婚宴气氛推向了最高潮，事后对方非常满意我们的表演，支付了非常丰厚的报酬。¤They put away the actual combat moves and deliberately made them look like they were in a dizzying state, bringing the wedding banquet to its climax。
+弟子<color=#78E2FF>{0}</color>等人在对方的喜宴之上纷纷表演自己的得意武学，同时实战与表演并用，在台上打得好不热闹，宾客们也叫好连连，给婚宴增光不少，事后对方也表示我们打得不错，并支付了报酬。¤Disciple <color=#78E2FF>{0}</color> and others have performed their best martial arts on top of the other party's wedding banquet, while using both actual combat and performance, fighting on stage with great enthusiasm, and the guests also shouted goodbye, adding a lot of light to the wedding banquet, and the other party also said afterwards that we had fought well and paid for it。
+弟子<color=#78E2FF>{0}</color>等人在对方的喜宴之上纷纷表演自己的得意武学，但是实战武技并不好看，弟子一边互相对练一边讲解，生生变成了一个功夫教学现场，宾客们哈欠连连兴味索然，现场气氛不增反降，婚宴结束后，对方表示我们打得一点都不好看，并且不会支付报酬。¤After the wedding banquet was over, the other party said we didn't fight well at all and wouldn't pay。 And will not pay。
+弟子<color=#78E2FF>{0}</color>等人在对方的喜宴之上纷纷表演自己的得意武学，但是弟子们只懂搏杀，哪里会什么表演，只能相互比试切磋，然而一名弟子还一不小心当场受伤，看得宾客惊吓连连，婚宴差点提前结束，事后对方非常不满，称在街上随便找个卖艺的都比咱们强。¤The wedding banquet almost ended prematurely, and the other party was very upset afterwards, saying that a random artist on the street was better than us。 The other party was very dissatisfied afterwards, saying that in the street to find a random art are better than us。
+试刀¤Blade Trial
+山下打铁铺老板称自己刚刚锻造出一把绝世好刀，希望我们派遣一名<color=#FFB851>「刀法」</color>修为不错的弟子前往试试他的得意之作并给与评价，他好拿到大衍城去卖出个大价钱。¤The owner of the iron store at the bottom of the mountain said he had just forged an excellent Blade and wanted us to send a disciple with good <color=#FFB851>'Blade skill'</color> to try out his masterpiece and evaluate it so that he could sell it for a big price in Dayan City。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把刀果然气势非凡，然后使用此刀将自己所学之刀法尽情施展，渐渐有人刀合一之感，加之内力催发，竟然有半尺来长刀芒萦绕其刀身之上，打铁铺老板在旁看得目瞪口呆，并豪爽的表示宝刀配英雄，将此刀赠与了我们。¤Our disciple <color=#78E2FF>{0}</color> received the task and quickly rushed to the iron store, and saw that the Blade was really powerful。 The owner of the iron shop looked on in amazement and proudly said that the sword was worthy of a hero, and gave this sword to us。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把刀果然气势非凡，然后用此刀施展出自己所学刀法，破风之声不绝于耳，果然畅快异常，对此刀赞不绝口，打铁铺老板非常高兴，支付了报酬后，就赶往大衍城卖刀去了。¤The owner of the iron store was so happy that he paid the money and then rushed to Dayan City to sell the Blade。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把刀果然气势非凡，但是入手后感觉略微沉重，在施展刀法时没出几招就额头出汗动作走样，打铁铺老板看着这情况，赶忙叫停，并表示我们的水平配不上他的宝刀。¤After receiving the task, Our disciple <color=#78E2FF>{0}</color> flew to the iron store and saw that the Blade was really powerful, but it felt slightly heavy in my hand, and when I was performing the Blade technique, my forehead was sweating and my movements were out of shape after a few moves, and when the iron store owner saw this, he hurriedly called for a stop and said that our level was not worthy of his sword。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把刀果然气势非凡，但是入手后沉重异常，只能勉强施展刀法，但还没使出几招，就一不小心，直接宝刀脱手，飞出数丈，掉入路边的臭水沟里，打铁铺老板气得嗷嗷大叫，把我们大骂一顿。¤Our disciples <color=#78E2FF>{0}</color> received the task and rushed to the iron store。 The sword was really impressive, but it was so heavy in my hand that I could only perform the sword technique barely, but before I could make a few moves, the sword came out of my hand and flew several feet into the roadside ditch。
+试剑¤Sword Trial
+山下打铁铺老板称自己刚刚锻造出一把绝世好剑，希望我们派遣一名<color=#FFB851>「剑法」</color>修为不错的弟子前往试试他的得意之作并给与评价，他好拿到大衍城去卖出个大价钱。¤The owner of the iron store at the bottom of the mountain said that he had just forged an excellent sword and wanted us to send a disciple with good <color=#FFB851>'Sword Technique'</color> training to try out his masterpiece and give an evaluation so that he could sell it for a big price in Dayan City。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把剑果然气势非凡，然后使用此剑将自己所学之剑法尽情施展，渐渐有人剑合一之感，加之内力催发，竟然有半尺来长剑芒萦绕其剑身之上，打铁铺老板在旁看得目瞪口呆，并豪爽的表示宝剑配英雄，将此剑赠与了我们。¤Our disciple <color=#78E2FF>{0}</color> received the task and quickly rushed to the iron store, and saw that the sword was really powerful。 The iron shop owner looked on in amazement and proudly said that the sword was worthy of a hero, and gave the sword to us。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把剑果然气势非凡，然后用此剑施展出自己所学剑法，破风之声不绝于耳，果然畅快异常，对此剑赞不绝口，打铁铺老板非常高兴，支付了报酬后，就赶往大衍城卖剑去了。¤After receiving the task, Our disciple <color=#78E2FF>{0}</color> flew to the iron store and saw that the sword was really powerful, and then used the sword to perform the sword technique he had learned。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把剑果然气势非凡，但是入手后感觉略微沉重，在施展剑法时没出几招就额头出汗动作走样，打铁铺老板看着这情况，赶忙叫停，并表示我们的水平配不上他的宝剑。¤After receiving the task, Our disciple <color=#78E2FF>{0}</color> flew to the iron store and saw that the sword was really powerful, but it felt slightly heavy in my hand, and when I was performing the sword technique, my forehead was sweating and my movements were out of shape after a few moves, and when the iron store owner saw this, he rushed to stop and said that we were not good enough for his sword。
+弟子<color=#78E2FF>{0}</color>接到任务后飞快赶到打铁铺，入眼的这把剑果然气势非凡，但是入手后沉重异常，只能勉强施展剑法，但还没使出几招，就一不小心，直接宝剑脱手，飞出数丈，掉入路边的臭水沟里，打铁铺老板气得嗷嗷大叫，把我们大骂一顿。¤Our disciples <color=#78E2FF>{0}</color> received the task and rushed to the iron store。 The sword was really impressive, but it was so heavy in my hand that I could barely perform the sword technique, but before I could make a few moves, I was careless and the sword came out of my hand and flew several feet into the roadside ditch。
+外围狩猎¤Outside hunting
+山下村子里张猎户想要去后山外围打猎，希望我们可以派遣一名身手<color=#FFB851>「灵敏」</color>的弟子随同，说保证会有大收获。¤Zhang, a hunter from the village down the hill, wanted to go hunting in the back of the mountain。 He hoped we could send a disciple with <color=#FFB851>'sharp hands'</color> to accompany him, saying he was guaranteed to get a big harvest。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山外围，紧紧跟随张猎户果然找到不少动物巢穴，同时配合各种诱捕手段，大大小小动物打了几十只，最后实在带不走了，才退出后山，张猎户高兴的将猎物分给我们一半后，下山去了。¤Disciple <color=#78E2FF>{0}</color> went into the periphery of the back mountain with the hunter Zhang, and followed him closely and found many animal nests, while cooperating with various trapping methods, hitting dozens of animals, large and small, and finally couldn't take them away anymore, before exiting the back mountain, where the hunter Zhang happily shared half of the prey with us and went down the mountain。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山外围，虽然张猎户动作非常灵敏，还好勉强跟上，大大小小动物也跟着打到不少，直到天色渐暗才退出后山，张猎户表示收获还行，分给我我们部分猎物后便下山去了。¤Disciple <color=#78E2FF>{0}</color> went into the periphery of the back mountain with Zhang hunter, although Zhang hunter movement is very sensitive, but fortunately barely keep up, large and small animals also followed to hit a lot, until the darkness of the day before exiting the back mountain, Zhang hunter said the harvest is not bad, divided to me we part of the prey and then went down the mountain。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山外围，然而张猎户在林中穿梭快如猿猴，一两段路后，我们弟子就被甩开一大截，最后虽然也打到一些猎物，但是收获还是太少，被张猎户抱怨我们动作太慢，动物早跑没影了，啥也没给就走掉了。¤Our disciples <color=#78E2FF>{0}</color> entered the periphery of the back of the mountain with the hunter, but the hunter was as fast as an ape in the forest, and after one or two sections of the road, our disciples were left behind, and in the end, although we did get some prey, the harvest was still too small, and the hunter complained that we were too slow, and the animals had run away。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山外围，然而张猎户在林中穿梭快如猿猴，很快我们弟子就完全找不到张猎户的身影了，无奈不敢再继续前进，只能退了回去，最后张猎户回来时满身伤痕累累，上前询问，张猎户却只说了一个滚字，便一瘸一拐的下山了。¤Our disciples <color=#78E2FF>{0}</color> entered the back of the mountain periphery with Zhang hunter, however, Zhang hunter in the forest shuttle as fast as an ape, soon we disciples can not find Zhang hunter's figure at all, helpless to continue to move forward, can only retreat back, finally Zhang hunter came back full of bruises, go up to ask, but Zhang hunter only said a word roll, then limping down the mountain。
+发现矿坑¤Found a mine pit
+后山外围发现了一处矿坑，想必其内部有不少矿藏，派遣一些<color=#FFB851>「力量」</color>较大的弟子前去开采的话，打造各式兵刃的矿石应该能获得不少。¤A mine was found on the outskirts of the back mountain, and there must be a lot of ore inside it。 If you send some <color=#FFB851>'Strength'</color> disciples to mine it, you should be able to get a lot of ore to make various blades。
+弟子<color=#78E2FF>{0}</color>等人在后山外围的矿坑处开采数月，果然发现矿藏非常丰富，但大家都力大无穷，各种开山凿石不在话下，在齐心协力之下收获了大量矿石。¤Disciple <color=#78E2FF>{0}</color> and the others mined for several months in the pits on the outskirts of the back of the mountain and found a very rich deposit, but everyone was so strong that they were able to cut through the rocks and harvested a lot of ore with their concerted efforts。
+弟子<color=#78E2FF>{0}</color>等人在后山外围的矿坑处开采数月，果然发现矿藏非常丰富，好在大家都有一把子力气，开山凿石虽然辛苦，但在数月的努力下也收获颇丰。¤Disciple <color=#78E2FF>{0}</color> and the others mined for several months at the outer pits in the back of the mountain and found that the ore deposits were very rich, but we all had a lot of strength, and although it was hard to cut the rocks, we harvested a lot of ore after several months of hard work。
+弟子<color=#78E2FF>{0}</color>等人在后山外围的矿坑处开采数月，果然发现矿藏非常丰富，大家虽然力气不小，但开采经验不足，时不时都会造成小范围的坍塌，再继续下去恐怕会出事故，所以只能先终止开采了。¤The mine was found to be very rich, and although we were all very strong, we were not experienced enough to mine it, and from time to time it would cause small-scale collapses, so if we continued, we were afraid there would be accidents, so we had to stop mining。
+弟子<color=#78E2FF>{0}</color>等人在后山外围的矿坑处开采数月，果然发现矿藏非常丰富，大家虽然力气不小，但开采经验不足，在一日因为胡乱凿石造成了矿洞坍塌，大家差点当场丧命，只能狼狈的回到了门派中。¤Our disciples <color=#78E2FF>{0}</color> and others had been mining for months in the pits on the outskirts of the back of the mountain and found that the deposits were very rich。 Although they were strong, they were inexperienced in mining and one day the cave collapsed because they were chiseling stones indiscriminately, almost killing them on the spot。
+门派各个建筑的升级维护都需要不少木料才行，平时应该多多积累，我们可以派遣一些<color=#FFB851>「力量」</color>不错的弟子前往后山外围砍伐一些回来放在仓库，已备不时之需。¤We can send a disciple with good <color=#FFB851>'Strength'</color> to the back of the mountain to cut some wood and put it in the warehouse for emergency use。
+弟子<color=#78E2FF>{0}</color>等人在后山外围开始砍伐树木，山林中树木都非常茂密，但大家力气都不小，在齐心协力之下砍伐了大量木料运回了门派之中。¤Disciple <color=#78E2FF>{0}</color> and the others started to cut down the trees on the outskirts of the back of the mountain。 The trees were very dense, but everyone was strong enough to cut down a lot of wood and bring it back to the sect。
+弟子<color=#78E2FF>{0}</color>等人在后山外围开始砍伐树木，山林中树木都非常茂密，好在大家都有一把子力气，在齐心协力之下砍伐了不少木料运回了门派之中。¤Disciple <color=#78E2FF>{0}</color> and others started to cut down the trees at the periphery of the back mountain。
+弟子<color=#78E2FF>{0}</color>等人在后山外围开始砍伐树木，山林中树木都非常茂密，但是不知道应该砍伐哪种，只好随便选了一颗，但是送回来后去发现这种木料只能当柴烧。¤The trees were very dense in the forest, but they didn't know which kind to cut, so they chose one at random, but when they returned, they found that the wood could only be burned for firewood。
+弟子<color=#78E2FF>{0}</color>等人在后山外围开始砍伐树木，山林中树木都非常茂密，但大家都对伐木没什么经验，不仅砍伐的树木不对，而且还有弟子不慎受伤，白白浪费了时间。¤Our disciples <color=#78E2FF>{0}</color> and others started to cut down trees at the periphery of the back mountain。 The trees in the mountain forest were all very dense, but everyone had little experience in logging, so not only did they cut down the wrong trees, but some disciples were accidentally injured and wasted their time。
+抢收粮食¤Harvesting grain
+山下村民播种的粮食收成不错，村中人手无法收割如此多的粮食，希望我们可以派遣一些身手<color=#FFB851>「灵敏」</color>的弟子前往协助抢收粮食。¤The villagers at the bottom of the mountain sowed a good harvest of grain, and the village manpower could not harvest so much grain。 We hope we can send some disciples who are <color=#FFB851>'sensitive'</color> to help harvest the grain。
+弟子<color=#78E2FF>{0}</color>等人下山帮助村民收获粮食，我们弟子个个体力充沛，身手矫健，一个人顶三个人的活，村民们见了都连声夸赞，在我们的帮助下，很快便将粮食都归入仓中，事后村子给我派送来了几大车粮食做为酬谢。¤The villagers praised us for our help, and soon the grain was put into the barn。
+弟子<color=#78E2FF>{0}</color>等人下山帮助村民收获粮食，我们弟子个个体力充沛，身手矫健，收割速度飞快，在我们的帮助下，很快便将粮食都归入仓中，村民非常高兴，送给我们不少粮食做为酬谢。¤The villagers were very happy and gave us a lot of grain as a reward。
+弟子<color=#78E2FF>{0}</color>等人下山帮助村民收获粮食，我们弟子虽然身手矫健，但是都不太会干农活，收割速度也不快，后来更是遇到阴雨天气，导致一些没能收上来的粮食只能烂在地里，村民都不太高兴。¤The villagers were so happy that they gave us a lot of grain as a reward。 The disciples <color=#78E2FF>{0}</color> and others went down to help the villagers harvest the grain。
+弟子<color=#78E2FF>{0}</color>等人下山帮助村民收获粮食，我们弟子虽然身手矫健，但是都不会干农活，比一般村民动作都要慢，后来更是接连遇到阴雨天气，导致大量的粮食只能烂在地里，村民非常生气，说我们一点用的没有。¤The villagers were very angry and said that we were not useful at all。
+建设门派¤Building sects
+门派各个建筑的升级维护都需要不少木料才行，平时应该多多积累，我们可以派遣一些<color=#FFB851>「力量」</color>不错的弟子前往后山深处多多砍伐一些回来放在仓库，已备不时之需。¤We can send some disciples with good <color=#FFB851>'strength'</color> to the back of the mountain to cut down more wood and put it in the warehouse for emergency use。
+弟子<color=#78E2FF>{0}</color>等人在后山深处开始砍伐树木，山林中树木都非常茂密，但大家力气都不小，在齐心协力之下砍伐了大量木料运回了门派之中。¤Disciple <color=#78E2FF>{0}</color> and the others started to cut down trees deep in the back of the mountain。 The trees were very dense, but everyone was strong enough to cut down a lot of wood and bring it back to the sect。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿坑处开采数月，山林中树木都非常茂密，好在大家都有一把子力气，在齐心协力之下砍伐了不少木料运回了门派之中。¤Disciple <color=#78E2FF>{0}</color> and others have been mining in the pits deep in the back of the mountain for several months, and the trees in the mountains and forests are very dense。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿坑处开采数月，山林中树木都非常茂密，但是不知道应该砍伐哪种，只好随便选了一颗，但是送回来后去发现这种木料只能当柴烧。¤Disciple <color=#78E2FF>{0}</color> and others have been mining in the back of the mountain for months, and the trees in the forest are very dense, but they don't know which ones to cut down, so they chose one at random, but sent it back to find that this wood can only be used for firewood。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿坑处开采数月，山林中树木都非常茂密，但大家都对伐木没什么经验，不仅砍伐的树木不对，而且还有弟子不慎受伤，白白浪费了时间。¤Our disciples <color=#78E2FF>{0}</color> and others have been mining at the mine pit deep in the back of the mountain for several months。 The trees in the mountain forest are all very dense, but everyone has little experience in logging, so not only are they cutting the wrong trees, but some disciples are accidentally injured, wasting their time。
+深处狩猎¤Hunting in the deep
+山下村子里张猎户想要去后山深处打猎，希望我们可以派遣一名身手<color=#FFB851>「灵敏」</color>的弟子随同，说保证会有大收获。¤Zhang, a hunter in the village down the hill, wanted to go hunting deep in the back of the mountain and hoped we could send a disciple with <color=#FFB851>'sharp hands'</color> along, saying he was guaranteed a big catch。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山深处，紧紧跟随张猎户果然找到不少动物巢穴，同时配合各种诱捕手段，大大小小动物打了几十只，最后实在带不走了，才退出后山，张猎户高兴的将猎物分给我们一半后，下山去了。¤Disciple <color=#78E2FF>{0}</color> went deep into the back of the mountain with Hunter Zhang, and followed him closely and found many animal nests, while working with various trapping methods, and hit dozens of animals, large and small, and finally couldn't take them away anymore, before exiting the back of the mountain。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山深处，虽然张猎户动作非常灵敏，还好勉强跟上，大大小小动物也跟着打到不少，直到天色渐暗才退出后山，张猎户表示收获还行，分给我我们部分猎物后便下山去了。¤Disciple <color=#78E2FF>{0}</color> went into the depths of the back mountain with Zhang hunter, although Zhang hunter movement is very sensitive, but fortunately barely keep up, large and small animals also followed to hit a lot, until the darkness of the day before exiting the back mountain, Zhang hunter said the harvest is not bad, divided to me we part of the prey and then went down the mountain。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山深处，然而张猎户在林中穿梭快如猿猴，一两段路后，我们弟子就被甩开一大截，最后虽然也打到一些猎物，但是收获还是太少，被张猎户抱怨我们动作太慢，动物早跑没影了，啥也没给就走掉了。¤Our disciples <color=#78E2FF>{0}</color> went deeper into the back of the mountain with Zhang, but Zhang was as fast as an ape in the forest, and after one or two sections of the road, we disciples were left behind, and in the end we got some prey, but the harvest was still too small, and Zhang complained that we were too slow, and the animals had run away。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山深处，然而张猎户在林中穿梭快如猿猴，很快我们弟子就完全找不到张猎户的身影了，无奈不敢再继续前进，只能退了回去，最后张猎户回来时满身伤痕累累，上前询问，张猎户却只说了一个滚字，便一瘸一拐的下山了。¤Our disciples <color=#78E2FF>{0}</color> went deep into the back of the mountain with the hunter, but the hunter was as fast as an ape in the forest, and soon we disciples could not find the figure of the hunter at all, so we had no choice but to retreat back。 limping down the mountain。
+发现矿洞¤Mine cave found
+后山深处发现了一处矿洞，想必其内部有不少矿藏，派遣一些<color=#FFB851>「力量」</color>较大的弟子前去开采的话，打造各式兵刃的矿石应该能获得不少。¤A cave was found deep in the back of the mountain, and there must be a lot of ore inside it。 If you send some <color=#FFB851>'Strong'</color> disciples to mine it, you should be able to get a lot of ore for making various kinds of blades。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿洞中开采数月，果然发现矿藏非常丰富，但大家都力大无穷，各种开山凿石不在话下，在齐心协力之下收获了大量矿石。¤Disciple <color=#78E2FF>{0}</color> and the others mined the cave deep in the back of the mountain for several months and found a very rich deposit of ore, but everyone was so strong that they were able to cut through the rocks and harvested a lot of ore by working together。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿洞中开采数月，果然发现矿藏非常丰富，好在大家都有一把子力气，开山凿石虽然辛苦，但在数月的努力下也收获颇丰。¤Disciple <color=#78E2FF>{0}</color> and the others mined the cave deep in the back of the mountain for several months and found that the ore was very rich, but we all had a lot of strength, and although it was hard to cut the rocks, we harvested a lot of ore after several months of hard work。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿洞中开采数月，果然发现矿藏非常丰富，大家虽然力气不小，但开采经验不足，时不时都会造成小范围的坍塌，再继续下去恐怕会出事故，所以只能先终止开采了。¤Disciple <color=#78E2FF>{0}</color> and others have been mining in the cave deep in the back of the mountain for several months, and have found that the mineral deposits are very rich。
+弟子<color=#78E2FF>{0}</color>等人在后山深处的矿洞中开采数月，果然发现矿藏非常丰富，大家虽然力气不小，但开采经验不足，在一日因为胡乱凿石造成了矿洞坍塌，大家差点当场丧命，只能狼狈的回到了门派中。¤Our disciples <color=#78E2FF>{0}</color> and others had been mining in the cave deep in the back of the mountain for several months, and found that the mine was very rich, but although they were strong, they were inexperienced in mining, and one day the cave collapsed because they were chiseling stones indiscriminately, and they almost died on the spot, so they returned to the sect in a mess。
+流寇作乱¤Roving bandits
+世道纷乱，经常都有流寇四处为祸，最近山下村子就来了一群流寇，隔三差五就来抢夺一番，百姓不堪其扰，请求我们派遣数名有一定<color=#FFB851>「武技」</color>修为的弟子，将其赶走。¤Recently, a group of bandits came to the village below the mountain and came to rob the village every now and then。 The people were overwhelmed by the disturbance and asked us to send several disciples with certain <color=#FFB851>'martial arts'</color>cultivation to drive them away。
+弟子<color=#78E2FF>{0}</color>等人接到任务后，直接乔装为普通百姓住在村中，果然没过多久，这群流寇再度出现，对方虽然人多，但始终都是乌合之众，比不了我们平时训练有素，迅速出手打得对方措手不及，大多被当场击杀，剩下几人被当场擒获，村民都拍手称快。¤After receiving the task, the disciples <color=#78E2FF>{0}</color> and others disguised themselves as ordinary people and stayed in the village。 The villagers clapped their hands and applauded。
+弟子<color=#78E2FF>{0}</color>等人接到任务后，穿戴好各自装备来到村中，果然没过多久，这群流寇再度出现，在发现我们后虽然有所警惕，但大战起来始终比不上我们身手了得，被打得落荒而逃，想必再也不敢出现在此处，村民们都表示感谢。¤The villagers all applauded。 After receiving the mission, the disciples <color=#78E2FF>{0}</color> and others put on their equipment and went to the village。
+弟子<color=#78E2FF>{0}</color>等人接到任务后，穿戴好各自装备来到村中，果然没过多久，这群流寇再度出现，不料对方人数众多，我们拼死抵抗，对方没能抢走多少物资便退走，村民看到我们人人带伤，也不好再说什么。¤The villagers saw that we were all wounded and could not say anything else。
+弟子<color=#78E2FF>{0}</color>等人接到任务后，穿戴好各自装备来到村中，果然没过多久，这群流寇再度出现，对方不仅都是些亡命之徒而且还人数众多，我们也抵挡不了，只能退去，对方见这次居然有人反抗，反而激起了凶性，比以往抢夺更加凶残，村民损失惨重。¤The villagers saw that all of us were wounded, so they couldn't say anything more。 After the disciples <color=#78E2FF>{0}</color> and others received the task, they put on their equipment and came to the village。 The villagers lost a lot of money。
+护送商队¤Escorting merchants
+有一只商队来到我派寻求帮助，称一路遇上好几波匪徒袭击，护卫们人人带伤，但时间紧迫无法耽搁，请求我们派遣数名有一定<color=#FFB851>「武技」</color>修为的弟子，协助押镖前往大衍城，事后必当重谢。¤A merchant team came to our school seeking help, saying that they had encountered several waves of bandits along the way, and all the guards were wounded, but they couldn't delay because of the time constraint。
+弟子<color=#78E2FF>{0}</color>等人准备好各自行囊物资陪同商队上路，众弟子都是门中好手，一路有惊无险，轻松击退山贼匪徒，还顺带教了护卫们几手功夫，成功护送商队进入了大衍城后对方表示非常感激，并将数件价值不低的货物赠与了我们。¤They were all good fighters in the school, and they easily fought off the bandits, and also taught the guards a few Martial Arts skills。
+弟子<color=#78E2FF>{0}</color>等人准备好各自行囊物资陪同商队上路，沿路虽然遇到几波匪徒，但在众弟子的协助下并未造成损失，在商队进入大衍城后，对方表示感谢并支付了报酬。¤Disciple <color=#78E2FF>{0}</color> and others prepared their bags and supplies to accompany the caravan on the road。 Although we encountered several waves of bandits along the way, they did not cause any damage with the help of the disciples, and after the caravan entered Dayan City, the other side expressed their gratitude and paid the reward。
+弟子<color=#78E2FF>{0}</color>等人准备好各自行囊物资陪同商队上路，但没想到附近匪徒如此之多，即便我们尽力护卫，也只能减少一点损失而已，商队进入大衍城后，货物都已经所剩无几，对方生气的表示我们的存在可有可无，不愿支付报酬。¤Disciple <color=#78E2FF>{0}</color> and others prepared their bags and supplies to accompany the caravan on the road, but we did not expect that there would be so many bandits in the vicinity, and even though we tried our best to escort them, we could only reduce our losses a little。
+弟子<color=#78E2FF>{0}</color>等人准备好各自行囊物资陪同商队上路，但没想到附近匪徒如此之多，没过多久也全部负伤，商队护卫更是死伤惨重，最后还没到大衍城，货物已经被抢劫一空，对方痛哭大骂要我们赔偿损失。¤Disciple <color=#78E2FF>{0}</color> and others prepared their own bags of supplies to accompany the caravan on the road, but did not expect so many bandits nearby, and it did not take long for all of them to be wounded, and the caravan guards were even more dead and injured, and finally before we reached Dayan City, the goods had already been robbed, and the other side cried out for us to compensate for the loss。
+看家护院¤Watchdog
+大衍城的赵员外多年前在外地做生意得罪了一些人，前些日子被人打上门，家中护院都被打成重伤，希望我们能出手相助，派遣数名<color=#FFB851>「武技」</color>不凡的弟子来保护自己，最好能将其仇家赶走。¤The Zhao official of Dayan City had offended some people doing business abroad many years ago, and was beaten at his door the other day, and his family's guards were all badly injured。 He hoped we could help by sending several disciples with <color=#FFB851>'martial arts'</color>unusual skills to protect himself, and preferably to drive his enemies away。
+弟子<color=#78E2FF>{0}</color>等人来到赵员外家后，随时贴身护卫，有一日那些仇家又找上了门，我们并未与之多费口舌，直接以雷霆之势将为首之人斩杀当场，其余之人被吓破了胆，马上便一哄而散，赵员外非常感谢我等相助，支付了非常丰厚报酬给我们。¤One day those enemies came to the door again, and we didn't bother much with them, we just killed the leader with a thunderbolt, and the rest of them were scared out of their wits and immediately dispersed, and Mr。 Zhao was very grateful for our help and paid us very generously。
+弟子<color=#78E2FF>{0}</color>等人来到赵员外家后，随时贴身护卫，有一日那些仇家又找上了门，我等上前与之交涉未果，对手想出手偷袭，但是我们身手也是相当了得，几番交手后对方反而数人受伤，想必以后是不敢再来了，赵员外对我们表示感谢并支付了报酬。¤One day those enemies came to the door again, we went up to negotiate with them unsuccessfully, and the opponents tried to attack us, but we were also very good, and after a few fights, several of them were injured。 The reward was paid。
+弟子<color=#78E2FF>{0}</color>等人来到赵员外家后，随时贴身护卫，有一日那些仇家又找上了门，我等上前与之交涉未果，对手突然出手偷袭，我等被打个措手不及，几番交手后，我们也没占到便宜，对方离开时表示还会再来，赵员外哭丧着脸表示要另请高手，把我们赶了出来。¤One day those enemies came to the door again, and we went up to negotiate with them without success, but our opponents suddenly attacked us, and we were taken by surprise, and after a few fights, we did not take advantage of them。 We were driven out。
+弟子<color=#78E2FF>{0}</color>等人来到赵员外家后，随时贴身护卫，有一日那些仇家又找上了门，我等上前与之交涉未果，对手突然出手偷袭，我等被打个措手不及，几名弟子纷纷受伤倒地不起，赵员外也被吓得脸色苍白，还好衙役赶到才保住性命，事后弟子们都灰溜溜的回到了门派。¤One day those enemies came to the door again, we went up to negotiate with them without success, the opponent suddenly attacked, we were taken by surprise, several disciples were injured and fell to the ground, Zhao was also scared and pale, but the magistrate arrived to save his life, afterwards the disciples After the incident, the disciples returned to the sect in the dust。
+力量挑战¤Strength challenge
+最近大衍城来正在举行一场力量比试，有一只巨大的铜鼎立与擂台之上，数月下来无人能撼动分毫，我派如果有<color=#FFB851>「力量」</color>了得的弟子，可派往挑战，如能举起，必能彰显我派威名。¤Recently, a power competition is being held in Dayan City。 There is a huge bronze tripod standing on top of the ring, and no one has been able to shake it for months。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，果然广场的擂台中央摆着一只巨大的铜鼎，自己天生巨力加之常年习武，此种重物早已不在话下，径直走向铜鼎同时气沉丹田，单手爪在鼎耳之上，一声爆喝，擂台地板碎裂同时仅用一只手便将铜鼎举过头顶，至此之后我派声名大振。¤When Our disciple <color=#78E2FF>{0}</color> arrived at Dayan City, there was a huge bronze censer in the center of the ring in the square。 After that, the reputation of our school was greatly enhanced。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，果然广场的擂台中央摆着一只巨大的铜鼎，自己天生巨力，此鼎应当问题不大，径直走向铜鼎同时气沉丹田，双手爪在鼎耳之上，一声爆喝，缓缓将铜鼎举过头顶，此事之后我派威名提升不少。¤After Our disciple <color=#78E2FF>{0}</color> came to Dayan City, there was a huge bronze tripod in the center of the ring in the square, and since I was born with great strength, this tripod should not be a problem。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，果然广场的擂台中央摆着一只巨大的铜鼎，自己虽然天生巨力，但如此巨大的重物，不知能否成功，此时来到铜鼎旁气沉丹田，双手爪在鼎耳之上，一声爆喝，铜鼎缓缓被抬起一半后便无法再动分毫，挑战失败了。¤Our disciple <color=#78E2FF>{0}</color> came to Dayan City and found a huge copper tripod in the center of the ring in the square。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，果然广场的擂台中央摆着一只巨大的铜鼎，自己虽然天生巨力，但如此巨大的重物，心中实在没底，此时来到铜鼎旁气沉丹田，双手爪在鼎耳之上，一声爆喝，然而铜鼎却纹丝不动，惹得围观百姓一阵大笑。¤Our disciple <color=#78E2FF>{0}</color> came to Dayan City and found a huge bronze tripod in the center of the ring in the square。
+捉拿逃犯¤Catching fugitives
+最近大衍城贴出告示，大牢之中一名死刑犯偷偷出逃，但城门守卫森严，想必并未逃出城去，现在已经贴出告示，谁能缉拿逃犯便能获得朝廷重赏，我们可以派出一名<color=#FFB851>「洞察与武技」</color>兼备的弟子前往捉拿逃犯，以获赏赐。¤A notice was recently posted in Dayan City that a condemned prisoner had escaped secretly, but the gates were heavily guarded, so he must not have escaped from the city。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，便开始调查此事详情，凭借自己出色的洞察能力，很快便发现一些蛛丝马迹，再慢慢潜伏其中，并乘其不备出手，与之不过三五招便拿下，交于官府之后，获得了丰厚的赏赐，门派声望也提升不少。¤Once Our disciple <color=#78E2FF>{0}</color> arrived at Dayan City, he began to investigate the details of the matter。 With his excellent insight, he soon found some clues, and then slowly lurked among them, and took advantage of their unpreparedness to take them down in just three or five moves。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，便开始调查此事详情，花费了不少功夫，终于在月余之后发现逃犯踪迹，并迅速出手，对方虽然有所防备，但我方身手了得，交手数招就被制服，交于官府之后，获得了丰厚的赏赐。¤Our disciple <color=#78E2FF>{0}</color> came to Dayan City and began to investigate the details of the matter。 After a lot of work, he finally found the fugitive after a month or so and quickly attacked him。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，便开始调查此事详情，花费了不少功夫，终于在月余之后发现逃犯踪迹，但对方警惕异常，刚刚动手，对方便抓住一名百姓做要挟，无奈之下只能放对方逃走，至此之后就再也没能发现其影踪，只能回到门派复命了。¤After arriving at Dayan City, I began to investigate the details of this matter, and after much effort, I finally found traces of the fugitive after more than a month, but the other side was alert and just before they made their move, they grabbed a citizen as blackmail, and had no choice but to let them escape。
+弟子<color=#78E2FF>{0}</color>来到大衍城后，便开始调查此事详情，花费了不少功夫，终于在月余之后发现逃犯踪迹，但对方警惕异常，居然被对方察觉，对方主动杀伤数名百姓引起混乱，并乘乱消失在人群之中，至此之后就再也没能发现其影踪，只能回到门派复命了。¤Our disciple <color=#78E2FF>{0}</color> came to Dayan City, then began to investigate the details of the matter, and spent a lot of effort, finally found the fugitive traces after more than a month, but the other party is unusually vigilant, actually by the other party to detect, the other party took the initiative to kill several people to cause confusion, and took advantage of the chaos and disappeared in the crowd, after that it was never found its trace, can only return to the sect The only way to return to the sect。
+惩治山贼¤Punish the mountain bandits
+最近不知哪冒出一帮山贼，没跟我们打招呼，就在旁边山头上立了一座山寨，跟我们做起了邻居，这明显不把我们放在眼里，我们是不是派一些<color=#FFB851>「武技」</color>不错的弟子，前去称称他们的斤两？¤Recently, a group of mountain bandits appeared from nowhere, without greeting us, they set up a fortress on the next mountain and became our neighbors。
+弟子<color=#78E2FF>{0}</color>等人很快便找到了这座山寨，果然对方完全不把我派当回事，我们弟子都是门中好手，各自使出看家本领，这群乌合之众哪是对手，砍瓜切菜一般全部打翻在地，对方立马跪下并献上了寨子里的物资，央求我们给条活路。¤We were able to find the fortress, and they didn't take our school seriously at all。
+弟子<color=#78E2FF>{0}</color>等人很快便找到了这座山寨，果然对方完全不把我派当回事，我们弟子都是门中好手，各自使出看家本领，对方虽然偶尔有一两个能打的，但大多都是乌合之众，稍费手脚便全部打翻在地，对方只能并献上了寨子里的物资，请求我们原谅。¤Our disciples <color=#78E2FF>{0}</color> and others soon found the fortress, and indeed, the other side did not take our school seriously at all, and our disciples were all good fighters, each using their own skills。 forgiveness。
+弟子<color=#78E2FF>{0}</color>等人很快便找到了这座山寨，果然对方完全不把我派当回事，我们弟子都是门中好手，各自使出看家本领，然而对方虽然武艺比如我等，但仗着人多，居然能跟我们打得有来有回，眼见讨不到好处，我们只能放了几句狠话便离开了。¤Our disciples <color=#78E2FF>{0}</color> and others soon found the fortress, and it was true that the other side did not take our school seriously at all。
+弟子<color=#78E2FF>{0}</color>等人很快便找到了这座山寨，果然对方完全不把我派当回事，我们弟子都是门中好手，各自使出看家本领，然而对方狡诈异常，不跟我们硬拼，却在一旁使出各种暗器毒箭，让我们多名弟子受伤，无奈只能暂时退去。¤The other side was so cunning that they didn't fight us hard, but they used various concealed weapons and poisoned arrows to injure many of our disciples, so they had no choice but to retreat temporarily。
+飞贼¤Flying Thieves
+最近大衍城出现一名胆大包天的飞贼，光天化日就敢冲入商铺之中抢劫，然后迅速逃离，此人轻功了得，出手数次都无人能将其抓获，如果有<color=#FFB851>「身法」</color>了得的弟子，可派往一试，如能抓获，我派必能名声大噪。¤Recently, a daring flying thief appeared in Dayan City。 He dared to enter the store and rob it in broad daylight, and then fled quickly。
+弟子<color=#78E2FF>{0}</color>被派遣到大衍城后，随时注意城里各大商铺动静，果然短短数日之后从一处商铺之中冲出一道身影，然而自己身法造诣也是极高，很快就追上对方，并在下个路口直接堵住对方去路，对方知道碰到高手，只能束手就擒，此事让我门派威名大振。¤After being sent to Dayan City, my disciple <color=#78E2FF>{0}</color> kept an eye on all the stores in the city, and a few days later, a figure rushed out from one of the stores。 This incident made our sect's reputation grow。
+弟子<color=#78E2FF>{0}</color>被派遣到大衍城后，随时注意城里各大商铺动静，果然短短数日之后从一处商铺之中冲出一道身影，然而自己身法造诣也是不俗，迅速便跟了上去，对方显然没想到有人能跟上自己，一时分神就被我们迅速追上并抓获，我派威名因此提升不少。¤After my disciple <color=#78E2FF>{0}</color> was dispatched to Dayan City, I kept an eye on the movement of the stores in the city, and a few days later a figure rushed out from one of the stores。 The reputation of our school has been enhanced。
+弟子<color=#78E2FF>{0}</color>被派遣到大衍城后，随时注意城里各大商铺动静，果然短短数日之后从一处商铺之中冲出一道身影，然而我们也凭身法迅速追赶，但是距离始终无法拉近，在追出几条街后，对方失去了踪迹。¤After the disciples <color=#78E2FF>{0}</color> were dispatched to Dayan City, they kept an eye on the movement of the stores in the city, and indeed a few days later a figure rushed out from one of the stores。
+弟子<color=#78E2FF>{0}</color>被派遣到大衍城后，随时注意城里各大商铺动静，果然短短数日之后从一处商铺之中冲出一道身影，其身法之高超把我们也吓了一跳，匆忙想要追赶，还一不小心撞倒数名行人，弄得一地鸡毛，人没抓到不说还被满街人看了笑话了。¤After the disciples <color=#78E2FF>{0}</color> were dispatched to Dayan City, they kept an eye on the movement of the stores in the city, and indeed, a few days later a figure rushed out from one of the stores, and we were startled by the skill of its body。
+禁地狩猎¤Forbidden hunting
+山下村子里张猎户想要去后山禁地打猎，希望我们可以派遣一名<color=#FFB851>「武技与灵敏」</color>兼备的弟子随同，说保证会有大收获。¤The hunter in the village down the hill wanted to go hunting in the back of the mountain, and wanted us to send a disciple with <color=#FFB851>'martial arts and agility'</color> to accompany him, saying he was guaranteed to get a big harvest。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山禁地，禁地之中的野兽虽然凶猛，但是我们弟子身手了得，同时配合张猎户设下的各种诱捕手段，大大小小动物打了几十只，最后实在带不走了，才退出后山，张猎户高兴的将猎物分给我们一半后，下山去了。¤The beasts in the forbidden area were fierce, but our disciples were very skilled, and with the various traps set up by the hunter, we were able to hunt dozens of animals, large and small, and only when we couldn't take them away did we exit the mountain。 。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山禁地，禁地之中的野兽果然非常凶猛，还好我们弟子身手了得，多次化险为夷，加上张猎户经验也很丰富，收获还算不错，最后分给我我们部分猎物后便下山去了。¤The beasts in the forbidden area were indeed very fierce, but fortunately our disciples were very skilled and turned many dangers into razors, and Zhang was also very experienced, so the harvest was not bad, and finally gave us some of the prey and then went down the mountain。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山禁地，然而禁地之中的野兽非常凶猛，即便我们弟子身手了得，也只是堪堪自保，张猎户也是忙活半天，最后啥也没打到，眼见天色已晚，无奈只能下山离去。¤The beasts in the forbidden area were so fierce that even though our disciples were very skilled, they were only able to defend themselves, and the hunter also worked hard for half a day, but in the end he didn't get anything。
+弟子<color=#78E2FF>{0}</color>跟张猎户一起进入了后山禁地，然而禁地之中的野兽异常凶猛，进来半天，不仅猎物没打到，自己还多处受伤，张猎户也是疲于应付，最后一不还小心引出一只参天巨蟒，二人吓得落荒而逃，下山后张猎户还一直责怪我们都是些酒囊饭袋。¤Our disciple <color=#78E2FF>{0}</color> entered the forbidden area in the back of the mountain together with the hunter, however, the beasts in the forbidden area are extremely fierce, and came in for half a day, not only did we not get any prey, but we were also injured in many places, and the hunter was also tired of dealing with it。 The two of us were scared and fled。
+发现矿山¤Discovered mine
+后山禁地发现了一处矿山，想必其内部有不少矿藏，派遣一些<color=#FFB851>「力量与洞察」</color>都不错的弟子前去开采的话，打造各式兵刃的矿石应该能获得不少。¤A mine was found in the forbidden area in the back of the mountain, and there must be a lot of ore inside it。 If you send some disciples with good <color=#FFB851>Strength and Insight</color> to mine it, you should be able to get a lot of ore to make various kinds of blades。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿山中开采数月，果然发现矿藏非常丰富，大家一边开凿山石，一边分辨各种矿产，终于在齐心协力之下收获了大量珍贵矿石。¤Disciple <color=#78E2FF>{0}</color> and the others mined the mines in the back of the mountain for several months, and found that there were rich deposits of ore。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿山中开采数月，果然发现矿藏非常丰富，好在大家都有经验，在数月的努力之下开凿出不少各种珍贵矿产。¤Disciple <color=#78E2FF>{0}</color> and others mined the mines in the forbidden area in the back of the mountain for several months, and indeed found very rich mineral deposits。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿山中开采数月，果然发现矿藏非常丰富，但矿山异常险峻，不仅偶有崩塌，珍贵的矿石还很难辨认，最后送回来的矿石质量都太差无法使用。¤Disciple <color=#78E2FF>{0}</color> and others mined in the mines in the back mountain forbidden area for several months, and indeed found very rich deposits, but the mines were exceptionally treacherous, not only did they occasionally collapse, but the precious ores were also difficult to identify, and the ores sent back in the end were all too poor in quality to be used。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿山中开采数月，果然发现矿藏非常丰富，但珍贵的矿石却生在异常险峻之处，我们想要开采，但是一不小心造成了山体崩塌，多名弟子身受重伤而归。¤Disciples <color=#78E2FF>{0}</color> and others mined the mines in the forbidden area in the back of the mountain for several months, and found that the deposits were very rich, but the precious ores were born in unusually precipitous places, and we tried to mine them, but one accident caused the mountain to collapse, and many disciples returned with serious injuries。
+升级建筑¤Upgrading buildings
+门派各个建筑的升级维护都需要不少木料才行，平时应该多多积累，我们可以派遣一些<color=#FFB851>「力量与灵敏」</color>兼备的弟子前往后山禁地多多砍伐一些回来放在仓库，已备不时之需。¤We can send some of our <color=#FFB851>'Strength and Agility'</color> disciples to the back of the mountain to cut down more wood and put it in the warehouse for emergencies。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地开始砍伐树木，不少树木都长得异常粗壮，但大家都身手不凡，在并不平整的半山腰上奋力砍伐，获得了大量珍稀木料并运回了门派之中。¤Disciple <color=#78E2FF>{0}</color> and the others started cutting down trees in the back of the forbidden area, many of which were unusually thick and strong, but all of them were very skilled and fought their way up the uneven half of the mountain, obtaining a lot of rare wood and bringing it back to the sect。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿坑处开采数月，不少树木都长得异常粗壮，好在大家身手都不错，在凹凸不平的山林之中也能施展开来，最后为门派送回了不少珍稀木料。¤Disciple <color=#78E2FF>{0}</color> and the others mined the forbidden pits in the back of the mountain for several months, and many of the trees grew unusually thick, but the good thing is that we all had good hands and were able to perform in the uneven mountains and forests, and finally returned a lot of rare wood for the sect。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿坑处开采数月，不少树木都长得异常粗壮，虽然大家身手不错，但山林之战不仅路面难行，不时还会遇到猛兽，砍伐过程困难重重，为了大家的安全，不能再继续进行下去了。¤Disciple <color=#78E2FF>{0}</color> and others have been mining at the forbidden pit in the back of the mountain for several months, and many of the trees have grown unusually thick。 Although we are all good at it, the battle of the mountain forest is not only difficult on the road, but from time to time we encounter fierce beasts, and the felling process is difficult, so for everyone's safety, we cannot continue。
+弟子<color=#78E2FF>{0}</color>等人在后山禁地的矿坑处开采数月，不少树木都长得异常粗壮，虽然大家身手不错，但是险恶的环境根本无法施展，在砍伐过程中还有弟子被突然出现的猛兽所伤，只能让大家先回到门派之中。¤Our disciples <color=#78E2FF>{0}</color> and others have been mining in the forbidden area in the back of the mountain for several months, and many trees have grown unusually thick。 Although everyone is good at it, the treacherous environment is impossible to perform, and some disciples were injured by the sudden appearance of fierce beasts during the felling process, so we can only let everyone return to the sect first。
+押镖¤Bodyguard
+山下镖局人手不足，现有一批珍贵货物需要运送至大衍城，希望我们可以派遣数名<color=#FFB851>「武技」</color>出众的弟子帮忙护送前往。¤We have a shipment of precious goods that need to be transported to Dayan City, and we would like to send a few of our <color=#FFB851>'martial arts'</color> disciples to help escort them there。
+弟子<color=#78E2FF>{0}</color>等人穿戴好各自兵刃并前往了镖局一路开始护送，我们弟子个个目光凌厉气势不凡，一路上几乎无人敢靠近镖队三丈之内，只在翻山越岭之间，偶有不开眼的山贼，三两下便摆平，事后镖局对我们大为赞赏，支付了非常丰厚的报酬。¤We were able to put on our own blades and went to the dartboard and started escorting them。
+弟子<color=#78E2FF>{0}</color>等人穿戴好各自兵刃并前往了镖局一路开始护送，我们弟子个个身手不凡，路上的匪徒几乎都被我们轻松解决，直到顺利将货物送达了大衍城，镖局支付了报酬并表示十分满意。¤Afterwards, we were very appreciated and paid very well。
+弟子<color=#78E2FF>{0}</color>等人穿戴好各自兵刃并前往了镖局一路开始护送，我们弟子个个身材魁梧，虽然大路之上无人敢惹，但一入山林，不时就有一波接一波劫匪袭击，我们有些应接不暇，导致货物略有损失，送达大衍城后，镖局表示不满，并没有支付报酬。¤We were not able to cope with the wave after wave of robber attacks once we entered the mountain forest, which caused a slight loss of goods。 The reward。
+弟子<color=#78E2FF>{0}</color>等人穿戴好各自兵刃并前往了镖局一路开始护送，我们弟子虽然个个看似厉害，但一路劫匪不断来袭，我们尽力守护也还是损失惨重，送达大衍城后，货物已经遗失大半，我们不仅没有收到报酬，门派声望还受到重大影响。¤After we reached Dayan City, the goods were already lost, and not only did we not receive any payment, but our reputation was also greatly affected。
+在下是来自<color=red>{0}</color>的使者,贵派扣押了本门的弟子,不知是否可以将其释放,在下将代表本门万分感谢！¤I am an emissary from <color=red>{0}</color>, your sect has detained our disciples, I wonder if they can be released, I will be very grateful on behalf of our sect!
+贵派果然深明大义！那在下就将人带走了,告辞。¤Your sect is indeed profoundly righteous! Then I will take the person away, goodbye。
+这。。。既然如此,我会向本门如实禀报,此事恐不能善了了！告辞！¤This。。。 In that case, I will report the truth to the sect。 I'm afraid this matter cannot be settled。 Farewell!
+哎。。。也罢！我派愿出<color=red>{0}</color>,来换回本门弟子,请贵派适可而止！¤I'm sorry。。。 I'll leave it at that。 We are willing to pay <color=red>{0}</color> for the return of our disciples, please stop!
+赎金已交付,扣押的本门弟子在下就带走了,咱们后会有期！走！¤The ransom has been paid, I'll take our disciples with me, we'll meet again。 Let's go!
+做人留一线,日后好相见！还忘贵派三思。¤We'll see each other later! I hope you will think twice。
+可恶！快放了我！¤Damn it! Let me go now!
+等我回去,一定找弟兄杀上你们山门！¤When I get back, I'll get my men to kill you!
+大侠,你一路带着我这么累,还是放了我吧。¤You've brought me all the way here, so let me go。
+在下代表<color=red>{0}</color>前来,贵派是否有诚意出资<color=red>3000金</color>，来改善一下双方的关系？¤I come on behalf of <color=red>{0}</color>, do you have the sincerity to contribute <color=red>3000 gold</color> to improve our relationship?
+果然识趣！告辞了。（与<color=red>{0}</color>关系提升了！目前关系为<color=red>{1}</color>）¤Surely you have the sense to do so! Farewell。 (Relationship with <color=red>{0}</color> has been upgraded! Current relationship is <color=red>{1}</color>)
+好！不愿意给的话，我们会自己来取！到时候可别后悔！（与<color=red>{0}</color>关系下降了！目前关系为<color=red>{1}</color>）¤Good! If you don't want to give it to us, we'll come and get it ourselves! Don't regret it when the time comes! (Relationship with <color=red>{0}</color> has gone down! Current relationship is <color=red>{1}</color>)
+监牢里的俘虏<color=red>{0}</color>乘我们守卫松懈之时逃走了，我们应该<color=red>加强守卫</color>，修建更<color=red>牢固的牢房</color>才行。¤The captives in the prison <color=red>{0}</color> escaped when our guards were lax, we should <color=red>strengthen our guards</color> and build stronger cells</color> to do so。
+在下{0}<color=red>{1}</color>，行走江湖四处磨炼自己的武技，恰巧路过此地，不知能否与贵派高手切磋一二。¤I {0}<color=red>{1}</color>, walking around the jianghu to sharpen my martial arts skills, happened to pass by here, and I wonder if I can have a sparring session with your school's masters。
+哈哈哈哈~连接受挑战的勇气都没有，还算什么江湖门派，告辞了！¤I don't even have the courage to accept the challenge, so what kind of Jianghu school is that?
+贵派果然有高手！在下输的心服口服，待改日再来拜会。¤Your school really does have masters! I am convinced that I have lost, so I will come back another day to pay my respects。
+不错不错！今日玩得很尽兴，在下告辞。¤Not bad, not bad! I've had a good time today, so I'll leave now。
+师父，我有一位习武资质不错的朋友特别想加入本门，希望师父可以同意。¤Master, I have a friend with good martial arts skills who would like to join our school, I hope you will agree。
+太好了！谢谢师父！(<color=red>心情提升了</color>)¤Great! Thank you, Master! (<color=red>Mood lifted</color>)
+不行吗？哎。。。好吧，我回去劝劝他。(<color=red>心情下降了</color>)¤No? Hey。。。 Well, I'll go back and persuade him。 (<color=red>Mood drops</color>)
+本门招收弟子的消息已经放出去。¤The news of our sect's disciple recruitment has been released。
+发出消息不久，从附近赶来了不少人表示想要加入本门。¤Soon after the news was sent out, quite a few people came from the neighborhood to express their desire to join our sect。
+<color=red>{0}</color>加入了本门。¤<color=red>{0}</color> joined our sect。
+属下代表<color=red>{0}</color>前来拜见宗门，去年全力为宗门积蓄资源,现为宗门带来岁供：<color=#CF2B21>金钱{1}</color>,<color=#CF2B21>粮食{2}</color>,<color=#CF2B21>草药{3}</color>,<color=#CF2B21>铁{4}</color>,<color=#CF2B21>木料{5}</color>;望助宗门早日一统江湖。¤On behalf of <color=red>{0}</color>, I am here to pay my respects to the clan。 Last year, I did my best to accumulate resources for the clan, and now I am bringing the following for the clan: <color=#CF2B21>Money{1}</color>,<color=#CF2B21>Food{2}</color>,<color=#CF2B21>Herbs{3} 3}</color>,<color=#CF2B21>Iron{4}</color>,<color=#CF2B21>Wood{5}</color>; I hope to help the clan unify the jianghu as soon as possible。
+属下代表<color=red>{0}</color>前来拜见宗门，去年全力为宗门筹措物资,现为宗门带来岁供：{1};望助宗门早日一统江湖。¤On behalf of <color=red>{0}</color>, I am here to pay my respects to the clan。 Last year, I did my best to raise supplies for the clan, and now I am bringing the annual supply for the clan: {1}; I hope to help the clan unify the jianghu as soon as possible。
+属下代表<color=red>{0}</color>前来拜见宗门，去年全力为宗门钻研功法,现为宗门带来{1};望助宗门早日一统江湖。¤On behalf of <color=red>{0}</color>, I am here to pay my respects to the clan。 Last year, I did my best to research new Skillsets for the clan, and now I am bringing {1} for the clan; I hope to help the clan unify the jianghu as soon as possible。
+属下代表<color=red>{0}</color>前来拜见宗门，去年全力为宗门搜寻人才,现为宗门带来弟子：{1};望助宗门早日一统江湖。¤On behalf of <color=red>{0}</color>, I am here to pay my respects to the clan。 Last year, I did my best to search for talents for the clan, and now I have brought the following disciples to the clan: {1}; I hope to help the clan unify the jianghu as soon as possible。
+我<color=red>{0}</color>与你<color=red>{1}</color>积怨已久，特奉我派掌门之令，前来踏平尔等！出来受死吧！¤I <color=red>{0}</color> have a long-standing grudge against you <color=red>{1}</color>, and I am here by order of my sect's headmaster to crush you! Come out and suffer death!
+哈哈哈！对方是一群酒囊饭袋，兄弟们不用客气，杀！！！¤Hahahaha! They're a bunch of drunken sons of bitches, so don't be shy, kill them!
+大侠里面请~咱们这有好酒好菜,也有上等的客房。¤Please come inside, we have good food and wine, and we also have a good room。
+上等客房是<color=#E73434>{0}一晚</color>,保证您住得舒服~¤The best room is <color=#E73434>{0} a night</color>, you are guaranteed a comfortable stay。
+本城就咱这一家客栈最好~¤This is the best inn in town。
+没钱可住不了！¤You can't stay here without money!
+好勒~大侠您好好休息~¤Okay, rest well, warrior。
+大侠昨晚休息得可好。¤You had a good rest last night。
+请选择投资金额。{0}¤Please select the amount to invest。 {0}
+你使用{0}的资金在城中进行了投资。¤You used {0} to make an investment in the city。
+你非常有商业眼光，投资成功了！<color=red>（门派影响力+{0}）</color>¤You are very business-minded and your investment was successful! <color=red>（Sect influence+{0}）</color>
+你的投资如石沉大海一般，没有取得任何成果！¤Your investment sank like a stone and yielded no results!
+本月已经进行过投资！¤Investments have been made this month!
+本店都是道地药材,您是来抓药,还是要疗伤啊。¤Our store is full of authentic medicinal herbs, are you here to get medicine, or to heal your wounds?
+这些您一共<color=#E73434>花费{0}</color>,<color=#21B330>收入{1}</color>,一口价,童叟无欺,概不赊账。¤These cost you <color=#E73434>0</color>, <color=#21B330>1</color>, one price, no credit。
+这是您的药,请收好。¤Here is your medicine, please take it。
+大侠,您的钱不够啊。¤You don't have enough money, warrior。
+您再看看别的？¤You want to see something else?
+本店货物经常都会更换,记得要常来看看~¤Our goods are often changed, so remember to come back often。
+大侠,您的脉象平稳,面色红润,身体很健康啊。¤Your pulse is stable, your face is rosy, you are in good health。
+大侠所受之伤不重,<color=#E73434>只需{0}诊金</color>,保证药到病除。¤Your injury is not serious, and <color=#E73434>only a {0} consultation fee</color> is required to cure your illness。
+这位大侠,您的伤势很重,幸亏遇到在下,<color=#E73434>诊金是{0}</color>,需慢慢调养。¤I'm glad you met me, <color=#E73434>the fee is {0}</color>, you need to take your time to recuperate。
+这！大侠,您的伤势之重,若不及时治疗,恐随时都有性命之忧啊！<color=#E73434>需要{0}诊金</color>,万万不能耽误了！¤This! The warrior, your injuries are so severe that if not treated in time, you may be in danger of dying at any time! <color=#E73434>You need {0} consultation money</color>, we must not delay!
+大侠伤势已经痊愈,行走江湖还需多加小心。¤The warrior has recovered from his injuries, but he still needs to be more careful when he walks around the world。
+那您可得多多保重啊！¤Then you must take care of yourself!
+招募弟子将消耗城市影响力<color=red>20%</color>，是否继续？¤Recruiting disciples will consume <color=red>20% of the city's influence</color>, do you want to continue?
+招募弟子的消息刚发出去不久就来了不少人表示想要加入。¤The news of the recruitment of disciples was sent out soon after a number of people came to express their desire to join。
+果然好眼光；您看我骨骼惊奇，必是练武奇才；您给我<color=red>{0}金</color>，我立马加入！¤I'm sure you have a good eye; you see that I have amazing bones, I must be a martial arts genius; you give me <color=red>{0} gold</color> and I'll join right away!
+算命的说我将来一定能成为一代大侠；但是我需要<color=red>{0}金</color>作为安家费。¤The fortune teller said that I would become a great warrior in the future; but I need <color=red>{0} gold</color> as a settlement fee。
+我随便练练就能一个打十个；给我<color=red>{0}金</color>，我就是贵派的人了！¤I can beat ten people with just a little practice; give me <color=red>{0} gold</color> and I'll be a member of your school!
+太好了！我定助本门一统江湖！¤Great! I will help our school to unify the world!
+咱们门派中再见！¤See you in the sect!
+哈哈哈哈~我也能学习绝世武功了！¤I can learn the best martial arts too!
+他们都不如我，不用考虑了！¤They're all inferior to me, so don't even think about it!
+我资质过人¤I'm gifted!
+我天赋异禀¤I'm gifted。
+我能吃苦耐劳¤I can work hard。
+我吃得少¤I eat less
+闯荡江湖不能没有好兵刃,快进来瞧瞧！¤You can't go into the world without a good blade, come in and see!
+您一共<color=#E73434>花费是{0}</color>,<color=#21B330>收入{1}</color>,要不要再买点，有备无患！¤Your total <color=#E73434>cost is {0}</color>, <color=#21B330>income is {1}</color>, do you want to buy some more?
+大侠真是好眼力,好东西全都是您的了！¤You've got a good eye, you've got all the good stuff!
+没钱别来消遣我！¤Don't amuse me if you don't have money!
+有不少好兵刃,您再多挑挑~¤There are a lot of good blades, you can pick more。
+马上又有一批神兵利器要出炉了！记得再来看看。¤There will be another batch of weapons coming out soon! Remember to come back and take a look。
+大侠,您的装备完好,不需要修理。¤Warrior, your equipment is in good condition and does not need repair。
+您的这件装备已经破烂不堪,不能修了,要不您重新买一件吧！¤Your equipment is in bad shape and can't be repaired, so why don't you buy a new one?
+没问题！<color=#E73434>费用是{0}</color>,保证让您的兵器完好如初！¤No problem! <color=#E73434>The cost is {0}</color>, and your weapon is good as new!
+修好了！快看看,是不是比以前更好了！¤It's fixed! Look at it, it's better than ever!
+装备可要经常保养才行。¤You need to take care of your equipment regularly。
+你在城里到处逛了逛,心情放松了许多。¤You've been wandering around town, relaxing a lot。
+你正在城里闲逛,突然在一个不起眼的角落发现不知道谁掉在这里的钱,你开心的收了起来。<color=#E73434>获得金钱{0}</color>¤You are wandering around town and suddenly you find money in an obscure corner that someone dropped here。 <color=#E73434>Get Money {0}</color>
+前方人声鼎沸,你走过去发现原来是有两人在比武;二人招式颇为独到,你感觉<color=#E73434>略有收获</color>。¤There's a lot of noise in front of you, and you walk over to find two people fighting in a match; their moves are quite unique, and you feel <color=#E73434>slightly rewarded</color>。
+你正在闲逛的时候,发现路边有一个乞丐正在乞讨。¤You are wandering around when you find a beggar begging on the side of the road。
+求求您给点儿吧~。¤Please give some~。
+谢谢您！谢谢您！¤Thank you! Thank you!
+太感谢您了！您真是天大的好人啊！这是我无意间得来的,就送给您吧!¤Thank you so much! You are a very good man! I got this by accident, so I'll give it to you。
+您定是下凡来拯救我等的神仙！您的恩情,在下永世不忘！¤You must be a god who came down to save us! I will never forget your kindness!
+谢谢大老爷厚此！这是在下无意间得来的东西,看似不凡,在下无以回报,希望此物能帮到您。¤Thank you for your generosity! This is something that I unintentionally got, it looks extraordinary, I have nothing to return, I hope this can help you。
+你获得了<color=#CF2B21>{0}</color>。¤You have acquired <color=#CF2B21>{0}</color>。
+你分文未给,虽然<color=#E73434>略失道义</color>,但你并未理会,继续在街上闲逛。¤You don't give a penny, though <color=#E73434>slightly unethical</color>, but you ignore it and continue to wander the streets。
+你正在闲逛的时候,发现路边有一人正在唉声叹气;你好奇的上前询问。¤As you are wandering, you notice a man on the side of the road sighing; curious, you go up to him and ask。
+在下正与一家商铺交易,但是清点的时候却发现少了一件<color=#E73434>{0}品{1}</color>。¤I was trading with a store, but when I counted it, I found a <color=#E73434>{0}item{1} missing</color>。
+钱财事小,可失了信誉,我等便无法立足;大侠,您要是有<color=#E73434>{0}品{1}</color>,在下一定<color=#E73434>重金酬谢</color>！¤If you have a <color=#E73434>{0} product{1}</color>, I will definitely <color=#E73434>reward you</color>!
+多谢大侠仗义相助！这是您的酬金,请务必收下,在下感激不尽!<color=#E73434>获得金钱{0}</color>¤Thank you for your help! Here is your fee, please do take it, I appreciate it! <color=#E73434>Get Money {0}</color>
+在下需要<color=#E73434>{0}品的{1}</color>,这件恐怕不行！¤I need <color=#E73434>{1} of the {0} items</color>, and I'm afraid this won't do!
+您也没有吗！哎。。。¤Don't you have one either? You don't have it?
+你以<color=#E73434>{0}</color>弟子的身份在城中各处活动，提升了门派在城中的影响力！<color=#E73434>门派影响力+{1}</color>¤You are moving around the city as a <color=#E73434>{0}</color> disciple, raising the influence of the sect in the city! <color=#E73434>Disciple influence +{1}</color>
+这是一处自然形成的洞穴,不知道里面有什么。¤This is a naturally formed cave,not knowing what is inside。
+你深入到洞穴之中，仔细探查了一番，发现不过是一处寻常山洞，并无异常之处。¤You go deeper into the cave and explore it carefully, finding it to be nothing more than an ordinary cave with nothing out of the ordinary。
+你深入到洞穴之中，仔细探查了一番，在一处不起眼的位置发现一个破破烂烂的箱子；打开后获得了<color=red>{0}。</color>¤You go deeper into the cave and look around, finding a tattered chest in an inconspicuous spot; you open it and get <color=red>{0}。 </color>。
+你深入到洞穴之中，仔细探查了一番，发现洞中居然有一道石门。¤You delve into the cave and explore carefully, finding a stone door actually in the cave。
+这道石门没有任何打开的机关，恐怕只能使用<color=red>力量</color>将其推开。¤This stone door has no mechanism to open it, and I'm afraid you can only use <color=red>Strength</color> to push it open。
+打开这道石门的机关肯定隐藏在这个山洞中，只是没有强大的<color=red>洞察力</color>恐怕是无法找到。¤The mechanism to open this stone door must be hidden in this cave, but I'm afraid I can't find it without strong <color=red>insight</color>。
+石门两侧的洞壁上有许多非自然形成的孔洞，触碰石门的话很可能会触发机关，发出暗器；如果身手不够<color=red>灵敏</color>的话，最好不要尝试。¤There are many unnatural holes in the cave walls on both sides of the door, and touching it will probably trigger the mechanism and send out a concealed weapon; if you are not <color=red>sensitive</color> enough, it is best not to try。
+你走到石门前，将双手放在石门之上，气沉丹田，然后大喝一声！用尽全身力量。¤You walk up to the stone door, place your hands on top of it, sink your breath into your dantian, and then bellow! Use all your strength。
+石门发出沉闷的移动之声，缓缓的被打开了！¤The stone door makes a dull sound of movement and slowly gets opened!
+然而石门纹丝不动！¤However, the stone door did not move at all!
+你开始在洞穴之中仔细查找打开石门的机关。¤You began to look carefully in the cave to open the stone door mechanism。
+在一个非常不起眼的岩石夹缝中发现一处异样，你伸手一试，居然可以转动，同时听见石门发出沉闷的移动之声，居然缓缓的打开了！¤In a very inconspicuous rock crevice found a strange, you reach out to try, can actually turn, while hearing the dull sound of movement of the stone door, actually slowly opened!
+但是搜遍了整个洞穴仍然一无所获。¤But searched the entire cave still found nothing。
+你缓缓来到石门前，同时双足隐隐蓄力；果然你刚触碰到石门的一瞬间，破空之声四起，从洞壁上的孔洞射出无数暗器。¤You slowly came to the stone door, at the same time, both feet vaguely accumulate strength; indeed you just touched the stone door a moment, the sound of breaking air, from the holes in the cave wall shot out countless concealed weapons。
+你早有准备之下，施展出门派中所学身法，左右腾挪，居然躲开了所有的暗器攻击，然后顺利打开了石门。¤You were prepared for this, and you used the body techniques you learned in the school, moving from side to side, and actually dodged all the concealed weapon attacks, and then successfully opened the stone door。
+你虽然早有准备，但是射出的暗器极多，你虽使出全力躲闪，仍然无法前进一步，不敢再往前闯。¤Although you were prepared, but the concealed weapons shot out very much, although you use all your strength to dodge, still can not go further, do not dare to barge forward。
+你感觉这个不明洞穴中隐隐散发着危险，而且以目前实力乱闯恐怕会很危险，只能悻悻退了出来。¤You feel that this unknown cave is vaguely emitting danger, and with the current strength of the chaos will be very dangerous, you can only resentfully retreat out。
+你进入到石门之中，里面是一处不大不小的石室。¤You enter the stone door, and inside is a small or large stone room。
+在石室中央有<color=red>{0}</color>发出微微毫光。¤In the center of the room is <color=red>{0}</color> emitting a faint light。
+你开心的将其收入行囊，并退了出来。¤You happily put it in your walking bag and retreat。
+你在洞穴中找了一处干净点的地方躺下休息了一段时间，体力恢复了。¤You find a cleaner spot in the cave and lie down to rest for a while, your Vifor returning。
+这里有一个村子;村子很小,大概只有十来户人家。¤There is a village here; it is very small, probably only about ten families。
+哟~我们这个山沟沟里,可好久没有外来人了;你是打这路过的吗？¤Yo ~ we have no outsiders in this ravine for a long time; you are hitting the road here?
+我们村子很小,前方不远处就可下山,大侠慢走。¤Our village is very small, not far ahead of you can go down the mountain, warrior take your time。
+欢迎欢迎啊~就来我家住吧,顺便您给我说说外面是什么样的;我从小到达都没离开过村子。。。。。。¤Welcome welcome ah ~ come to my home to live, by the way you tell me what it is like outside; I have never left the village since I arrived 。。。。。。
+休息一晚后，你感觉体力恢复了不少。¤After a night's rest, you feel a lot of Vigor flowing back。
+大侠,江湖凶险,一路多多保重~¤Warrior, the jungle is dangerous, take care of yourself along the way ~
+大侠！我昨日听你所说山下的江湖世界,心生向往~在下也想<color=red>加入</color>大侠所在的门派！不知道可不可以。。。。。。¤warrior! I listened to you yesterday about the world of the rivers and lakes below the mountain, and my heart was longing for it~ I would also like to <color=red>join</color> the warrior's sect! I wonder if I can join 。。。。。。
+太好了~我收拾收拾，马上就赶过去！¤I'll pack up and go there right away!
+哈哈哈哈~我也能加入门派了！¤Hahahahahaha~ I can join the sect too!
+我也要做一个大侠！¤I want to be a warrior too!
+江湖~我来了！¤I'm coming!
+哎~可能我不是练武的料，还是老老实实种地吧。¤I'm not a martial arts practitioner, so I'll just be honest and farm。
+夜半时分，你听到屋外突然传来喊杀声！¤In the middle of the night, you hear the sudden sound of shouting and killing from outside your house!
+哈哈哈哈哈~~没想到这么一个山沟沟里还有个村子，老规矩！男的杀光，女的带回山寨！¤ Kill all the men, the women back to the cottage!
+听外面的声音，应该是来了一伙山贼。¤Listen to the sound outside, should be a group of mountain bandits。
+对方人数众多，你恐不敌；于是乘夜色逃出了村子。¤The number of opponents is large, you are afraid of defeat; so take the night to escape from the village。
+村子里都是普通百姓，恐怕无力抵抗，你决定帮忙赶走这帮山贼，于是直接冲了出去！¤The village is full of ordinary people, so you decided to help chase away the bandits, so you went straight out!
+干什么？你敢反抗？给我杀！¤What are you doing? You dare to resist? Kill them!
+你被山贼打败,听着身后山民传来的惨叫,勉强逃离了山村。¤You were defeated by the bandits and barely escaped from the village as you listened to the screams of the mountain people behind you。
+山贼被你击败,一窝蜂的逃入了山林之中不见踪影。¤The bandits were defeated by you and fled into the mountains in a swarm。
+有个跑得慢的，被你一把抓住，摁在地上。¤One of the slow runners was caught by you and pinned to the ground。
+饶命啊大侠！小的上有老下有小，落草为寇也是生活所迫啊！¤Spare my life, warrior! I have an old man and a young man, so I have to live like a bandit!
+这些山贼，平时作恶多端，只能杀一儆百；你根本不听求饶，直接一掌拍在其心口，对方一声惨叫后立马就没了声息。¤These mountain bandits, usually do a lot of evil, can only kill one example; you simply do not listen to beg for mercy, a direct slap on its heart, the other side of a scream immediately after the sound is gone。
+这些山贼，平时作恶多端，断然不能放其离开；于是你将此人困了个严实，打算带回门派再做定夺。¤These mountain thieves, usually do a lot of evil, categorically can not let them go; so you trapped this person a tight, intended to bring back to the sect before making a decision。
+多谢大侠救命之恩！只是这些逃走的山贼恐怕还会再来，我们全村只能搬走了。¤Thank you for saving my life! But I'm afraid that these escaped bandits will come again, so our village will have to move away。
+村子很穷，无以为报大侠的大恩大德，这里是全村人凑集的一点钱，大侠一定要收下。¤The village is very poor, and there is no way to repay the warrior's kindness。 Here is a little money gathered by the whole village。
+你获得<color=red>金钱{0}</color>¤You gain <color=red>Money{0}</color>
+这里有一处潭水,竟然令得附近奇寒无比,真是神奇!¤There is a pool of water here that makes the vicinity strangely cold, it's amazing!
+这处寒潭被一层白雾笼罩，而潭水周围都被一层白色冰霜覆盖；此等寒气，恐怕只有强大<color=red>内力</color>之人，方能进入一试。¤This cold pool is covered by a layer of white mist, and the water around it is covered with a layer of white frost; I'm afraid that only someone with strong <color=red>Stance</color> can enter this cold pool and try it out。
+你全力运行所学内功，将真气布满全身后，小心翼翼的进入到潭水之中。¤You run your internal energy with all your might, covering your whole body with True Qi, and then carefully enter the pool of water。
+你全力运转真气，将寒气隔绝在体外；在寒气不断的刺激下，真气飞速运转，功力在短时间内就获得<color=red>巨大突破！</color>¤You run your True Qi with all your might to isolate the cold qi outside your body; under the constant stimulation of the cold qi, your True Qi soars and your Martial Arts gains <color=red>a huge breakthrough in a short period of time! </color>
+你全力运行真气，但是寒气太过猛烈，部分寒气进入了经脉之中横冲直撞；继续下去定会身受重伤，你只能迅速离开了潭水。¤You run your True Qi with all your might, but the cold qi is so fierce that some of it enters your meridians and rampages through your body; if you continue, you will surely be seriously injured, and you can only leave the pool quickly。
+在寒潭之中坚持的时间越长，功力提升就越大！¤The longer you hold on in the cold pool, the greater your power will improve!
+你的身体有伤在身，进入寒潭之中几乎是九死一生！¤Your body has injuries in the body, into the cold pool is almost nine lives!
+你觉得进入寒潭练功风险太大，不值得冒险一试，便转身离开了此处。¤You felt that it was too risky to enter the cold pool to practice Martial Arts and it was not worth the risk, so you turned around and left the place。
+你的身体已经受伤，无法继续坚持。¤Your body is already injured and cannot continue to hold on。
+你感觉身体已经到了极限，再继续下去会越来越危险；于是你迅速离开了潭水。¤You felt that your body had reached its limit and it would be more and more dangerous to continue; so you quickly left the pool。
+你在寒潭中已经浸泡了很长时间，功力增速已经渐渐慢了下来，已经没有必要继续下去。¤You had been immersed in the cold pool for a long time, and the rate of increase of your power had gradually slowed down, so there was no need to continue。
+于是你迅速离开了潭水，穿带好衣物便离开了。¤So you quickly left the pool, put on your clothes and left。
+你全力运行真气，但是寒气太过猛烈，部分寒气进入了经脉之中横冲直撞；你坚持不住，口吐一口鲜血，加之自身已有严重内伤，如今伤上加伤，已然性命难保！¤You run your True Qi, but the cold is too fierce, part of the cold into the meridian rampage; you can not hold on, spitting a mouthful of blood, coupled with their own serious internal injuries, and now wounded on top of injuries, it is difficult to save your life!
+这里竟然是一处温泉,进去泡一下应该很舒服!¤This is a hot spring, it should be very comfortable to soak in it!
+你与随行弟子缓缓进入泉水中；温暖的泉水按摩着全身，无比舒服。¤You and the accompanying disciples slowly into the spring; warm spring water massage the whole body, incomparable comfort。
+泡完温泉之后，大家体力与气血都已全部恢复；而且感觉自己的身体变得更强了，实在是无比神奇！所有角色<color=red>({0}提升{1})</color>¤After soaking in the hot spring, everyone's Lifeforce and qi have all been restored; and it feels like your body has become stronger, it's beyond amazing! All characters <color=red>({0} raise {1})</color>
+泡完温泉之后，大家体力与气血都已恢复，随行弟子的伤势也得以<color=red>治疗</color>，实在是无比神奇！¤After soaking in the hot spring, everyone had recovered their Lifeforce and qi, and the injuries of the accompanying disciples had been <color=red>healed</color>, which was beyond amazing!
+这是一座山寨,还能隐约听到从寨中传出的大笑与女人嚎哭的声音。¤This is a mountain fortress, from which we can still faintly hear the sound of laughter and women crying。
+这些山贼必定是作恶多端之辈，如果不除掉，周边的百姓必定永无宁日；你毫不犹豫的冲了进去。¤The company's main business is to provide a wide range of products and services to the public。
+嗯？！什么人！居然有人敢单枪匹马闯我们山寨！不要命了？¤What? What a man! How dare someone break into our fortress alone! Don't you want to die?
+这里是山贼都老巢，穷凶极恶之徒众多，再下去恐怕会很危险，你只能选择撤退。¤This is the lair of the bandits, there are many vicious people, if you continue, it will be very dangerous, you can only choose to retreat。
+你消灭了一些山贼，然而又不少人冲过来。¤You eliminated some bandits, but many more rushed over。
+你又消灭了一波山贼，但是后面还有人继续冲了上来。¤You eliminate another wave of bandits, but there are still people coming up behind you。
+没想到此处山贼居然如此凶恶，你竟然不敌，只能匆匆逃离此处。¤You didn't expect the bandits here to be so vicious that you were outmatched and had to flee in a hurry。
+你已经杀红了眼，满身都溅满了山贼的鲜血；周围的山贼此时已经吓破了胆，纷纷丢下武器逃出了山寨。¤You have killed the red eyes, covered with the blood of the bandits; surrounding bandits have been scared out of their wits, have dropped their weapons and fled the fortress。
+此时你来到山寨各处，释放了那些被抓到山寨中的妇女；而且这伙山贼抢夺来的财物也都被你一并拿走。¤At this time you came to the fortress everywhere, released the women who were caught in the fortress; and the bandits robbed the belongings were also taken by you。
+此处山谷云山雾罩神秘异常,深入其中还需格外小心。¤This valley is covered with clouds and fog mysteriously, deep in which you also need to be extra careful。
+这么大的雾说不定会有什么奇遇宝贝，你一边摸索着一边前进。¤Such a big fog may have some strange encounter treasure, you feel while moving forward。
+前方雾气渐渐散了，你看到有人影奔来。¤The fog ahead gradually dispersed, you see a human figure running。
+什么人！闯到我们营地来了，真是不知死活，弄死他！¤What a man! He's barging into our camp, he doesn't know what he's doing, kill him!
+你把冲上来的山贼杀了个一干二净，剩下的山贼纷纷逃往深山了。¤You killed all the bandits who came up to you, and the rest of them fled to the mountains。
+你见状没有理会那些逃跑的山贼，走到山贼窝藏物资的地方，挑了一些能用的，都带走了。¤You saw the situation ignored those fleeing mountain bandits, walked to the place where the mountain bandits hid supplies, picked some that could be used and took them all away。
+这里的山贼实力异常强大，双拳难敌四手。你抽了个空，大喝一声，然后转身逃跑了。¤The mountain bandits here are unusually strong, and two fists can't beat four hands。 You drew a blank, shouted, and then turned to escape。
+前方雾气渐淡，你发现不远处有一个石洞，直觉告诉自己这洞中可能不简单。¤The fog ahead fades and you find a stone cave not far away, your intuition tells you that the cave may not be simple。
+你戒备着进入到石洞之中，发现其内部空空如也，但是发现在洞壁之上刻画着一些动作，仿佛是一套功法。¤You enter the stone cave on guard and find its interior empty, but find some movements carved on top of the cave walls, as if it were a set of gongfu。
+于是你拿出自己的武器照着上面的动作练习起来。¤So you take out your own weapon and practice the movements on it。
+你逐渐熟练这些动作之后心里暗自惊叹，这些动作玄妙异常，无论是刀法还是剑法皆能施展，并且威力不俗。¤You gradually become proficient in these movements and then marveled in your heart, these movements are subtle and unusual, both Blade and sword techniques can be performed, and the power is not bad。
+你感觉差不多便收拾东西离开了此处，刚离开没多远，忽然雾气翻滚，哪里还有之前石洞的踪影。¤You felt that it was almost time to pack up and leave this place, just a short distance away, suddenly the fog rolled over, where there was no trace of the previous stone cave。
+有此奇遇自己真是幸运，你继续向前，并未多时便走出了山谷。¤You were lucky to have this encounter, you continued forward and did not have much time to get out of the valley。
+你正摸索前进，突然脚下一滑，下面是个悬崖。你伸手往两旁抓了一下，什么都没有抓到，四周都是云雾看不清楚，你只能坠落悬崖。¤You were feeling your way forward when suddenly your feet slipped and there was a cliff below。 You reached out to the sides and grabbed, nothing, surrounded by clouds and fog can not see clearly, you can only fall off the cliff。
+噗通一声，你摔倒一个水潭，你赶紧游上去，爬到了谭边的一块大石头上。你看了看四周已经没有雾气了，除了水潭，到处都是树木。¤Poof, you fell into a pool of water, you hurriedly swim up and climbed to a large rock at the edge of the Tan。 You look around there is no longer fog, in addition to water pools, there are trees everywhere。
+这时你突然看到对面的山崖上有不少猿猴，在陡峭山崖之间攀爬跳远闪转腾挪，这灵动无比的姿态，你一时间看呆了。¤At this time you suddenly saw a number of apes and monkeys on the opposite cliff, climbing and jumping between the steep cliffs, the incomparable posture of the spirit, you looked stunned for a time。
+恍惚之间仿佛看到自己犹如腾云驾雾般在悬崖之间游走，你感觉你悟到了什么。<color=red>(身法获得提升)</color>¤The first thing you can do is to see yourself walking between the cliffs as if you were on a cloud, and you feel you have realized something。 <color=red>(Body Technique Gains Improvement)</color>
+你无奈只能在崖底另外寻找出路，但幸运的是你发现在这与世隔绝之处，珍稀药草居然随处可见，你一路收集了不少。¤You have no choice but to find another way out at the bottom of the cliff, but luckily you find that rare herbs are actually everywhere in this isolated place, and you collect quite a few along the way。
+获得:(<color=red>{0}</color>)¤Gain:(<color=red>{0}</color>)
+这趟收获不小，你找了一条小路出来了。¤It's not a bad haul, and you find a path out。
+前方雾气渐渐散了，你见前面有个水潭，谭边有个大石头，石头上有一人正在静坐修炼。¤The fog ahead is gradually dispersing and you see a pool of water in front of you, a large rock by the side of the tam, and a person on the rock is sitting in meditation and cultivation。
+你仔细一瞧，此人蓬头垢面、披头散发。身着一身黑袍，瘦骨嶙峋的双手盘在怀中，周身黑气缭绕，仿佛在修炼什么邪功。¤You take a closer look, this person is disheveled, cloaked。 Dressed in a black robe, thin, bony hands coiled in the arms, surrounded by black gas, as if in the practice of any evil gong。
+谁在那里！¤Who is there!
+在下误打误撞来到此处，打扰到阁下练功，非常抱歉，这就离开。¤I came here by mistake and disturbed your practice, I am very sorry, I will leave now。
+桀桀桀。。。别着急走啊，老子刚刚习得一门奇功，正好拿你来练练手！¤Jie Jie Jie。。。 Don't be in a hurry to leave, I've just acquired a strange technique, so I'd like to practice with you!
+话音刚落，此人鬼魅般的身影便扑了上来。¤As soon as the words left his mouth, this man's ghostly figure pounced on him。
+阁下好功夫，咋们后会有期！¤You have good Martial Arts, we will meet again!
+此人身法诡异，话音刚落，便已不见身影；但是刚才动手之时，见此人有一物品掉落一旁。¤This person's body style is strange, just as the words fall, they have disappeared; but just now when the action, see this person has an object dropped aside。
+你上前一看，原来是一部叫{0}的功法。¤You went up to take a look and it turned out to be a gong method called {0}。
+你将其收入怀中后找了一条小路出来了。¤You took it into your arms and found a path out。
+对方一掌拍在你的身上，你自知不敌，直接借势飞退数丈后便施展身法迅速逃离。¤The other side of a slap on your body, you know you can not defeat, directly use the momentum to fly back a few feet and then cast a body technique to quickly escape。
+还好对方并未追赶，只是在后方发出邪恶的狂笑之声，不久后你终于找到一条小路出来了。¤Fortunately, the other side did not chase after you, but only in the back of the evil maniacal laughter, soon after you finally found a path out。
+虽然自己<color=red>未曾习得</color>任何身法，但你模仿了一阵它们的姿态，感觉身体仿佛也比以往灵巧不少。¤Although you <color=red>hadn't acquired</color> any body techniques, you imitated their posture for a while and felt as if your body was more dexterous than before。
+这种荒郊野外恐怕是杀人越货的最佳场所。¤I'm afraid this is the best place to kill someone in the middle of nowhere。
+你沿着小路继续向前走，打算穿过这片荒林。¤You continue along the path, intending to walk through this deserted forest。
+然而刚进入不久，就隐隐听见有厮杀之声从前方不远处传来。¤However, shortly after entering, you faintly hear the sound of killing coming from a short distance ahead。
+你不经加快步伐前行，很快就看到前方有两波人正在厮杀，看穿着打扮，应该是一帮马贼正在袭击一队镖师。¤You can't help but speed up your pace forward, and soon you see two waves of people ahead of you are killing each other。 Looking at the dress, it should be a group of horse thieves who are attacking a group of dart masters。
+这群肮脏的马贼，镖师兄弟坚持一下，我们一起杀退这帮马贼。¤This group of dirty horse thieves, dart brothers hold on, let's kill back this group of horse thieves together。
+嘿，还有这好事，让我也来参一手！¤Hey, there is this good thing, let me also participate!
+你抬头望了望，吐了嘴里的柳枝，冷哼一声“与我何干”走开了。¤You looked up, spit out the willow branch in your mouth, and walked away with a cold snort of 'What's it to me?
+你与镖师们联手终于将马贼杀退。¤You teamed up with the dart masters to finally kill the horse thieves。
+感谢这位兄弟的舍命相救，没有你的话我们这几个命可就没了。¤Thanks to this brother's rescue, without you, we would have lost our lives。
+路见不平，拔刀相助，不必客气。¤No need to be polite when you see injustice。
+救命之恩岂能轻谢，这把{0}是我兄弟的遗物，他也用不上了，就送给阁下吧。¤This {0} is my brother's legacy, and he doesn't need it anymore, so I'll give it to you。
+我们还要继续送镖，以后有需要可以来大衍城长风镖局找我，告辞。¤We have to continue to deliver the dart, if you need to come to me in the future, you can find me at the Long Wind Dart Station in Dayan City, goodbye。
+马贼势大，你们都被冲散了，你看事不可为于是见机溜了。¤The horse thieves were so strong that you were all scattered, and you saw that things were not going to work out so you saw the opportunity to slip away。
+哈哈哈哈~小子身手不错，有些钱粮我们拿不了太多，就送给你了，拿了快滚，别耽误咱们分宝贝！¤Hahahahaha ~ kid good hands, some money and food we can not take too much, so you give it to you, take it and get out, do not delay our share of the treasure!
+这里的东西，我全都要！！¤The things here, I want them all!
+你话音刚落，还不等众山贼反应便出手攻去。¤Your words just fell, and did not wait for the mountain bandits to react to attack。
+你三拳头两脚便把这群马贼打跑了，抢到的东西也来不及带走，这下都是你的了。¤You three fists and two kicks will be this group of horse thieves fought away, grabbed the things too late to take away, now it's all yours。
+你获得了金钱:<color=#CF2B21>{0}</color>，食物:<color=#CF2B21>{1}</color>，道具:{2}。¤You have gained Money:<color=#CF2B21>{0}</color>, Food:<color=#CF2B21>{1}</color>, and Props:{2}。
+你收拾好战利品，继续前进，很快便走出了这片荒林，而在里面发生的事，永远没人知道。¤You pack up your loot and move on, and soon you are out of this barren forest, and what happens inside will never be known。
+马贼凶狠强悍，你居然打不过，你找了个机会逃跑了。¤The horse thieves were so fierce and tough that you couldn't actually beat them, and you looked for an opportunity to escape。
+这队镖师虽然人数不多但是个个身手奇高，你上前居然被对方三两下就打败了，只能灰头土脸的逃离了战场。¤This team of dart masters although not many but each of them has a strange skill, you went forward actually defeated by the other side in three or two blows, can only flee the battlefield in the dust。
+你抬头望了望，吐了嘴里的柳枝，冷哼一声“与我何干”然后远远绕道离开了。¤You looked up, spit out the willow branch in your mouth, coldly grunted 'what does it matter to me' and left far away from the detour。
+然而刚进入其中你便看到前方有两人，似乎正在争执什么。¤However, just entering it you saw two people in front of you, seemingly arguing about something。
+{0}，你这是做怎么！为何要偷袭与我！¤{0}, you are doing how! Why did you sneak up on me!
+{0}，你实力尚浅，<color=red>那些东西</color>放你这不安全，都交给我来保管吧！¤{0}, your strength is still shallow, <color=red>those things</color> are not safe for you to put here, let me keep them all!
+哈哈哈！！可笑至极，眼红就直说！使什么下三滥手段。¤Hahahaha!!! You're laughable, just say so! The first thing you need to do is to say so。
+是你自己找死，看剑！¤You're the one who wants to die, look at the sword!
+说罢两人便动起手来，而且双方出手都毫无保留，招招致命，看来真的是要拼个你死我活了。¤The two said that they started to fight, and both sides have no reservations, deadly moves, it really seems to be a fight to the death。
+世上竟有如此厚颜无耻之徒，看招！¤There is such a brazen person in the world, look at the moves!
+对方见不敌我等，虚晃一枪之后，飞快窜入丛林之中，不见了身影。¤The other side, seeing that they were no match for us, after a false shot, scurried into the jungle and disappeared。
+多谢阁下出手相救。¤Thank you for saving me。
+这种无耻之徒，人人见尔诛之，不必言谢。¤This kind of shameless person, everyone will be killed, no need to say thank you。
+他已对我起了杀心，从此恐再无宁日，若不嫌弃在下希望<color=red>加入阁下门派</color>效犬马之劳。¤If you don't mind, I would like to <color=red>join your sect</color> to serve you。
+嗯，既然如此，那你就来我们门派吧。¤Well, if that's the case, then you can come to our sect。
+太好了！我这就前往。¤Great! I will head there right away。
+虽然如此，我也无法轻易同意此事，非常抱歉。¤Despite this, I cannot easily agree to this, and I am very sorry。
+今日之事过后在下恐怕得浪迹江湖了，这些是我之前获得的，再留在身上恐怕会继续招来杀身之祸，阁下武艺高强，定能用得上。¤I'm afraid I'll have to wander the world after today's incident, these are the ones I acquired earlier, and I'm afraid I'll continue to incur the scourge of death if I stay on my body, you are a strong martial artist, you will be able to use them。
+你获得道具:{0}。¤You get prop:{0}。
+青山不改绿水长流，阁下后会有期!¤Green mountains do not change green water, your Excellency will see you later!
+此人武功高强，你拼尽全力任被其击败。¤This person is highly skilled in martial arts, you fight with all your might any be defeated by it。
+无奈还是自身安危要紧，只能先行逃离此地，只是被抢那人恐怕是要性命不保了，不久之后你便走出了这片荒林。¤I have no choice but to flee this place first, only to be robbed that person is afraid of life, soon after you will get out of this deserted forest。
+抱歉两位打扰下，不知有啥好东西，在下也想分一杯羹！¤Sorry to disturb the two, I do not know what good things, I also want a piece of the pie!
+也不等对方搭话，你便拔出武器冲了上去。¤And do not wait for the other side to talk, you will draw a weapon and rushed up。
+对方功夫本就稀松平常，很快便招架不住，被一剑穿心，倒在地上不动了。¤The other side of the Martial Arts is very ordinary, and soon could not fight, was a sword through the heart, fell to the ground and did not move。
+阁下好功夫，此子身上藏了不少好东西，咱们一起分了吧。¤Your good Martial Arts, this son has a lot of good things hidden in his body, let's share it together。
+此人满脸堆笑一边说着一边朝你靠近，好像还想跟你说点什么。¤This person is full of smiles while talking while approaching you, as if they still want to say something to you。
+对方刚一接近，突然表情一寒，手中长剑飞快朝你刺了过来。¤As soon as the other party approached, his expression suddenly became cold, and the long sword in his hand flew towards you。
+你虽然对对方有所防备，但是距离太近，虽然避开了致命部位，但是仍然被对方一剑刺中。¤Although you are on guard against the other side, but the distance is too close, although avoid the fatal part, but still by the other side of a sword stabbed。
+你对对方本就有所防备，加上自己身法了得，竟然以一个不可思议的姿势躲过了对方这一击。¤You are already on guard against the other side, plus your own body skills are excellent, but in an incredible position to dodge the other side of the strike。
+对方见一击必杀未成，接着又朝你攻来。¤The opponent saw that a kill was not achieved, and then attacked you again。
+你的功夫更胜一筹，格开对方兵器后一脚踢在其太阳穴上，对方瞬间七孔流血，倒地而亡。¤Your Martial Arts was even better, and you kicked your opponent in the solar plexus after you had blocked his weapon, and he instantly bled to death。
+你迅速将地上两具尸体所携带的东西都摸索一空。¤You quickly fished out everything the two bodies were carrying on the ground。
+对方功夫本来并不厉害，但是现在性命相搏，出招更是以伤换伤，要大家同归于尽的架势。¤The opponent's Martial Arts was not great, but now the fight for life, the move is more injury for injury, to everyone to die together。
+你不愿再继续跟他们纠缠下去，抽了个空档，便退出战团，迅速离开的此地。¤You do not want to continue to tangle with them, took a gap, then exit the battle group, quickly leave the place。
+对方先是偷袭，后手攻击接连不断，你被打个措手不及，手忙脚乱之下被对方一脚踹在胸口上。¤The other side first sneak attack, backhand attack after backhand attack, you were caught off guard, under the hands and feet by the other side of a kick in the chest。
+你已无力再战，飞退之际，毫不犹豫的改变方向窜入丛林之中，一路狂奔之后终于逃离了这片荒林。¤You are no longer able to fight, flying back when, without hesitation, change direction into the jungle, all the way after running wildly finally escaped from this deserted forest。
+江湖上尔虞我诈之事何时少过，哪怕同门也是如此，多管闲事只会自找麻烦，你选择绕道离开了此处。¤You chose to take a detour and left the area。
+是在下唐突了，既然如此，咱们青山不改绿水长流，后会有期！¤I'm the one who was abrupt, in that case, the green hills will not change and the water will flow forever, see you later!
+刚刚听到消息，最近本门将要宣布与<color=red>雷火帮</color>结盟。¤I just heard the news that our clan is going to announce an alliance with the <color=red>Thunderfire Gang</color> recently。
+可是我<color=red>飞云门</color>与对方已经争斗数十年，怎会突然就化解仇恨结为同盟！¤However, we have been fighting with each other for decades, so how could we suddenly resolve our hatred and form an alliance?
+此事必有蹊跷，我必须找掌门询问一番。¤There must be something fishy about this, so I must ask the Sect Leader about it。
+掌门！我们与<color=red>雷火帮</color>乃是世仇，对方突然提出结盟，肯定背后有阴谋，不能草率决定！¤Sect Leader! We have a long-standing feud with the <color=red>Thunderfire Gang</color>, and if they suddenly propose an alliance, there must be a conspiracy behind it, so we can't make a hasty decision。
+我派近些年来已经式微，再与<color=red>雷火帮</color>斗下去，门派迟早要覆灭，现在对方既然主动要求同盟，我们正好有所喘息，也可尝试化解多年双方仇恨。¤Our sect has been in decline in recent years, and if we continue to fight with the <color=red>Thunderfire Gang</color>, our sect will be wiped out sooner or later。
+掌门！我入<color=red>飞云门</color>十余年，跟随本门弟兄与<color=red>雷火帮</color>打过无数交道，对方帮主极其狡诈。¤The other side is asking for an alliance, so we can take a breather and try to resolve the hatred between the two sides。 I have been a member of the <color=red>Flying Cloud Sect</color> for more than 10 years, and I have followed our brothers to deal with the <color=red>Thunderfire Gang</color> for countless times, and the other gang leader is extremely cunning。
+近年我等虽然式微，但是门中弟子却越来越是骁勇，对方损失也很大，现在不敢和我们硬拼，便想使用阴谋诡计来对付我们，掌门千万不能相信他们。¤In recent years, although we are in decline, our disciples are becoming more and more brave, and the other side has lost a lot of money, so now they don't dare to fight us hard, so they want to use tricks to deal with us。
+我们虽与<color=red>雷火帮</color>结为同盟，但也会有所提防，此乃门中大事！你莫要再说，马上给我退下！¤Although we are allied with the <color=red>Thunderfire Gang</color>, we will be on guard, this is an important matter for the sect! Don't say another word, back off now!
+可是<color=red>雷火帮</color>是狼子野心！他们这么多年一直想要吞并我们，所谓“同盟”不过是借口！肯定会在背后暗算我们的！¤But the <color=red>Thunderfire Gang</color> is ambitious! They've been trying to annex us for years, and the so-called 'alliance' is just an excuse! They'll definitely try to get us behind our backs!
+一派胡言！我派即将与<color=red>雷火帮</color>结为盟友，怎能容你坏了我门中大事！从现在开始我便将你逐出师门！收拾好你的东西，现在就给我离开！¤This is nonsense! Our sect is about to become allies with the <color=red>Thunderfire Gang</color>, how can we allow you to ruin our sect? From now on, I will expel you from the sect! Pack up your things and leave now!
+什么！我为本门出生入死十余年，为门派赴汤蹈火，数次险些丢掉性命，对门派忠心耿耿，只为帮助门派发展壮大，现在竟然如此随意就要将我逐出师门？¤What! I've been working for our sect for more than ten years, I've risked my life for the sect, I've been loyal to the sect, I've only helped the sect to grow and develop, and now you want to expel me from the sect so casually?
+既然如此，就此拜别，望掌门保重！¤If that's the case, I'll say goodbye and hope that you take care of yourself!
+掌门怎能如此对我！还轻信对方之言，几乎就等于任人鱼肉，而我又做不了什么，只能先自己立足以后再做打算。¤How can you treat me like this? I can't do anything about it, but I can only make my own plans later。
+这个地方还算不错，先在这里安家吧。¤This place is not bad, let's settle here first。
+这里地势不错，可以在此先行安顿下来，可是白手起家何其困难！¤The terrain here is good, you can settle down here first, but how difficult it is to start with nothing!
+先不想那么多，必须先有收入才行，我除了一身武艺别无长处，只能先在此地教人习武再慢慢发展。¤Let's not overthink it.. First, I must secure income. I have nothing but my martial art. I should focus on teaching  and then slowly develop。
+呼呼……终于建好了，教人习武也得有个地方才行，看样子还不错！进去看看吧。¤Hoo hoo 。。。。。。 It's finally built. To teach people to practice martial arts I also need to have a place of my own. Looks pretty good! Let's go inside and take a look。
+先要给武馆定一个合适的学费；学费多少会影响到招收学徒的概率，现在我们还没什么名声，每月<color=red>30金</color>就差不多了。¤First, we need to set an appropriate tuition fee for the martial arts school; the amount of tuition will affect the probability of recruiting apprentices, and now that we don't have much of a reputation, <color=red>30 gold</color> per month is about right。
+嗯，就这么多吧，反正学费随时都可以调整，现在就等学徒上门了。¤Well, that's it, the fee can be adjusted at any time anyway, now we're just waiting for apprentices to come to us。
+请问… 这里是武馆吗？可以学功夫那种吗？¤Excuse me。。。 is this a Sect ? The kind where you can learn Martial Arts?
+没错！本人十八般兵器样样精通，来就对了！哈哈哈~¤Yes! I am proficient in all 18 kinds of weapons, so you've come to the right place! Ha ha ha!
+好呀好呀！我要学！¤Oh, yes, yes! I want to learn!
+总算是有收入了，我们先开始<color=red>下个月</color>，再走一步算一步吧。¤Finally, we have an income, so let's start <color=red>next month</color> and, from there, take one step at a time。
+通过这段时间观察,没想到发现其中一名学徒资质不错。¤Through this period of observation, I did not expect to find apprentices with good qualifications。
+以后要发展壮大必须要有一帮优秀的徒弟才行，试下能否将其收为入门弟子培养一番，他现在人应该在<color=red>主厅</color>练功呢。¤We need a group of good disciples to develop and grow in the future, so let's try to see if we can take him as a junior disciple and train him。
+经过这一个月的观察，发现你的习武资质不错，想收你为我入门弟子，你可愿意？¤After a month of observation, I found that you have good martial arts qualifications and would like to take you as my junior disciple, are you willing?
+真的吗？太好了！特别希望能学到绝世武功，成为一代大侠！¤Really? That's great! I especially hope to learn the best martial arts and become a great warrior!
+哈哈哈~好，现在开始你就是我的入门弟子了，自然会好好栽培于你。¤Hahahaha~ Good, now you are my disciple, naturally I will train you well。
+多谢师父，请受徒儿一拜。¤Thank you, Master。 Please accept my obedience。
+哈哈哈~好吧 你先回去练功，我会单独找时间传授你武艺。¤Ha ha ha ~ well you go back to practice first, I will find time to teach you martial arts personally。
+是！师父!¤Yes! Master!
+我现在收了一名弟子，但是才刚刚习武，我的功法他还无法练习，要专门为他准备一套武技才行。¤I've taken in a disciple now, but he's just learning martial arts, he can't practice my techniques yet, so I have to prepare a set of martial arts techniques specifically for him to do so。
+我自幼习武，自诩也是悟性非凡，自创一套入门武技还是能做到的。¤I have been practicing martial arts since I was young, and I boast that I also have extraordinary Wits, so I can still create my own set of introductory martial arts skills。
+以后就在<color=red>武楼</color>摸索新的武学吧。¤From now on, I will just feel for new martial arts at the <color=red>Martial Hall</color>。
+要自创功法的话，还需要驻守弟子进行护法才能起到事半功倍的作用，正好让我那刚收的弟子驻守在<color=red>武楼</color>里吧。¤If you want to create your own martial arts, you need to have a statined disciple to maintain order to get twice the result with half the effort, so let my newly accepted disciple be stationed at the <color=red>Martial Hall</color>。
+好了现在有弟子驻守 我们可以进入开始自创一套功法吧。¤Well, now that we have a disciple in residence, we can go in and start creating our own Skillsets。
+选择需要的<color=red>招式类型</color>，调整<color=red>威力</color>，会显示消耗相应的<color=red>参悟值</color>，然后选择<color=red>护法弟子</color>就可以参悟功法了。¤Choose the type of <color=red>moves you want</color>, adjust the <color=red>power</color>, and it will show you the <color=red>Mastery value</color> you need to consume, and then choose the <color=red>protector disciple</color> and you'll be able to enlighten the technique。
+嗯，这部功法很适合给我这名弟子学习。¤Well, this gong method is very suitable for this disciple of mine to learn。
+但是只有功法却没有武器是不行的，还好之前从门派出来的时候带了一些，现在和功法一起都放在仓库里。¤But it is not possible to have only Skillsets without weapons。 Fortunately, I brought some with me when I left my original sect. They are in the warehouse together with the Skillsets。
+在<color=red>主厅</color>中的<color=red>弟子管理</color>找到<color=red>入门弟子</color>并且把功法和装备都给弟子装备上。¤In <color=red>Disciple Management</color> in the <color=red>Main Hall</color>, find <color=red>Introductory Disciple</color> and equip him with both the techniques and equipment。
+点击<color=red>背包任意空格</color>打开仓库，在仓库中<color=red>左键点选</color>或者直接<color=red>点击右键</color>，将<color=red>装备与功法</color>放入角色背包中，然后在背包中<color=red>右键</color>点击<color=red>功法</color>并学习，最后<color=red>右键点击</color>背包中的装备即可。¤Click <color=red>any space in the backpack</color> to open the warehouse, <color=red>left-click</color> in the warehouse or just <color=red>right-click</color> to put <color=red>equipment and techniques</color> into your character's backpack, and then <color=red>right-click</color> in the backpack。 <color=red>right-click</color> on the <color=red>Skillsets</color> and learn them, and finally <color=red>right-click</color> on the equipment in the backpack。
+好了，现在弟子功法和装备都有了，使用中的功法会随着时间慢慢成长，能学到什么程度就靠他自己了。我们先进入<color=red>下个月</color>吧。¤Well, now that the disciple has all his Skillsets and equipment, the Skillsets in use will grow slowly over time, and it's up to him how much he can learn。 Let's go into <color=red>next month</color> first。
+这里管事的是谁！给我出来！¤Who's in charge here! Come out here!
+正是在下，足下是哪位。¤It is I, who is the foot soldier。
+谁让你在这里教人武功的？这里是我<color=red>雷火帮</color>的地盘，有没有跟我们打过招呼？¤Who told you to teach martial arts here? This is my <color=red>Thunderfire Gang's</color> territory, did you say hello to us?
+（这里居然也被<color=red>雷火帮</color>控制了吗？）¤(Is this place actually controlled by the <color=red>Thunderfire Gang</color> as well?)
+原来这样，在下初来乍到，还真不知道有这事，不知道需要什么条件呢。¤I'm new here, I really didn't know this was happening, I don't know what conditions are required。
+好说好说，缴上10000保护费，让你在这随便做啥生意都行！¤I don't know what the conditions are。 I'll pay the 10,000 protection fee and let you do whatever you want here!
+这…！¤This。。。!
+师父！别理他，这人是附近的无赖，专门欺骗外来人的，他根本不是<color=red>雷火帮</color>的弟子。¤Master! Don't pay attention to him, this guy is a scoundrel from the neighborhood, specializing in cheating outsiders, he is not a disciple of <color=red>Thunderfire Gang</color> at all。
+哪来的小崽子，看爷爷不收拾你！¤Where's the little brat from? Let's see if grandpa won't fix you!
+小心！¤Watch out!
+对方被打败后，一边放着狠话一边逃跑离开了。¤After the other party was defeated, he fled and left while letting out vicious words。
+你胆子到是不小，没练几天功夫就敢跟人动手。¤You have a lot of guts, you didn't practice Martial Arts for a few days and you dare to fight with someone。
+师父，这种小混混，正好交给徒儿练手了，师父教的功夫果然厉害！¤Master, this is just rabble. Let me practice ! You told me such powerful Arts ! 
+切记与人动手要先观察对手虚实，不可以貌取人，不然小心吃大亏。¤Remember to fight with people to observe the opponent's true strength. Do not judge people by their appearance, or your risk a huge surprise and a staggering loss。
+徒儿记住了。¤I will remember。
+好，都下去各自练功去吧。¤All right, go and practice your own Martial Arts。
+是！师父！¤Yes! Master!
+现在过来的学徒已经比较多了，像今日这种情况恐怕以后还会遇到，不能随随便便就让外人进入才行。¤Now there are more apprentices coming over, and I'm afraid we'll encounter more like this in the future, so we can't just let every outsider in。
+有了山门就可以阻挡外人随意进出了，但是同样的需要有弟子驻守其中才能发挥作用。¤With a mountain Gate, outsiders can be prevented from entering and leaving at will, but again, a disciple needs to be stationed there for it to be effective。
+现在也没其他事情了 开始<color=red>下个月</color>吧。¤Now there's nothing else to do, let's start <color=red>next month</color>。
+师父，今日弟子外出采购的时候听说最近江湖上发现了一件大事！¤Master, today when I was out shopping I heard that a great thing has been discovered in the Rivers and Lakes recently!
+呵呵！江湖是非多，时不时就有不大不小的事情到处流传，最近有出了什么大事了？¤Oh! There are a lot of rights and wrongs outside, and from time to time, there are big and small events going on。
+听说一个叫<color=red>飞云门</color>的门派，一夜之间被<color=red>雷火帮</color>全部屠杀一空，一个都没留下呢，<color=red>飞云门</color>掌门尸体现在都还被吊在山门示众呢。¤I heard that a Sect called <color=red>Flying Cloud Sect</color> was slaughtered overnight by the <color=red>Thunder Fire Gang</color>, leaving no one behind, and the corpse of the <color=red>Flying Cloud Sect</color> leader is still hanging in the mountain gate for public display。
+什么！！！¤What!!!
+啊？师父怎…怎么了…？¤What? Master how。。。 what happened。。。?
+没事… 你先下去吧，为师有点事要处理。¤Nothing。。。 you can.. proceed. I have some business to take care of。
+哦… 那徒儿先告辞了。¤Oh。。。 then I'll take my leave。
+没想到才短短数月！就发生了这种事！¤I didn't expect that in just a few months! So after all... It happened!
+我虽已脱离<color=red>飞云门</color>，但是里面有我出生入死的师兄弟，掌门…也对我有授业之恩，我要马上回去看看。¤I've already left the <color=red>Flying Cloud Sect</color>, but there are brothers and sisters in it who were not supposed to die, and the master。。。 also had the grace to teach me. I... I have to go back there immediately。
+你赶到的时候天色已经傍晚，原本应有弟子驻守的山门处只剩血迹斑斑，而有一人被吊在山门最高处的房檐上，从穿着上看确实是掌门无疑。¤When you arrived, it was already evening, and there was only blood at the gate where the disciples should have been stationed, and there was a man hanging from the highest eave of the gate, and from the way he was dressed, he was indeed the Sect Leader。
+你施展轻功登上山门，将掌门放了下来，看着尸体触目惊心的伤势，心情无比悲痛。¤You perform your movement skills to ascend the mountain gate, put the master down. You took time to look at the body's grievous injuries, in deep grief。
+掌门…你当初为何不愿听我之言…¤Master 。。。 why you did not want to listen to my words 。。。
+现在事情已经发生，无法挽回；你在山门附近将掌门下葬后，便赶回了家。¤What happened cannot be undone; you rushed home after burying the Sect Leader near the mountain gate。
+<color=red>雷火帮</color>一群贼子，总有一天，我会找你们算账！¤That <color=red>Thunderfire Gang</color>... A group of thieves. One day, I will settle accounts with you!
+但是现在我势单力薄，要想报仇要等到何年何月，我必须也要有自己的一方势力才行！¤But now I'm alone, I have to wait until the right moment to take revenge, I must also have a strong Sect by my side to do so!
+徒儿，为师打算在此开宗立派，建立一番基业，你可愿从此跟随为师，也成为江湖里的一方势力！¤I intend to establish a sect here, to build a foundation, you want to follow me from now on, we'll become an unstoppable force in this world !
+那徒儿岂不是开山大弟子了？太好了！¤Wouldn't that make you a great disciple? Great!
+师父，我们门派叫什么名字啊？¤Master, what is the name of our sect?
+我们的门派就叫¤Our Sect will be called...
+好气派的名字！¤What an elegant name!
+作为一个门派 现在这里的建设还不够。¤As a sect Now the facilities here are not sufficient。
+好了，这才是一个门派应该有的样子！¤Well, that's what a sect should be like!
+(等我实力壮大！第一个便要踏平你<color=red>雷火帮</color>！)¤(When I get stronger! I'll be the first to crush you, <color=red>Thunderfire Gang</color>!)
+虽然<color=red>雷火门</color>已经覆灭，大仇得报，但不知为什么你的心境并未通达。¤Although the <color=red>Thunderfire Gang</color> has been destroyed and revenge has been taken, for some reason your mind is not clear。
+回想起本派踏平<color=red>雷火门</color>时的情景，恐怕当初<color=red>飞云门</color>被覆灭之时，也是如此这般。¤When I think back to the time when our school crushed the <color=red>Thunderfire Clan</color>, I'm afraid it was the same when the <color=red>Flying Cloud Clan</color> was destroyed。
+江湖恩怨，相互厮杀，<color=red>雷火门</color>与<color=red>飞云门</color>的下场，这江湖上时时刻刻都在上演。¤The fate of the <color=red>Thunderfire Sect</color> and the <color=red>Flying Cloud Sect</color> is being played out all the time in the jianghu。
+不知本派是否也会有一天。。。¤I wonder if our school will also one day。。。
+不行！我绝对不能让这一幕再在本门上演！¤No! I absolutely cannot let this scene play out in our sect again!
+你召集门派所有弟子来到主厅。¤You summon all disciples of the sect to the main hall。
+今日本掌门要宣布一件事情。¤Today, our master will make an announcement。
+虽然雷火帮已经覆灭，但是江湖上尔虞我诈，我们依然不能有任何松懈。¤Although the Thunder Fire Gang has been destroyed, but in the jianghu, we still can not have any laxity。
+只有成为了这个江湖中的主宰，命运才能掌握在自己的手中！¤Only when we become the master of this jianghu, can our fate be in our own hands!
+从今以后，本门的目标就是要一统江湖！¤From now on, the goal of our sect is to unify the rivers and lakes!
+哪怕在我有生之年无法达成，所有继任的掌门也当以此为目标！¤Even if I can't achieve it in my lifetime, all the succeeding disciples should aim for it!
+说完之后，众弟子山呼海啸一般沸腾，纷纷表示要努力成为下任掌门，带领门派一统江湖。¤After saying this, the disciples boiled like a tsunami, saying that they would strive to become the next Sect Leader and lead the sect to unify the rivers and lakes。
+门派所有弟子<color=red>属性资质提升、心情提升、忠诚提升</color>。¤All the disciples of the sect had their <color=red>attribute qualifications raised, their mood raised, and their loyalty raised</color>。
+还是没办法与<color=red>雷火帮</color>的势力抗衡吗！¤Still no way to fight against the power of <color=red>Thunderfire Gang</color>!
+短短10年就想覆灭<color=red>雷火帮</color>，我真的是太天真了。¤To try to overthrow <color=red>Thunderfire Gang</color> in just 10 years, I am really too naive。
+江湖纷争，我已经感到厌倦；从此我将退隐江湖，做回一个普通人。¤I am tired of the strife in the Jianghu Lake; from now on I will retire from the Jianghu Lake and become an ordinary person。
+我将留下自己多年的<color=red>武学心得</color>，以便让继任者有能力继续壮大本门。¤I will leave behind my years of <color=red>martial arts experience</color> so that my successor will have the ability to continue to grow our clan。
+至于掌门之位，就由你们自行推选一位吧。¤As for the position of Sect Leader, you will be able to choose one yourselves。
+说完之后，便独自离开了门派，萧瑟的背影之下，当初的雄心壮志荡然无存，众弟子知道已无挽留的必要了。¤After saying that, he left the sect alone, his ambition gone under his sullen back, and the disciples knew that there was no need to stay。
+今日我便要血洗<color=red>{0}</color>，为曾经的师兄弟报仇！¤Today, I will take <color=red>{0}</color> and avenge my former brothers and sisters!
+什么？！竟是<color=red>飞云门</color>的余孽！快通知帮主！兄弟们上！！¤What? It's the remnants of <color=red>Flying Cloud Sect</color>! Tell the master! Brothers, let's go!
+<color=red>{0}</color>掌门已被斩杀！其余帮众也已经被诛杀殆尽，其余之人纷纷仓皇逃窜。¤The <color=red>{0}</color> leader has been killed! The rest of the gang had also been put to death, and the rest of the people fled in a hurry。
+不一会，剩余的漏网之鱼也被清扫一空，只剩下横七竖八的尸体，跟到处飞溅的血迹。¤In a short while, the remaining fish in the net had been swept away, leaving only the bodies strewn about and the blood splattered everywhere。
+<color=red>{0}</color>宣告覆灭。¤<color=red>{0}</color> was declared to be overwhelmed。
+这时候有弟子禀告，在<color=red>{0}</color>掌门的房间中发现一处暗格，打开后发现数本武功秘籍:{1}¤At this time, a disciple reported that a secret compartment was found in <color=red>{0}</color>'s room, and after opening it, several secret martial arts manuals were found:{1}
+这是<color=red>飞云门</color>所传承的功法。。。曾经的师兄弟们，我为你们报仇了！¤This is the Martial Arts method inherited from <color=red>Feiyun Sect</color>。。。 My former brothers and sisters, I have avenged you!
+你被<color=red>{0}</color>打败，在众弟子拼死保护之下，勉强逃回了门派中。¤You were defeated by <color=red>{0}</color> and barely escaped back into the sect with all the disciples fighting to the death to protect you。
+真的吗？太好了，我一直想加入门派，成为一代大侠！¤Really? Great, I've always wanted to join a sect and become a generation of warriors!
+进入门派能学到更强的武艺？那我同意加入！¤You can learn stronger martial arts by entering a sect? Then I agree to join!
+加入门派？会不会太危险了，还是算了吧。¤Join a sect? Would it be too dangerous, let's forget it。
+我只想习武强身，江湖里的打打杀杀不太喜欢。¤I just want to learn martial arts to strengthen my body, I don't like the fighting and killing in the jianghu。
+真的不想加入，抱歉。¤I really don't want to join, sorry。
+这。。。还有这等好处吗，实在难以拒绝，算我一个吧。¤I'm sorry, but。。。 It's really hard to refuse, so count me in。
+这个东西居然传出阵阵恶臭，你闻闻！¤This thing actually emits a gusty stench。 Smell it!
+为何这里的手感如此粗糙？¤Why does it feel so rough here?
+还有这里，凹凸不平，应该是被摔过！¤And here, it's uneven, it should have been dropped!
+这里是被虫蛀过的痕迹！¤Here are traces of insect infestation!
+此人名叫<color=red>{0}</color>,不仅骨骼惊奇,而且毅力非凡,一定是练武的好材料,只要<color=red>{1}</color>,绝对划算！¤This man's name is <color=red>{0}</color>, not only his bones are amazing, but also his perseverance is extraordinary, he must be a good material for martial arts training, just <color=red>{1}</color>, definitely a good deal!
+此人可不得了~虽然不懂武艺,但是却力大无穷,名叫<color=red>{0}</color>,稍加磨炼,必然是贵派顶梁之柱！<color=red>{1}</color>！不二价!¤He's not a martial artist, but he's very strong, and his name is <color=red>{0}</color>, with a little training, he'll be a pillar of your school! <color=red>{1}</color>! I'm not a bad price!
+不愧是高门大派,此人名叫<color=red>{0}</color>,就是要这样的人才能配得上,<color=red>{1}</color>这种价格,您绝对是捡到便宜了。¤<color=red>{0}</color>, this is the kind of person you need to be worthy of, <color=red>{1}</color> at this price, you definitely got a bargain。
+嘿嘿嘿~那再看看别的,不着急~¤Hey, hey, hey, look at the other ones, no rush。
+嘿嘿嘿~有钱能使鬼推磨,一分钱钞一分货！这个世道,人才最贵！等您钱凑够了再来。¤The most important thing is to have a good idea of what to expect。 In this world, talent is the most expensive! When you have enough money to come back。
+哈哈哈~果然好眼光！恭喜贵派离一统江湖又进了一步！¤Hahahaha, you have a good eye! Congratulations, your school is one step closer to unifying the kung-fu world!
+这人一副病病殃殃的样子,<color=red>{0}</color>吧,不能再多了!¤This man looks sickly, <color=red>{0}</color> right, no more!
+啧啧啧~这人是不是被毒打过啊？看样子还有内伤,我怕买回去几天就死掉啊！就值<color=red>{0}</color>,我担风险的！¤Tsk, tsk, tsk~ Has this person been severely beaten? It also looks like there are internal injuries, I'm afraid I'll die within a few days of buying it back! It's worth <color=red>{0}</color>, I take the risk!
+哎哟~此人怕不是个残疾哦~可惜可惜！看在贵派的面子上,<color=red>{0}</color>!我帮贵派处理掉~¤I'm afraid this person is not a handicap, but a pity。 For the sake of your faction, <color=red>{0}</color>! I'll help your faction get rid of it。
+哎哟~还是个女子！长相还不错~嘿嘿嘿~我愿意出<color=red>{0}</color>!怎么样~这可是天价！¤Ouch~ It's still a woman! I'm willing to pay <color=red>{0}</color>! How's that~ It's a heavenly price!
+我的天！此人是四大门派的弟子！我可不敢收！¤Oh my god! This person is a disciple of one of the four great sects! I wouldn't dare take it!
+此人我就收下了~合作愉快~¤I'll take this person。
+嘿嘿嘿~等我收点<color=red>¤Hey, hey, hey, wait till I get some <color=red>
+</color>再过来~¤</color> and then I'll come back。
+啊！！我会报仇！！我会找你们报仇！！¤Ah!!! I will take revenge! I will seek revenge on you!
+咳咳！！继续啊！！有种打死我！！¤Ahem! Go on! You have the guts to kill me!
+小意思！¤No big deal!
+呸！想都别想！¤Yuck! Don't even think about it!
+哼！尔等小帮小派也想招揽我！？¤Hmph! You little gangsters want to recruit me!
+我与你们势不两立！滚！¤I'm against you! Get out!
+哈哈哈！算你们识相！¤Hahahaha! You've got the sense!
+哼！给我等着，我会再来！¤Hmph! Wait for me, I'll come back!
+多谢贵派宽宏大量。¤Thanks for your school's generosity。
+呵呵呵！如此松懈的守卫，也想困住本大侠，先走一步了！¤Heh heh heh! Such lax guards, also want to trap this warrior, go first!
+呼呼。。。。好险！终于溜出来了。¤Hoo hoo 。。。。 That was close! Finally slipped out。
+这种监牢，本人想走随时可以走，哼！¤This prison, I can leave whenever I want, huh!
+敢关我！你们死定了！¤How dare you lock me up! You are dead!
+我劝你们最好放了我！¤I advise you to let me go!
+我朋友会来救我的！¤My friends will come to save me!
+住手！！！我同意！我同意了！！¤Stop!!! I agree! I agree!
+啊！！！好！我加入！可以停手了！！¤Ah!!! Yes! I'm in! You can stop now!!!
+完了！顶不住了！我加入你们！！¤It's over! I can't take it anymore! I'm in!
+这个位置有一道明显的裂纹，你没看到？¤There's a clear crack in this spot, don't you see?
+而且这里的纹路凌乱，有点像是假货！¤And the lines here are messy, kind of like a fake!
+此物浑浊不堪，简直就是以次充好！¤This thing is so cloudy, it's just second best!
+这个东西的质地明显不对！¤The texture of this thing is obviously not right!
+谁来救救我。。。。。¤Someone help me 。。。。。
+可恶。。。居然敢伤我！¤Damn。。。 How dare you hurt me!
+难道要死在这吗。。。¤Are you going to die here?
+在下被仇人所伤。。。现在伤势严重。。。再不治疗,恐怕要死在这了,咳。。。咳。。。咳。。。;这位大侠,是否有<color=red>伤药</color>救救在下！¤I was injured by an enemy。。。 I'm in serious condition。。。 If I don't get treatment, I'm afraid I'll die here。 Cough。。。 Cough。。。 cough。。。 Cough。。。 cough。。。 cough。。。 This warrior, do you have any <color=red>injury medicine</color> to help me!
+此人服下丹药后,气息逐渐平稳了下来。¤After this person took the elixir, his breath gradually stabilized。
+不知是伤势过重还是丹药的药力不足,此人服下丹药后,并没有起到作用,渐渐没了呼吸。¤I don't know if the injury is too serious or the potency of the pill is not enough, this person took the pill and it didn't work, and gradually lost his breath。
+多谢大侠救命之恩！等在下伤势痊愈,定当登门拜谢！¤Thank you for saving my life! When I heal, I will come to the door to thank you!
+天要亡我！¤God will kill me!
+我快要饿死了。。。¤I'm starving to death。。。
+哎。。。这世道太乱了！¤I'm starving。。。 This world is so messed up!
+难道要去乞讨吗。¤Do I have to go begging?
+哎。。。在下家乡遭了灾,逃难至此;如今已是无家可归,而且身无分文,饥肠辘辘;大侠能否救救在下。¤Aigoo。。。 My hometown was hit by a disaster and I fled here; now I am homeless, and I have no money and am starving; can the warrior save me。
+谢谢您,好歹能多活两天了;这是我在路上捡到的,就送给你吧。¤Thank you, at least I can live two more days; I found this on the road, so I'll give it to you。
+多谢大侠！总算有点希望了;这是我在路上捡到的,就送给你吧。¤Thank you, warrior! Finally, there is some hope; I found this on the road, so I'll give it to you。
+真的可以吗？那真是太好了！在下这就前往。¤Is it really okay? That's great! I'll be on my way。
+把东西交出来！我让你走！¤Hand over the item! I'll let you go!
+那件东西就在你身上！¤That item is on you!
+别逼我动手！¤Don't make me do it!
+问我手里的刀同不同意！¤Ask the Blade in my hand if it agrees!
+光天化日，居然想抢东西？¤You want to take something in broad daylight?
+好啊！你来啊！我怕你呀？¤Fine! Go ahead! Am I afraid of you?
+朋友！此人身上带了不少好东西,你助我,咱们一人一半,怎么样！¤Friend! This man has a lot of good stuff on him, you help me, we'll each get half!
+大侠！这人是个强盗,请帮帮我！¤Warrior! This man is a robber, please help me!
+没想到你这么不中用！我先撤了！¤I didn't expect you to be so useless! I'll leave now!
+哈哈哈！¤Hahahaha!
+愉快。¤Happy。
+你打不过他！快跑吧！¤You can't beat him! Run for it!
+多谢大侠相救！¤Thanks for saving me, warrior!
+乖乖把身上的财物都留下,最好别让我们动手！¤Be a good boy and leave all your belongings behind, and you better not let us do it!
+这位朋友,兄弟们最近手头有点紧,能否给个面子,把身上的财物都让给我们？¤My friend, we're a little short of cash these days, so could you do us a favor and give us all your belongings?
+站住！打劫！要钱还是要命！¤Stop! Robbery! Money or life!
+这批货送到酬劳不菲,大伙加把劲！¤We'll pay you well for this shipment, let's go!
+前方开道的护卫注意安全,当心盗匪！¤Watch out for the guards in the front。 Beware of the bandits!
+谁敢惹事的,兄弟们不必留手！¤Anyone who dares to cause trouble, we don't have to hold back!
+我们是运送货物的商队,阁下有事吗?¤We are a caravan of goods。 What do you want?
+原来如此,您看看想交易点什么。¤I see。 Let's see what you want to trade。
+您一共<color=#E73434>支出{0}</color>,<color=#21B330>收入{1}</color>。¤You have a total of <color=#E73434>expenses</color>, <color=#21B330>income{1}</color>。
+你的钱不够！¤You don't have enough money!
+交易愉快。¤Happy trading。
+我们商队的货,可不是哪里都能买到的。¤Our merchants' goods are not available anywhere。
+青山不改,绿水长流;大侠慢走。¤The green mountains do not change, the green water flows; take care, warrior。
+朋友,我们还要赶路,你还有什么要买的,自己去城里吧！¤My friend, we have to hurry, what else do you want to buy, go to the city yourself!
+你正行至半路,忽然从路旁窜出<color=red>{0}</color>名手持刀剑之人,观其打扮,应该不是什么好人！¤You are halfway to the road when suddenly <color=red>{0}</color> a man with a sword appears from the side of the road, and by the way he is dressed, he should not be a good man!
+原来是{0}的朋友！咱们两派交好，自然是没有问题。¤So they are friends of {0}! The two schools are good friends, so naturally there is no problem。
+本门与贵派<color=red>交际甚少</color>,恐怕不能接受阁下这样的要求。¤Our school has <color=red>very little intercourse with your school</color>, I'm afraid I cannot accept such a request from you。
+经过一段时间的学习,你的感悟颇深,当前功法经验获得<color=red>大幅提升！</color>¤After a period of study, you have gained <color=red>a great deal of insight, and your current meritocratic experience has been <color=red>substantially enhanced! </color>
+距离上次学习的<color=red>时间太短</color>,暂时无法获得新的感悟！¤The <color=red>time since you last studied is too short</color> to gain new insights for now!
+这些破铜烂铁,贵派还是留着自己用吧！¤Your school should keep these broken pieces of iron for your own use!
+哈哈哈哈！快快请进,贵派真是客气,来就来还带这么多东西。¤Hahahahaha! Come on in, your school is so polite to come and bring so much stuff。
+那再好不过！互通有无对咱们都有好处,自然是没有问题！¤That's great! It's in our best interest to trade with each other, so it's no problem。
+贸易往来是你我门中大事,不可草率！¤Trade is an important matter for our sect, we must not be hasty!
+贵派做了一个错误的决定, 实在太遗憾了！¤It's a pity that your sect made a wrong decision。
+那简直太好了！咱们两派联合起来，迟早能一统江湖，哈哈哈哈~¤That's great! If we join forces, we will sooner or later be able to unify the world, hahahaha。
+双方结盟可是大事，还需要从长计议才行！¤An alliance is a big deal。 We need to think long and hard about it。
+什么！要准备与我们为敌了吗！？¤What? Are you ready to make an enemy of us?
+以咱们两派的关系,有困难一定得帮助！这些东西你带回去,或许能帮助贵派度过难关。¤With the relationship between our two factions, we must help if we have difficulties! These things you bring back, may be able to help your school through difficulties。
+什么？哪儿来的要饭的？滚出去！¤What? Where's the beggar? Get out of here!
+遵命！每年一定为宗门供奉足额资源。¤Yes, sir! I will provide the sect with the full amount of resources every year。
+遵命！每年一定为宗门供奉足额物资。¤Yes, sir! We will provide the clan with a full amount of supplies every year。
+遵命！这是本门秘籍<color=red>{0}</color>，望助宗门早日一统江湖。¤Yes, sir! This is the secret book of the clan <color=red>{0}</color>, I hope to help the clan unify the rivers and lakes as soon as possible。
+遵命！定为宗门源源不断发觉各类优秀弟子。¤Yes, sir! We will continue to find excellent disciples of all kinds for the clan。
+这。。。这是本门传承之功法，实在不敢交出，求宗门收回成命。¤This。。。 This is the inherited technique of the sect, so I don't dare to hand it over, so I beg the sect to take back the order。
+求宗门高抬贵手。。。求宗门高抬贵手。。。容许我等再考虑考虑。¤I beg the sect to give me a hand。。。 I beg the clan to be more generous。。。 Allow us to reconsider。
+什么！！你们也会有这一天！！你们这群贼子！！啊！！！！¤What! This day will come for you too! You bunch of thieves! Ah ！！！！
+<color=red>{0}</color>已被屠戮一空。¤<color=red>{0}</color> has been slaughtered。
+获得门派秘籍<color=red>{0}</color>。¤Get the secret book of the sect <color=red>{0}</color>。
+前方不远的地方好像有一个洞穴。¤There seems to be a cave not far ahead。
+前方有炊烟袅袅升起,好像有人家在附近居住。¤There is smoke rising up ahead, as if there are people living nearby。
+前方有丝丝寒气袭来。¤There is a hint of cold air coming from ahead。
+前方隐隐有热气拂面而来。¤There is a faint heat coming from the front。
+前方山林中好像有一处不小的营寨。¤There seems to be a small camp in the forest ahead。
+阁下有何赐教？¤What do you want to tell me?
+阁下是何人？¤Who are you?
+让开!否则别怪我不客气！¤Get out of the way! Otherwise don't blame me for being rude!
+原来是{0}{1},真是巧！没想到在这里能遇见。¤So it's {0}{1}, what a coincidence! I didn't expect to meet here。
+哈哈哈！原来是{0}{1},这是要去哪儿啊。¤Hahahaha! So it's {0}{1}, where are you going?
+{0}{1},好久不见！¤{0}{1}, long time no see!
+是你啊！有事吗？¤It's you! What's up?
+抱歉,在下还要赶路。¤I'm sorry, I have to hurry。
+江湖险恶,在下不想与人随意结交。¤I don't want to make friends with people in the world。
+你我非同道中人,话不投机!¤You and I are not in the same line of work, we don't speak well together!
+长相如此丑陋之人,也妄想与我等结识！¤How can someone so ugly want to get acquainted with us?
+阁下相貌惊人,在下胆小,还是各走各路吧。¤You look amazing, I am timid, let's go our separate ways。
+原来如此,在下{0},不知阁下如何称呼。¤I see, I'm {0}, I don't know what you call yourself。
+能多认识朋友,那真是太好不过！¤It would be great to meet more friends!
+阁下仪表不凡,能结识一番是在下的荣幸。¤I'm honored to meet you。
+姑娘美若天仙,在下求之不得。¤The girl is as beautiful as a fairy, I can't wait to meet you。
+姑娘生得如此俊俏,自然得认识一下。¤You are so handsome, so I must get to know you。
+还有指教吗？¤Do you have any advice?
+最近练功有不少体会,正好我们交流交流。¤Recently, I've learned a lot from practicing Martial Arts, so let's exchange ideas。
+听说有人在附近得到个不得了的宝贝,也不知道是真是假。¤I heard that someone got a great treasure nearby, I don't know if it's true or not。
+我听说些人可以把功法练到大圆满境界！简直是天才！¤I've heard that some people can practice their Martial Arts to the great perfection state! It's a genius!
+你们门派有没有漂亮妹子？介绍介绍呗。¤Do you have any pretty girls in your sect? The first thing you should do is to introduce them。
+{0}{1},以咱们的交情,能成为同门是最好不过!¤{0}{1},I'm not sure if I'm going to be able to get the best out of you。
+既然{0}{1}这样说必然不会错,我同意加入！¤Since {0}{1} said so, I agree to join!
+有门派庇护当然更好,我同意加入{0}{1}的门派。¤I agree to join {0}{1}'s sect。
+{0}{1},虽然你这样说,但是我目前还不想加入贵派,真是抱歉。¤{0}{1}, although you say so, but I do not want to join your faction at the moment, really sorry。
+我目前觉得挺好的,多谢{0}{1}美意。¤I think it's fine for now, thanks to {0}{1}'s kind words。
+非常抱歉,{0}{1},这件事情恐怕还需要从长计议。¤I'm very sorry, {0}{1}, but I'm afraid we'll have to think about this for a long time。
+好啊！我最近功力大进,正想找人试试手,来吧！¤Good! I've recently improved my power and I'm looking for someone to try my hand at it, so come on!
+哈哈！找我练手来了吗?来吧,陪你玩玩。¤Come on! You're looking for me to practice? Come on, I'll play with you。
+刀剑无眼,还是算了吧。¤Swords have no eyes, so forget it。
+什么！光天化日你居然敢如此！¤What? How dare you do that in broad daylight!
+哈哈哈！向来是我抢别人,被人抢还是第一次！¤Hahahaha! I've always robbed others, but this is the first time I've been robbed!
+好！你等着,我知道你是{0}的人！¤Good! Wait, I know you're the one with {0}!
+{0}是我无意间获得,我拿来无用,就赠与你。¤{0}I got it by accident, so I'll give it to you。
+哼！一点小瑕疵，无伤大雅。¤Hmph! A little flaw, no harm done。
+长途跋涉，在所难免！¤Long journey, inevitable!
+不能便宜太多！¤Can't be too cheap!
+什么！这怎么可能！¤What! How is this possible!
+我看看，这原来不是这样的啊！¤Let's see, this didn't turn out like this!
+啊？！这个。。。这个。。。¤What? This。。。 This。。。
+我千辛万苦运来的货物，怎会被说得如此不堪。。。¤The goods that I worked so hard to bring here, how could they be described so badly。。。
+哈哈哈~朋友莫不是在说笑！¤Hahahaha~ You're not joking!
+此物本就是如此，莫要在鸡蛋里挑骨头！¤This is what it is, so don't pick holes in it!
+这可是好东西，你不要我可卖给别人了？¤This is a good thing, you don't want it, I can sell it to someone else?
+什么？我不是奸细！！别抓我！¤What? I'm not a spy! Don't arrest me!
+啊？！救命啊！！¤Don't arrest me! Help!
+我不！！这里是土匪窝吗！¤I'm not!!! Is this a bandit den!
+师父！徒儿知错了。。。。¤Master! My disciple knows my mistake 。。。。
+这。。。求师父开恩。¤This。。。 I beg for Master's enlightenment。
+徒儿谨记师父教诲！¤I will remember my master's teachings!
+弟子不愿受此大辱！就此告辞！¤I don't want to be humiliated by this! This is my farewell!
+掌门！弟子并无过错！¤Master! I have done nothing wrong!
+求掌门收回成命！¤I beg you to withdraw your order!
+弟子的努力，掌门怎可无视！¤How can you ignore my efforts?
+你们放开我！求掌门开恩！不！！！¤Let me go! I beg you to be merciful! No!
+掌门我不偷懒了！求掌门不要赶我走！¤I won't slack off, Master! Please don't throw me out!
+为什么掌门？为什么？¤Why, Master? Why?
+徒儿今后一定加倍努力！¤I will work harder in the future!
+太好啦！师父在上，请受徒儿一拜！¤That's great! Master, please accept my obeisance!
+我终于出人头地了！谢谢师父！¤I've finally made it to the top! Thank you, Master!
+谢掌门赏识！¤Thank you, Master!
+今后定为本门肝脑涂地！¤I'm going to be the best of my life!
+弟子的努力终于被掌门看到了！¤My efforts have finally been seen by the master!
+你看看这件货，色泽发黄，明显是旧货！¤Look at this。 It's yellow, obviously old!
+还有这里怎么块黑斑，难道是坏了？¤And there's a black spot here, is it broken?
+天那！这个地方居然都发霉了！¤Oh my God! This place is actually moldy!
+这个位置是被老鼠咬过吗？¤Was this spot bitten by a mouse?
+我们是{0}的商队，前来与贵派贸易通商。¤We are a merchant team from {0}, and we are here to trade with your school。
+贵派果然爽快！还要再看看其他的货物吗？¤Your faction is really generous! Do you want to see more goods?
+合作愉快！那在下就告辞了。¤Good cooperation! Then I'll take my leave。
+贵派好像钱不够啊？¤You don't seem to have enough money, do you?
+贵派要再考虑考虑？¤Do you want to reconsider?
+呼呼....好险！终于溜出来了。¤Hoo-hoo .... That was close! Finally slipped out.
+谁来救救我.....¤Somebody help me .....
+可恶...居然敢伤我！¤Damn... How dare you hurt me!
+难道要死在这吗...¤Do you want to die here...
+在下被仇人所伤...现在伤势严重...再不治疗,恐怕要死在这了,咳...咳...咳...;这位大侠,是否有<color=red>伤药</color>救救在下！¤I was injured by an enemy... I'm in serious condition... If I don't get treatment, I'm afraid I'll die here. Cough... Cough... cough... Cough... cough... cough... This warrior, do you have any <color=red>injury medicine</color> to help me!
+我快要饿死了...¤I'm starving to death...
+哎...这世道太乱了！¤I'm starving... This world is so messy!
+哎...在下家乡遭了灾,逃难至此;如今已是无家可归,而且身无分文,饥肠辘辘;大侠能否救救在下。¤Hey... My hometown was hit by a disaster and I fled here; now I have no home to go back to, and I'm starving; can the warrior help me?
+这...这是本门传承之功法，实在不敢交出，求宗门收回成命。¤This... This is the inheritance of the gongfu, really do not dare to hand over, beg the sect to withdraw into the order.
+求宗门高抬贵手...求宗门高抬贵手...容许我等再考虑考虑。¤I'd like to ask you to give me a hand... Please... Allow us to reconsider.
+你们欺人太甚，哪怕与你们玉石俱焚也不再对你们臣服！¤You are so deceitful that I would not submit to you even if I were to burn with you!
+啊？！这个...这个...¤What? This... This...
+我千辛万苦运来的货物，怎会被说得如此不堪...¤The goods that I have taken great pains to bring here, how can they be described as so bad...
+师父！徒儿知错了....¤Master! I know I'm wrong ....
+这...求师父开恩。¤This... I beg for Master's enlightenment.
+这...既然如此,我会向本门如实禀报,此事恐不能善了了！告辞！¤This... In that case, I will report the truth to the sect, I am afraid this matter cannot be settled! Farewell!
+哎...也罢！我派愿出<color=red>{0}</color>,来换回本门弟子,请贵派适可而止！¤Oh... I'll leave it at that. We are willing to offer <color=red>{0}</color> in exchange for our disciples, please stop!
+不行吗？哎...好吧，我回去劝劝他。(<color=red>心情下降了</color>)¤You can't? No? Okay, I'll go back and persuade him. (<color=red>Mood has dropped</color>)
+近年山寨弟兄被你们屠戮无数，今日我等山中好手集结，定要让你们血债血偿！¤In recent years, you have slaughtered countless brothers in the mountain fortress, and today we are assembled in the mountain, we will make you pay in blood!
+您也没有吗！哎...¤You don't have one either! I don't know...
+欢迎欢迎啊~就来我家住吧,顺便您给我说说外面是什么样的;我从小到达都没离开过村子......¤Welcome welcome ah ~ come to my home to live, by the way you tell me what the outside is like; I grew up arriving have never left the village ......
+大侠！我昨日听你所说山下的江湖世界,心生向往~在下也想<color=red>加入</color>大侠所在的门派！不知道可不可以......¤The warrior! I heard you talking about the world below the mountain yesterday and I'm looking forward to it~ I would also like to <color=red>join</color> your school! I don't know if it's possible ......
+桀桀桀...别着急走啊，老子刚刚习得一门奇功，正好拿你来练练手！¤Jie Jie Jie... Don't be in a hurry to leave, I've just learned a strange technique, so I'll use you to practice!
+不知本派是否也会有一天...¤I wonder if our school will one day...
+这是<color=red>飞云门</color>所传承的功法...曾经的师兄弟们，我为你们报仇了！¤This is a technique inherited from the <color=red>Flying Cloud Sect</color>... My former brothers and sisters, I avenge you!
+这...还有这等好处吗，实在难以拒绝，算我一个吧。¤This... Is there such a benefit? It's really hard to refuse, count me in.
+各位英雄好汉！又到了一年一度的“大衍武道大会”。¤Dear heroes and heroines! It's time for the annual 'Dayan Martial Arts Conference'.
+大家是否已经准备大展拳脚，争夺那魁首之位呢！¤Are you all ready to show off your skills and compete for the top spot?
+老规矩，<color=red>40岁以下</color>的青年才俊欢迎上台一较高下。¤As usual, young talents under the age of <color=red>40</color> are welcome to compete on stage.
+老前辈们可不能上来欺负晚辈，哈哈哈~¤The old-timers can't come up and bully the youngsters, hahaha~
+恭喜<color=red>{0}</color>少侠夺得魁首，成为天下才俊之楷模。¤Congratulations to <color=red>{0}</color> for winning the top prize and becoming a model of talent for the world.
+本届“武道大赛”到此结束，望各位少校来年再接再厉。¤This is the end of this year's Martial Arts Competition, and we hope that you will continue to do so in the coming year.
+欢迎各位大侠参加本次“大衍拍卖会”。¤Welcome to the 'Dayan Auction'.
+在大衍各个商会的不懈努力下，终于又收罗到各式奇珍异宝。¤With the unremitting efforts of all the chambers of commerce in Dayan, we have finally found all kinds of exotic treasures.
+各位英雄好汉可要看好了，老规矩“价高者得”！¤All heroes and heroines should pay attention to the old rule 'the highest bidder wins'!
+废话不多说，“大衍拍卖会”正式开始！¤Without further ado, the 'Dayan Auction' officially begins!
+这位好汉，在下<color=red>「{0}」·{1}</color>，不知可否将此物让于在下，就当大家交个朋友如何？¤This good man, I <color=red>'{0}'-{1}</color>, I wonder if you can let me have this item as a friend?
+嗯？交朋友就不必了，我也需要此物，还是凭实力说话吧。¤I don't think so. I don't need to make friends, I need this too, let's talk about our strength.
+哦？阁下既然开了这口，我也不能驳了阁下的面子，看其他竞争者愿不愿意吧。¤I don't need to be friends. Since you have made such an offer, I can't refute your face, let's see if the other competitors are willing.
+既然阁下如此需要此物，自是不会继续相争，阁下出价便是。¤Since you need this item so much, you will not continue to compete, so you can bid.
+原来如此，区区此物怎能比得上一位江湖朋友，在下退出竞价。¤I see, how can this mere object compare with a friend of the jianghu, I withdraw from the bidding.
+以上就是本次拍卖会的所有拍品。¤These are all the lots in this auction.
+不知各位大侠是否已经将心仪之物收入囊中呢。¤I don't know if you have already pocketed your favorite items.
+下届拍卖会定为诸位收集更加珍贵的宝物，欢迎再次参加！¤The next auction will be set for you to collect more precious treasures, welcome to participate again!
+本次“大衍拍卖会”到此结束。¤This is the end of the auction.
+在下<color=red>「{0}{1}」{2}</color>，本门弟子{3}与贵派一点小误会，不知可否将其释放，本门定当严加管教。¤I <color=red>'{0}{1}'{2}</color>, our disciple {3} had a little misunderstanding with your school, I wonder if he can be released, and we will be sure to discipline him strictly.
+放人可以！但我派被此人打伤数人，伤势至今未愈，{0}金的汤药费恐怕是少不了！¤Releasing him is fine! But my school was injured by this person several people, the injuries have not yet healed, {0} gold of soup and medicine fee is afraid to be less!
+{0}！滚吧，以后出门在外小心点！¤{I'm afraid I'll have to pay for the medicine!} Go away and be careful when you go out in the future!
+哼！不给钱也行，就让此人拿命来填吧！¤I don't know. If you don't pay, let him pay with his life!
+掌门！弟子在后山闭关时无意间发现一处茅屋，里面住了一位老人自称是<color=#DE21C0>隐居后山</color>的<color=#DE21C0>「先代掌门·{0}」</color>，于是前来禀报此事。¤Master! When I was in retreat at the back of the mountain, I overlooked a hut where an old man claimed to be <color=#DE21C0>the <color=#DE21C0>'previous master-{0}'</color> living in the back of the mountain</color>, and came to report this.
+{0}派掌门！还是不要惹。¤{0} sect leader! Or do not mess with.
+仗势欺人！脸都不要了！¤Bullying! Don't even have a face!
+居然是{0}派！可恶！¤It's the {0} sect! Damn!
+哟，这人挺有钱呐！¤Oh, he's rich!
+这人太心急。¤This person is too eager.
+哈哈，这才有意思。¤Haha, that's funny.
+收集木料¤Collect Wood
+呵！陪你玩儿玩儿。¤Heh! Play along.
+有人要出血本了。¤Someone is going to bleed money.
+挺有气势。¤Quite the swagger.
+钨钢合金,锻造有助提升突。¤Tungsten steel alloy, forged to help improve sharpness.
+隐有眩光外放,锻造大幅提升撩。¤It has an exquisite glare, dramatically enhances forging
+我出<color=red>{0}</color>！¤I'm out <color=red>{0}</color>!
+我出<color=red>{0}</color>！谁怕谁！¤I'm out of <color=red>{0}</color>! Who's afraid of who?!
+<color=red>{0}</color>！有谁接招？¤<color=red>{0}</color>! Anyone take it?
+我出<color=red>{0}</color>！还有谁！¤I'm out <color=red>{0}</color>! Anyone else!
+<color=red>{0}</color>！来来来~¤<color=red>{0}</color>! Come on, come on~
+ 算了，不陪你们玩了。¤ Forget it, I won't play with you guys.
+留着钱买其他的。¤Keep the money for the rest.
+居然还在加价。¤I can't believe they are still raising the price.
+{0}派？好像略有耳闻。¤{0}Pie? I've heard of it.
+不出名的小门派，给个面子吧。¤Not famous small sect, give a face.
+还是不要得罪人比较好。¤It's better not to offend people.
+好强的内力！¤What strong internal power!
+我居然输了...¤I can't believe I lost...
+可恶！这是什么招式！¤Damn! What a move!
+这招太快了，我都没看清！¤It was so fast, I didn't even see it!
+我不服！¤I'm not convinced!
+心服口服！¤I'm convinced!
+为什么会遇到这么强的对手...¤Why did you meet such a strong opponent...
+你只是运气好！¤You were just lucky!
+果然高手众多...¤I'm sure there are many masters...
+有此宝相助我的实力能涨一大截！¤With this treasure, my strength will increase by a large margin!
+这是我的！谁都别跟我抢！¤This is mine! No one will take it from me!
+倾家荡产我也要买下！¤I'll buy it even if it costs me a fortune!
+我出<color=red>{0}</color>！别墨迹！¤I'll give you <color=red>{0}</color>! Don't be silly!
+多加点！我出<color=red>{0}</color>！¤Add more! I'll give you <color=red>{0}</color>!
+<color=red>{0}</color>！谁敢再来？¤<color=red>{0}</color>! Who dares to come back?
+感觉不太值了。¤It doesn't feel quite worth it anymore.
+这没必要。¤It's not necessary.
+我得考虑下。¤I'll have to think about it.
+不跟你们争了。¤Not going to argue with you guys.
+这个价，我不能接受。¤This price, I can not accept.
+哎...看戏吧。¤Hey ... Let's see what happens.
+我出<color=red>{0}</color>。¤I'll pay <color=red>{0}</color>.
+稍微加点，<color=red>{0}</color>。¤Slightly more, <color=red>{0}</color>.
+协助作坊¤Assist the workshop
+简单¤Simple.
+最近门派要赶制一批装备，作坊日夜赶工都忙不过来，你要去帮帮忙吗？¤Recently the sect has to make a batch of equipment in a hurry, and the workshop is too busy to work day and night.
+去作坊协助炼制一件完成度<color=red>30%</color>以上的装备¤Go to the workshop and help make a piece of equipment with <color=red>30% completion</color> or more.
+协助药庐¤Assist the medicine house
+门派不少丹药药效都过期了，需要重新炼制一批，你要去帮帮忙吗？¤Many of the sect's pills have expired and need to be refined.
+去药庐协助炼制一件完成度<color=red>30%</color>以上的丹药¤Go to the Medicine Lodge and help refine a potion with a completion level of <color=red>30%</color> or higher
+以示惩戒¤as a disciplinary measure
+较难¤Harder
+最近收到消息说在大衍城中有人一直在散布谣言，以此来影响我派声誉，请阁下前往将其<color=red>教训一二</color>，以示惩戒。¤I recently received news that someone in Dayan City has been spreading rumors as a way to affect our sect's reputation, so please go and <color=red>teach them a lesson or two</color> as a sign of discipline.
+去大衍城的酒馆中打探一二¤Go to the tavern in Dayan City and poke around a bit
+抓获叛徒¤Catch the traitor
+困难¤Difficulty
+我派出现一名叛徒，击伤同门后逃向了<color=red>{0}</color>，希望阁下能将其<color=red>抓获并送回</color>我派。¤A traitor has appeared in our faction and fled to <color=red>{0}</color> after wounding a fellow disciple, I hope you can <color=red>capture him and send him back to </color>our faction.
+情报说叛徒逃向了<color=red>{0}</color>，过去看看有没有形迹可疑的人¤We have information that the traitor has fled to <color=red>{0}</color>, go and see if there is anyone suspicious.
+剿灭山匪¤Eliminate the mountain bandits
+一般¤General
+有居住附近的百姓向我们反应最近山匪横行，我们既是习武之人自是应该除暴安良，阁下可否前去铲除<color=red>3处山寨</color>？¤We have received reports from people living nearby that bandits have been on the loose recently.
+寻找山寨并将其铲除，当前剩余<color=red>（{0}/3）</color>¤Find the fortress and eradicate it, currently <color=red>({0}/3)</color> remaining
+弟子失踪¤Disciple missing
+一年前我派一名叫<color=red>{0}</color>的弟子前往江湖历练，时至今日音讯全无，只知其喜游山玩水，常游历于<color=red>山谷之中</color>，阁下可否帮忙寻找线索？¤A year ago, a disciple of my school named <color=red>{0}</color> went to the jungle for training, but he has not been heard from since then.
+有不少常年<color=red>云雾环绕</color>的山谷之地，多去找找看¤There are many valleys surrounded by <color=red>clouds</color> all year round.
+天呐！这群人都疯了！¤Jesus! These people are crazy!
+可恶！快看看我钱还够不够。¤Damn it! Let's see if I have enough money left.
+什么？我没听错吧？¤What? Did I hear you right?
+此宝我势在必得。¤I'm going to get this treasure.
+这点钱就别玩了。¤Don't play with this money.
+陪你们慢慢玩。¤I'll take my time with you.
+完了！抢不过你们...¤It's over! I can't rob you guys...
+至不至于啊...¤To the extent that ah ...
+好眼红...¤Good eye...
+来的有钱人不少。¤There are a lot of rich people here.
+急什么急？¤What's the hurry?
+最后还会是我的。¤It will still be mine in the end.
+<color=red>{0}</color>！一群渣渣！¤<color=red>{0}</color>! Bunch of scum!
+<color=red>{0}</color>！只能是我的！¤<color=red>{0}</color>! It can only be mine!
+<color=red>{0}</color>！懒得和你们慢慢玩！¤<color=red>{0}</color>! Too lazy to play slowly with you guys!
+什么派？你听说过吗？¤What pie? Have you heard of it?
+什么阿猫阿狗在叫？¤What kind of a cat and dog is barking?
+这是来搞笑的吗？¤Is this here to be funny?
+一般般吧。¤It's so-so.
+比我的好不了多少。¤Not much better than mine.
+看看后面还有什么好货。¤Let's see what else is good at the back.
+此门功法正合我意！¤This technique is right up my alley!
+好功法！我要了！¤Good gongfu! I'll take it!
+神功现世了！¤The divine power is now available!
+正好缺一把趁手的武器！¤I need a weapon that I can use!
+哇！这比我的兵器好太多了。¤Wow! This is so much better than my weapon.
+居然有此等神兵利器！¤I can't believe I have a weapon like this!
+承让！¤I'll take it!
+还不够我热身。¤It's not enough to warm me up.
+哈哈哈！遇到我算你倒霉！¤Ha ha ha! It's your bad luck to meet me!
+什么阿猫阿狗也敢来。¤How dare any dog or cat come here?
+侥幸获胜。¤A lucky win.
+你太慢了。¤You're too slow.
+回去再练几年吧。¤Go back and practice for a few more years.
+一个能打的都没有！¤There's no one who can fight!
+阁下身手还不错。¤Your hands are not bad.
+这...都争破头了。¤This... It's all scrambled.
+悠着点，还有别的！¤Take it easy, there are others!
+额...要不要算了。¤Well... I don't think so.
+我也要叫个大的！¤I'll call a big one too!
+有趣起来了~¤It's funny.
+故意抬价呢？¤You're deliberately raising the price?
+还早得很！¤It's still early!
+敢不敢多加点？¤How dare you raise the price?
+竞争者还不少呢。¤There's a lot of competition.
+你戒备着进入到石洞并扫视其内部发现竟有一人躺在石洞的角落里，身旁有暗红色的血迹，也不知道此人是生是死。¤You enter the cave warily and scan its interior to find a man lying in the corner of the cave with dark red blood beside him, not knowing whether he is alive or dead.
+你轻轻走到此人身旁，发现其双目紧闭，面色煞白；你伸手一探鼻息，发现居然还有呼吸，只是极其微弱。¤You gently walk to this person's body, found his eyes tightly closed, his face white; you reach out a nose, found that there is actually breathing, but extremely weak.
+你取出水囊混合了一些随身携带的伤药一点一点喂给此人。¤You took out the water bag and mixed some wound medicine with you to feed this person little by little.
+事后你便开始打坐修炼，心想最多等到明日，不管此人是死是活，恐怕自己都得离开。¤Afterwards you began to meditate and cultivate, thinking that at most until tomorrow, whether this person is dead or alive, I'm afraid I have to leave.
+二日清晨你刚睁眼，发现此人不知何时已经苏醒，但也只是半眯着双眼看着自己。¤The second morning you just opened your eyes and found that this person had awakened at some point, but only half-smiling eyes looking at themselves.
+我昨日误打误撞进入到此处，发现你倒在这里，喂你服食了一点伤药。¤I entered here by mistake yesterday and found you down here, feeding you a little wound medicine.
+不过观你伤势颇重，仅仅如此恐怕无法治好。¤But your injuries are quite serious, I'm afraid this alone can not be cured.
+此人听闻，微微抬手，用非常微弱的声音说到。¤This person heard, slightly raised his hand, and said in a very weak voice.
+多谢...我全身经脉受损，五脏六腑都已衰竭，药石无用....¤Thank you... My whole body meridians are damaged, my internal organs are all exhausted, medicine and stones are useless ....
+我是<color=#E73434>{0}</color>弟子，游历于此山谷中，但在一隐秘之处遇到一名自称刚刚神功大成之人要与我试手。¤I am a <color=#E73434>{0}</color> disciple, traveling in this valley, but in a hidden place I met a person who claimed to have just attained great divine power who wanted to try his hand with me.
+此人出手极其狠辣，招招夺命，即便我已认输也不停手。¤I was very happy to see him, and he was very happy to see me.
+我被其重伤后逃至此处，一直尝试疗伤，但伤势还是无法控制...¤I was seriously injured by him and fled to here, has been trying to heal, but the injury is still uncontrollable ...
+此人越说脸色肉眼可见越来越没血色，喘气越来越重。¤The more this person says, the more bloodless his face is visible to the naked eye, and the heavier he breathes.
+你先休息一会。¤You rest for a while.
+此人微微摇头，只是深呼吸了几口，又再说到。¤The man shook his head slightly, just a few deep breaths, and then again.
+我打小是名孤儿，自幼便加入<color=#E73434>{0}</color>，掌门也对我喜爱有加，教我功夫并养育我长大成人。¤I was orphaned as a child, and I joined <color=#E73434>{0}</color> since I was young, and the master loved me, teaching me kung fu and raising me to adulthood.
+但还没来得及报答，便要葬身于此...¤But before I could repay him, I had to be buried here...
+这位兄台...可否...将我随身武器带回<color=#E73434>{0}</color>...并转告，门派养育之恩，来世再报...¤This brother... Can you... Could you bring my weapon back to <color=#E73434>{0}</color>... And tell him that I will repay him in the next life for his kindness...
+没问题，我答应你，一定将你的武器和话带回<color=#E73434>{0}</color>。¤No problem, I promise you that I will bring your weapon and words back <color=#E73434>{0}</color>.
+多....谢...¤Many .... Thanks...
+说完，此人便缓缓闭上了双目，再没有一点生息。¤After saying this, the man slowly closes his eyes, no longer breathing a bit of life.
+你走到他身旁拿起他的兵刃，并找了些石块将尸体勉强掩埋。¤You walk over to him and pick up his blade and find some rocks to barely bury the body.
+看来此山谷之中有一名练功走火入魔的疯子啊，见人便要动手，看来以后要小心点。¤It seems that there is a madman in this valley who has gone mad with his kung fu, and he wants to make a move when he sees someone, so he should be careful in the future.
+你收拾心情离开了山洞。¤You gather your mood and leave the cave.
+何事？¤What is it?
+莫来扰我清静。¤Do not come to disturb my peace and quiet.
+来此作甚？¤What are you doing here?
+尽是些不成器的崽子。¤You're just a bunch of untalented kids.
+罢了罢了。¤That's all.
+真是麻烦。¤What a nuisance.
+督促弟子勤加修炼！¤Tell your disciples to train harder!
+何人？¤Who is it?
+在下来抓一名<color=#E73434>{0}</color>的叛徒。¤I'm here to catch a <color=#E73434>{0}</color> traitor.
+额呵呵...原来如此...我...我也是来抓叛徒的。¤Uh huh... So that's how it is... I... I'm also here to catch the traitor.
+此人面色惶恐，说话结结巴巴，额头隐隐渗出汗水，看来是在撒谎。¤This person's face was terrified, his words stuttered, and sweat was faintly seeping out of his forehead, so he seemed to be lying.
+我看过这名叛徒的画像，就是你！¤I've seen this traitor's portrait, and it's you!
+啊！我没有，我只是阻止他们赶尽杀绝，放跑了几个山匪，我...¤Ah! I didn't, I just stopped them from rushing out and letting a few mountain bandits go, I...
+果然是此人，你只是稍微一诈此人便立马承认了。¤Sure enough, it was this person, you immediately admitted it after just a slight swindle of this person.
+阁下还是跟我回去，跟你的师门解释吧。¤You'd better come back with me and explain to your master.
+不！我跟你拼了！¤No! I will fight with you!
+你三下五除二的将此人五花大绑，但是此人嘴里却没闲着。¤You tied this person up in three strokes, but this person's mouth was not idle.
+放开我！阁下不要为<color=#E73434>{0}</color>做事，这些自诩名门大派，绝大多数都无侠义可言。¤Let go of me! Your Excellency do not work for <color=#E73434>{0}</color>, the vast majority of these self-proclaimed famous sects have no chivalry to speak of.
+在下数月前奉师门之命去讨伐山匪，攻入山寨中后发现那些不过是走投无路的普通山民而已。¤I was ordered by my master to crush the mountain bandits a few months ago, and after attacking the mountain fortress, I found that those were just ordinary mountain people who had no way out.
+而一行的其他同门却要将山寨中老弱妇孺全部屠戮一空，说是师名不可违。¤But the other members of my party wanted to slaughter all the old and weak women and children in the fortress, saying that the master's name must not be disobeyed.
+于是我便动手阻止了他们，寨中山匪也都放跑了。¤So I stopped them, and the bandits in the fortress were let go.
+返回师门后他们便打算诬陷我串通包庇山匪。¤After returning to the division, they intended to accuse me of conspiring to harbor the bandits.
+我百口莫辩，为避免大祸只好逃走...你帮他们等于是在助纣为虐啊！¤I couldn't defend myself, so I had to run away to avoid a big disaster... You're helping them, you're helping the enemy!
+他说完后见你依然表情默然，随后便面若死灰只能接受命运的安排。¤After he finished, he saw that you still look silent, and then ashen face can only accept the fate of the arrangement.
+此人功夫果然了得，你竟敌不过。¤This man's kung fu is really good, you can not defeat.
+阁下不要再助纣为虐，好自为之。¤You should not help the enemy and do your best.
+城中酒馆是主要的消息传播途径，谣言想必也是通过酒馆散布出去的。¤The city's taverns are the main way of spreading news, and rumors must have been spread through them.
+这位大侠，您想吃点啥？¤This warrior, what would you like to eat?
+一壶好酒，三斤牛肉。¤A pot of good wine and three pounds of beef.
+好勒~您请稍后。¤Okay, please wait.
+你装作一名普通的江湖客，慢条斯理的喝酒吃肉，但实则凝其耳韵仔细分辨着酒馆内其他客人的谈话内容。¤You pretend to be an ordinary jianghu customer, slowly and methodically drinking and eating meat, but actually condensing its ear rhyme to carefully distinguish the content of the conversation of other customers in the tavern.
+不一会<color=#E73434>{0}</color>三个字突然落入耳中，你寻声看去。¤The three words <color=#E73434>{0}</color> suddenly fall into your ears, and you look for the sound.
+只见不远处有一桌三人，你一言我一语的说着，而且声情并茂，仿佛生怕附近的人注意不到他们似的。¤You can see a table of three people not far away, you say one thing and I say another, and the voice is very strong, as if afraid that the people nearby will not notice them.
+哎~你知道吗，<color=#E73434>{0}</color>的掌门其实已经死了，最近刚刚继任的掌门是个女的。¤Hey ~ did you know that the <color=#E73434>{0}</color>'s headmaster has actually died, and the one who just recently succeeded him is a woman.
+啊？还有这等大事，没听说啊。¤What? There is such a big deal, I didn't hear about it.
+嗐，这你就不知道了，<color=#E73434>{0}</color>担心门派地位下降，不敢公开消息。¤The <color=#E73434>{0}</color> is worried about the decline in the status of the sect and does not dare to disclose the news.
+这还不打紧，重要的是刚继任的这位女掌门和门下男弟子乱搞，听说肚子都给搞大了，这下更不敢公开消息了...¤It doesn't matter, but the important thing is that the newly appointed female head of the sect and the male disciples under the discipline to mess around, I heard that the belly are to get pregnant, now even more afraid to disclose the news...
+听到这你已经确认便是这几人在撒布谣言了，你缓步来到三人桌前。¤Hearing this you have confirmed that these people are spreading rumors, you slowly step to the table of three.
+三位，我这有个秘密消息告诉你们。¤Three, I have a secret message for you.
+你俯下身，用只有他们三人能听见的声音悄悄说道。¤You leaned down and said quietly in a voice that only the three of them could hear.
+其实我就是你们口中和女掌门乱搞的男弟子。¤In fact, I am the male disciple that you say is messing around with the female Sect Leader.
+其实我就是那名刚继任的女掌门。¤In fact, I am the female Sect Leader who has just succeeded to the post.
+三人听到你的话后一愣。¤The three of them froze when they heard your words.
+你不等三人反应，用未出鞘的武器一把抽在其中一人脸上，先动手了。¤You didn't wait for the three to react, and used the unsheathed weapon to whip one of them in the face with a hand and strike first.
+啊！可恶！¤Ah! Damn it!
+以后再到处胡言乱语，死路一条！¤If you go around talking nonsense in the future, you will die!
+三人捂着脸，一边称是一边跑掉了。¤The three men covered their faces and ran away while saying yes.
+狗日的敢打我兄弟，以后别让我看见你。¤Don't let me see you again.
+你被扔出了酒馆之外。¤You were thrown out of the tavern.
+都是地道药材，合作愉快。¤It's all authentic herbs, happy cooperation.
+哈哈哈！"合作"愉快。¤Hahaha!" Happy "cooperation".
+我厌倦了江湖。¤I'm tired of the jianghu.
+不想再打打杀杀了。¤Don't want to fight and kill anymore.
+希望不会有人来抓我。¤I hope no one will come to arrest me.
+材料品质都不错，合作愉快。¤The materials are of good quality, happy cooperation.
+嘿嘿嘿~等我收点<color=red>"好货"</color>再过来~¤Hey hey hey~ I'll come back when I get some <color=red>"goodies"</color>.
+选择需要的<color=red>招式类型</color>与<color=red>属性</color>，调整<color=red>威力</color>，会显示消耗相应的<color=red>参悟值</color>，然后选择<color=red>护法弟子</color>就可以参悟功法了。¤Select the desired <color=red>stance type</color> and <color=red>attribute</color>, adjust the <color=red>power</color>, it will show the corresponding <color=red>enlightenment value</color> consumed, then select <color=red>Guardian Disciple</ color>and then select <color=red>Guardian Disciple</color> to enlighten the technique.
+点击<color=red>背包任意空格</color>打开仓库，然后<color=red>点击右键</color>进行装备与学习功法。¤Click <color=red>any space in your backpack</color> to open the warehouse, and then <color=red>right click</color> to equip and learn the technique.
