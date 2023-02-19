@@ -1,6 +1,7 @@
-## Evolution of JiangHu (大衍江湖) - Amateur Modding Avenue Translation Mod
+
+## Evolution of JiangHu (大衍江湖) - Amateur Modding Avenue Translation Mod V2
 ### About
-This is a fan made translation mod project for the game, 大衍江湖 - Evolution of JiangHu. This mod is an unofficial English translation of the game. 
+This is a fan made translation mod project for the game, 大衍江湖 - Evolution of JiangHu. This mod is an unofficial English translation of the game. This is the new V2 version of the mod, which requires a lot less maintenance than the last mod, and in theory will support future updates of the game a lot more easily.
 ### Where to get the game?
 This early-access game is available on steam here: https://store.steampowered.com/app/1502040/__Evolution_Of_JiangHu/ See this store page for more details about the game. Note that they do not officially support English or this fan-made mod.  
 ### Community and Support
@@ -17,7 +18,8 @@ For this game in particular we are looking for guide writers, and others to help
 See the ADVANCED section of the mod-tools branch readme if you are interested in helping maintain this mod or just want to compile the mod yourself from your game files. You can do this in the event the current mod release doesn't support your current game version: https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/tree/mod-tools#readme
 ### Credits
 - Cadenza - Original Mod Creator
-- Beast - Translated Textures Creator
+- rfc_club - Mod Template Creator
+- Beast - Translated Textures Creator, and Troubleshooting
 - Sennek - Mod Creation Help
 - Sweetbro - IWOL Replacer Creator (tool used for creating this mod)
 - Lamim (lemon07r) - Current Mod and Github Maintainer
@@ -29,21 +31,57 @@ You can download the latest version of the translation mod from this GitHub repo
 
 https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/releases
 
-https://drive.google.com/drive/folders/15ov-ALfmUo4uane1f46RtKZ4H1CJ9nXY?usp=sharing
-
 https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/archive/refs/heads/current-release.zip
 ### Installation Instructions
 Switching to the stable branch from the default branch is mandatory as of now to use this translation mod. We currently only support the Stable branch of the game. This game's developer has kindly agreed to update this branch to the latest version for us monthly, which will help keep updates predictable both for maintenance and you guys. Follow the instructions below and see how to change your game to the stable branch.
-#### Part 1 - Switching your game to the Stable branch (MANDATORY)
+#### OPTIONAL - Switching your game to the Stable branch
+This is no longer mandatory, this new v2 mod will theoretically work with any version of the game. Stable branch updates less frequently.
 1. Open Steam and go to your Steam library. Install the game if you haven't yet, then right-click on it and select "Properties" 
 2. In the left panel of the properties window select "BETAS" 
 3. There will be a drop-down menu under "Select the beta you want to opt into:". Click the drop-down arrow to the right and select "stable - Stable branch" 
 4. That's it. You're now on the stable branch of the game and can proceed to follow the instructions below to install the translation mod. 
 ![Switching to Stable Branch Demonstration](https://i.imgur.com/70yoood.gif)
-#### Part 2 - Installing the Translation Patch
-1. Backup your game folder if you don't want to have to verify files using Steam in case things go wrong. 
-2. Download the translation mod files (see Downloads section) 
-3. Copy these files to your root game folder (i.e.: .\Steam\steamapps\common\大衍江湖), and overwrite when prompted. 
-4. Run SetupReiPatcherAndAutoTranslator.exe [Note: XUnity is used as a framework for text replacement at runtime. Autotranslation features have never been used and are turned off. They should remain that way.] 
-5. Launch the EvolutionOfJiangHu (Patch and Run) shortcut 
-6. Done! You will need to use this shortcut whenever you want to play. 
+#### Mod Installation
+*More beginner friendly instructions coming soon.*
+
+Important files and procedure :
+
+The translation dict file used to patch the .dll file (hereafter DLLKV) is in BepinEx\plugins\Translations\DLLKV.txt
+The translation dict file used to patch the TextAssets file (hereafter TAKV) is in BepinEx\plugins\Translations\TA.txt
+
+If you need to update DLLKV, then, you need to modify this file, same goes for TAKV.
+
+In BepinEx\plugins\Translations\Log, you will find useful informations to update the mod. 
+
+	=>> Update procedure for DLL Patching : 
+
+Everything is automatic. The code will fetch strings from DLLKV, put them in a dict, patch the .dll. 
+Anything that is untranslated (string found in the .DLL but not in DLLKV, will be added to Log\DLLUN.txt. 
+Anything that is obsolete (i.e. is in DLLKV but not in the .DLL file) will be removed.
+Resulting new DLLKV (= DLLKV - Obsolete) will be in Log\NewDLLKV.txt
+
+So if you want to update the KV, you need to : 
+
+Take this NewDLLKV file, translate DLLUN.txt, add it and its translation (with a "¤" separator as always) at the end of NewDLLKV.txt. Rename the file to DLLKV.txt and copy it to the "Translations" dir, overwrite the old file. 
+
+	=>> Update procedure for TA Patching : 
+
+Same than before, there are 3 files : 
+Translations\TAKV.txt
+Log\NewTAKV.txt
+Log\TAUN.txt
+
+To update the TA, you need to have clean files in steamapps\common\大衍江湖\EvolutionOfJiangHu_Data
+
+In-game, press F10. 
+TAKV will be used to patch the assets, TTAUN and NewTAKV will be generated.
+The generated files will be :
+
+大衍江湖\EvolutionOfJiangHu_Data\resources.assets.modded
+大衍江湖\EvolutionOfJiangHu_Data\sharedassets1.assets.modded
+
+We can't have the game replace them directly because they are loaded by the game when it starts, so they can't be modified before the game is exited.
+
+So when it's done (approx 2-4 min), exit the game. Backup your resources.assets and sharedassets1.assets files, rename the .modded files by removing the ".modded" part of their name (so they match the name of the original files).
+
+Relaunch the game. 
