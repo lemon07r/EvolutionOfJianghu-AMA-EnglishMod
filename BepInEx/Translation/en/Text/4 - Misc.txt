@@ -15,6 +15,7 @@ sr:(.*)体魄资质(.*)=$1Stamina Qualification$2
 sr:(.*)洞察资质(.*)=$1Insight Qualification$2
 sr:(.*)灵敏资质(.*)=$1Agility Qualification$2
 sr:(.*)韧性资质(.*)=$1Tenacity Qualification$2
-sr:(.*)刀法资质(.*)=$1Wits Qualification$2
+sr:(.*)悟性资质(.*)=$1Wits Qualification$2
 sr:(.*)刀法资质(.*)=$1Blade Qualification$2
 sr:(.*)剑法资质(.*)=$1Sword Qualification$2
+
