@@ -29,7 +29,7 @@ If I missed anyone, please let me know.
 ### Downloads
 You can download the latest version of the translation mod from this GitHub repo's releases page, our google drive link, or by downloading a zip of this repo's current-release branch. Find the download links below.
 
-Test releases: 
+Tested releases: 
 https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/releases
 
 Always latest release: 
