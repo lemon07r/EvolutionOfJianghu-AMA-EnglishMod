@@ -8694,7 +8694,7 @@ liangong_role.GetComponent<liangongroleui>().Roles.Name}在武楼中的经验提
 </color>女侠夺得魁首，真是巾帼不让须眉！¤</color> for winning the top spot!
 在下乃<color=red>「{OpenUi._instance.Gamedatas.PlayerFaction}」掌门</color>，这件拍品本门已经看上，望各位莫要再争！！¤I am the <color=red>「{OpenUi._instance.Gamedatas.PlayerFaction}」 master</color>, this lot is already in my sights, so I hope you won't compete for it!
 所有人的<color=#00FF07>兴趣下降了</color>¤Everyone's <color=#00FF07>interest has dropped</color>
-你获得了金钱:<color=#CF2B21>{num5}</color>,食物:<color=#CF2B21>{num6}</color>,药材:<color=#CF2B21>{num7}</color>,铁:<color=#CF2B21>{num8}</color>,木:<color=#CF2B21>{num9}</color>。¤You have gained money:<color=#CF2B21>{num5}</color>,food:<color=#CF2B21>{num6}</color>,herbs:<color=#CF2B21>{num7}</color>,iron:<color=#CF2B21>{num8}</ color>,wood:<color=#CF2B21>{num9}</color>.
+你获得了金钱:<color=#CF2B21>{num5}</color>,食物:<color=#CF2B21>{num6}</color>,药材:<color=#CF2B21>{num7}</color>,铁:<color=#CF2B21>{num8}</color>,木:<color=#CF2B21>{num9}</color>。¤You have gained money:<color=#CF2B21>{num5}</color>,food:<color=#CF2B21>{num6}</color>,herbs:<color=#CF2B21>{num7}</color>,iron:<color=#CF2B21>{num8}</color>,wood:<color=#CF2B21>{num9}</color>.
 话音刚落，茅屋中的老人已经不见踪迹。¤As soon as the words left his mouth, the old man in the hut was gone.
 金钱:<color=red>{(int)num17}</color>¤Money:<color=red>{(int)num17}</color>
 铁:<color=red>{(int)num20}</color>¤Iron:<color=red>{(int)num20}</color>
