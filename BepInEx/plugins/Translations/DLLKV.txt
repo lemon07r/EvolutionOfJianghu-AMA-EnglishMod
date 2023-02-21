@@ -6485,10 +6485,7 @@
 <color=#6FF6B1>上供物资</color>¤<color=#6FF6B1>Supplies</color>
 <color=#6FF6B1>发掘人才</color>¤<color=#6FF6B1>Discover talents</color>
 <color=#F6BA6F>发掘人才</color>¤<color=#F6BA6F>Discover talents</color>
-寒潭¤Cold pool
-村庄¤Villages
 洞穴¤Caves
-温泉¤Hot springs
 <color=#6FF6B1>臣服</color>¤<color=#6FF6B1>Surrender</color>
 仇敌¤Enemy
 <color=#6FF6B1>贸易中</color>¤<color=#6FF6B1>Trading</color>
@@ -6581,8 +6578,6 @@
 商队¤Caravan
 钱不够¤Not enough money
 逃¤Escape
-路过¤Passing by
-村民¤Villagers
 踩雷¤Taking risks
 <color=red>非商人(成功率10%)</color>¤<color=red>Non-merchants (success rate 10%)</color>
 <color=green>商人(成功率¤<color=green>Merchants (success rate
@@ -6671,7 +6666,6 @@ sell贩子¤sell dealer
 一本秘籍¤A cheat book
 \n<color=red>(武技获得提升)</color>¤\n<color=red>(martial arts skills are improved)</color>
 \n<color=red>(灵敏+¤\n<color=red>(Agility+
-神秘人¤Mysterious man
 镖师¤Dart Master
 剑¤sword
 刀¤Blade
@@ -9382,7 +9376,6 @@ None防提升: ¤None Anti-boost:
 主持人¤host
 二级¤Secondary
 于是你决定继续再...\n<color=red>（剩余体力: ¤So you decide to continue...\n<color=red>(remaining stamina:
-云雾¤clouds
 交换功法¤Exchange exercises
 交涉俘虏¤Negotiate with prisoners
 人受伤</color>了¤People are hurt</color>
@@ -9622,8 +9615,6 @@ None防提升: ¤None Anti-boost:
 小型(¤Small (
 小石子¤Pebbles
 展现绝学¤Show unique skills
-山寨¤Copycat
-山贼¤Bandit
 巡视弟子直接把你赶出了藏经阁¤The inspecting disciples kicked you out of the Sutra Pavilion directly
 工作中¤at work
 已前往<color=#e37b14>「¤Has gone to <color=#e37b14>「
@@ -9871,7 +9862,6 @@ None防提升: ¤None Anti-boost:
 舵主</color>¤Helmsman</color>
 良好¤good
 草药:<color=red>{0}</color>¤Herbs: <color=red>{0}</color>
-荒野¤wilderness
 药庐弟子¤Disciple of Medicine House
 药香如此浓郁，功效定然绝顶，阁下真是厉害，如此好药你取走一瓶作为酬谢吧，多谢了。¤The fragrance of the medicine is so strong, the efficacy must be extremely powerful, Your Excellency is really amazing, you can take a bottle of such a good medicine as a reward, thank you very much.
 药香扑鼻，想必功效不会太差，阁下功不可没，就取走一瓶作为酬谢吧。¤The fragrance of the medicine is tangy, and the effect must not be too bad. Your Excellency has contributed a lot, so I will take a bottle as a reward.
