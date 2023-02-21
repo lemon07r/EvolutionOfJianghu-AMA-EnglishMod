@@ -33,7 +33,7 @@ Tested releases:
 https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/releases
 
 Always latest release: 
-https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/archive/refs/heads/current-release.zip
+https://github.com/lemon07r/EvolutionOfJianghu-AMA-EnglishMod/archive/refs/heads/v2-mod.zip
 ### Installation Instructions
 Switching to the stable branch from the default branch is mandatory as of now to use this translation mod. We currently only support the Stable branch of the game. This game's developer has kindly agreed to update this branch to the latest version for us monthly, which will help keep updates predictable both for maintenance and you guys. Follow the instructions below and see how to change your game to the stable branch.
 #### OPTIONAL - Switching your game to the Stable branch
