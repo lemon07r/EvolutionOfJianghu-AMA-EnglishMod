@@ -8017,13 +8017,6 @@ Finally got out of the Back Peak, and said that this retreat allowed him to impr
 本次交易贵派一共<color=#E73434>花费:{zhichu}</color>,<color=#00A603>收入:{shouru}</color>,各取所需,互惠互利！¤Total cost of this <color=#E73434>transaction:{zhichu}</color>,<color=#00A603>Income:{shouru}</color>, each one takes what it needs, it's mutually beneficial！
 哎...既然如此,那贵派<color=#E73434>花费:{zhichu}</color>,<color=#2AE03C>收入:{shouru}</color>,这是亏本价了！¤Hey…In that case, the <color=#E73434>cost:{zhichu}</color> for your faction will be <color=#2AE03C>:{shouru}</color>, this is a huge discount !
 你获得了金钱:<color=#CF2B21>{num4}</color>,食物:<color=#CF2B21>{num5}</color>,药材:<color=#CF2B21>{num6}</color>,铁:<color=#CF2B21>{num7}</color>,木:<color=#CF2B21>{num8}</color>。¤Money gained: <color=#CF2B21>{num4}</color>,Food: <color=#CF2B21>{num5}</color>,Medicinal herbs: <color=#CF2B21>{num6}</color>,Iron: <color=#CF2B21>{num7}</color>,Wood:<color=#CF2B21>{num8}</color>。
-力量¤Strength
-内力¤Stance
-体魄¤Stamina
-洞察¤Insight
-灵敏¤Agility
-韧性¤Tenacity
-悟性¤Wits
 你获得<color=red>金钱:{num75},粮食:{num76}</color>¤You gain <color=red>Money:{num75}, Food:{num76}</color>
 ·伤¤·Injury
 ·防¤·Defense
@@ -8177,15 +8170,6 @@ Finally got out of the Back Peak, and said that this retreat allowed him to impr
 银光履¤Silver Light Cushion
 刀法¤Blade
 剑法¤Sword
-力量资质¤Strength Qualification
-内力资质¤Internal Technique Qualification
-体魄资质¤Stamina Qualification
-洞察资质¤Insight Qualification
-灵敏资质¤Agility Qualification
-韧性资质¤Tenacity Qualification
-悟性资质¤Wits Qualification
-刀法资质¤Blade Qualification
-剑法资质¤Sword Qualification
 除此之外没有什么特别的才能。¤other than that, that person doesn't seem to have anyspecial talents.
 相貌平平¤simple looking
 <color=#00FFDD>相貌出众</color>,¤<color=#00FFDD>outstanding Appearance</color>,
