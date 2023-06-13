@@ -19,3 +19,13 @@ sr:(.*)悟性资质(.*)=$1Wits Qualification$2
 sr:(.*)刀法资质(.*)=$1Blade Qualification$2
 sr:(.*)剑法资质(.*)=$1Sword Qualification$2
 
+sr:"(.*)松木(.*)=$1Pine Wood$2
+sr:"(.*)杉木(.*)"=$1Fir wood$2
+sr:"(.*)榉木(.*)"=$1Beech wood$2
+sr:"(.*)香樟木(.*)"=$1Balsam fir wood$2
+sr:"(.*)银杏木(.*)"=$1Ginkgo wood$2
+sr:"(.*)紫檀木(.*)"=$1Rosewood$2
+sr:"(.*)花梨木(.*)"=$1Huali wood$2
+sr:"(.*)乌木(.*)"=$1Ebony$2
+sr:"(.*)沉香木(.*)"=$1Incense wood$2
+sr:"(.*)金丝楠木(.*)"=$1Goldenrod wood$2
