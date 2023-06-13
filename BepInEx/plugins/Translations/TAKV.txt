@@ -239,20 +239,10 @@
 提升属性|增强战力|突破功法。¤Enhance attributes|Boost battle power|Breakthrough Skillsets。
 天元金莲¤Tian Yuan Golden Lotus
 治疗伤势|提升心情|恢复体力。¤Heal injuries|Enhance Mood|Recover Vigor。
-松木¤Pine Wood
 随处可见的普通木料。¤Common wood that can be found everywhere。
-杉木¤Fir wood
-榉木¤Beech wood
 优秀的建筑材料。¤Excellent building material。
-香樟木¤Balsam fir wood
-银杏木¤Ginkgo wood
-紫檀木¤Rosewood
 难得一见的高级木料。¤Rarely found premium wood。
-花梨木¤Huali wood
-乌木¤Ebony
-沉香木¤Incense wood
 产量稀少且极其珍贵的木料。¤Rare and extremely valuable wood。
-金丝楠木¤Goldenrod wood
 看过此书会使人性情大变。¤Reading this book will change one's disposition dramatically。
 此书记载了世间之奥秘。¤This book records the mysteries of the world。
 合作¤Cooperation

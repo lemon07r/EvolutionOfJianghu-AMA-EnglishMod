@@ -6444,17 +6444,7 @@
 确认要结束议价了吗？¤Are you sure you want to end the trade?
 掌门¤Sect
 没有小石子¤No small stones
-等级已满¤Level is full
-松木¤Pine Wood
-杉木¤Fir wood
-榉木¤Beech wood
-香樟木¤Balsam fir wood
-银杏木¤Ginkgo wood
-紫檀木¤Rosewood
-花梨木¤Huali wood
-乌木¤Ebony
-沉香木¤Incense wood
-金丝楠木¤Goldenrod wood
+等级已满¤Max level reached!
 山门成功升级到¤The Sect Gate was successfully upgraded to
 级¤Level
 门派威名<color=#00FF07>+60</color>¤Sect Prestige <color=#00FF07>+60</color>
@@ -9939,7 +9929,6 @@ None防提升: ¤None Anti-boost:
 请选择投资商人¤Please select an investor
 请选择角色¤Please select a role
 谢谢啦，记得经常来帮忙啊，有没用完的材料我会送你当报酬的~¤Thank you, remember to come to help often, I will send you as a reward if there are any unused materials~
-谣言¤rumor
 货物¤goods
 资质已经无法提升¤Qualification can no longer be improved
 过程中竟然没被任何人察觉，过了一会后你为了安全起见暂时放下了秘籍，功法研习提升了<color=red>¤During the process, no one noticed. After a while, you temporarily put down the cheat book for safety reasons, and the exercise study has improved <color=red>
