@@ -8612,7 +8612,7 @@ liangong_role.GetComponent<liangongroleui>().Roles.Name}在武楼中的经验提
 建帮{OpenUi._instance.Gamedatas.MasterYear + 1}年¤Jianbang{OpenUi._instance.Gamedatas.MasterYear + 1} years
 <color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「玩家」</color>被<color=#FF4FB7>{OpenUi._instance.Canvas_Battlefield.transform.GetComponent<Battlefield>().faction_Camp_Player}</color><color=#902dbe>攻破了山门</color>¤<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction} 「Player」</color>is <color=#FF4FB7>{OpenUi._instance.Canvas_Battlefield.transform.GetComponent<Battlefield>().faction_Camp_Player}</color><color=#902dbe>broke through the mountain gate</color>
 <color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「玩家」</color>被山贼<color=#902dbe>攻破山门</color>并被<color=#fe2929>洗劫一空</color>。¤<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction} 「Player」</color>was broken through the mountain gate by bandits <color=#902dbe></color> and looted by <color=#fe2929></color>.
-<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「玩家」</color>攻破了<color=#FF4FB7>雷火帮</color>的山门并将其门派<color=#902dbe>屠杀一空</color>¤<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction} 「Player」</color>broke through <color=#FF4FB7>the mountain gate of the Thunder Fire Gang</color> and slaughtered its sect <color=#902dbe></color>
+<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「玩家」</color>攻破了<color=#FF4FB7>雷火帮</color>的山门并将其门派<color=#902dbe>屠杀一空</color>¤<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction} 「Player」</color>broke through <color=#FF4FB7>the mountain gate of the Thunder Fire Gang</color> and <color=#902dbe>slaughtered its sect</color>.
 好！你等着,我知道你是{OpenUi._instance.Gamedatas.PlayerFaction}的人！¤Hmm! Just you wait, now I know you are {OpenUi._instance.Gamedatas.PlayerFaction}!
 <color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「玩家」</color>攻破了<color=#FF4FB7>{text}</color>的山门,对方宣布<color=#902dbe>臣服</color>了¤<color=#fe2929>{OpenUi._instance.Gamedatas.PlayerFaction}「Player」</color>broke through the mountain gate of <color=#FF4FB7>{text}</color>, and the opponent announced that <color=#902dbe>surrendered</color>.
 真气消耗{(int)num}：伤害<color=#1CFF44>+++</color> 防护<color=#FF2900>--</color> 格挡<color=#FF2900>-</color>¤Qi consumption{(int)num}: damage <color=#1CFF44>+++</color>protection<color=#FF2900>--</color>block<color=#FF2900>-</color>
@@ -9657,7 +9657,6 @@ None防提升: ¤None Anti-boost:
 我派想要招募<color=red>{0}</color>的事被对方门派知道了。\n与<color=red>「{1}」</color>的关系降低了(-5)¤The fact that my faction wanted to recruit <color=red>{0}</color> was known by the other faction. \nRelationship with <color=red>「{1}」</color> decreased (-5)
 战意¤fighting spirit
 战斗¤fighting
-战斗剧情¤battle plot
 手脚放干净点，再发现要你好看！¤Put your hands and feet clean, and then find out that you will look good!
 打断敌人的攻击姿态¤Interrupt the enemy's attack stance
 打算使用<color=#FF786B>¤Going to use <color=#FF786B>
