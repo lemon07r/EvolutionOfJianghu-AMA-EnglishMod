@@ -67,7 +67,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 武馆=Martial School
 伤害:=Damage:
 无人闭关=No one in Closed Cultivation
-飞云门=Flying Cloud Sect
+飞云门=Feiyun Sect
 给500金=Give 500 gold
 支=support
 取消=Cancel
@@ -131,7 +131,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 格挡:=Blocking:
 心情：=Mood：
 小石子=Small stones
-执事会主动安排其他弟子生产工作\n（驻守该设施并且未受伤的弟子）=The deacon will take the initiative to arrange for other disciples to produce work \n (disciples who are stationed at the facility and are not injured)
+执事会主动安排其他弟子生产工作\n（驻守该设施并且未受伤的弟子）=The deacon will auto-assigns uninjured stationed disciples to work
 粮食:=Food:
 说明=Description
 交谈=conversation
@@ -159,7 +159,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 升级=Upgrade
 木=Wood
 剑法=Sword
-逃跑概率：=Probability of escape.
+逃跑概率：=Esc. Chance:
 给与=Give
 角色名字=Character Name
 刀法：=Blade
@@ -204,6 +204,72 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 金钱:=Money:
 给1000金=1000 gold
 荒野林=Wilderness Forest
+  突破=  Breakthrough
+查看行囊=Open Satchel
+转=o turn
+心情=Mood
+  易容=  Disguise
+功法=M.Art
+山下村民播种的粮食收成不错，村中人手无法收割如此多的粮食，希望我们可以派遣一些身手<color\=#FFB851>「灵敏」</color>的弟子前往协助抢收粮食。=The crops sown by the villagers at the foot of the mountain have yielded a bountiful harvest. However, the village lacks the manpower to reap it all in time. They hope we can send some <color\=#FFB851>Agile</color> disciples to assist in swiftly gathering the grain.
+后山外围发现了一处矿坑，想必其内部有不少矿藏，派遣一些<color\=#FFB851>「力量」</color>较大的弟子前去开采的话，打造各式兵刃的矿石应该能获得不少。=A mine has been discovered on the outskirts of the back mountain. It likely holds a wealth of ore. If we send disciples with <color\=#FFB851>Strong</color> physical prowess to excavate it, we should be able to gather ample materials for forging all kinds of weapons.
+弟子<color\=#78E2FF>Rao Jia Jia </color>来到村中在四处调查一番后，终于在一天夜里将其引诱出来并发现是一只硕大无比的野猪，好在自己力气不小加上村民配合，终于成功抓获，只有几名村民受了一些轻伤，村民很高兴，送上了粮食做为谢礼。=Disciple <color\=#78E2FF>Rao Jia Jia</color> arrived at the village and conducted a thorough investigation. One night, she finally lured out the culprit—a massive wild boar. Fortunately, with her considerable strength and the villagers' cooperation, they managed to capture it. Only a few villagers sustained minor injuries. Grateful, the villagers offered food as a token of thanks.
+这批货送到酬劳不菲,大伙加把劲！\r=Good pay for this job—let's hustle!\r
+谁敢惹事的,兄弟们不必留手！\r=Cause trouble, and we strike hard!\r
+前方开道的护卫注意安全,当心盗匪！\r=Guards, stay alert—bandits ahead!\r
+这是一座山寨,还能隐约听到从寨中传出的大笑与女人嚎哭的声音。\r=Laughter and cries echo from the mountain stronghold.\r
+这里有一个村子;村子很小,大概只有十来户人家。\r=A small village—only about a dozen households.\r
+难道要死在这吗...\r=Am I..going to die here?\r
+谁来救救我.....\r=Someone..please save me..\r
+可恶...居然敢伤我！\r=Damn it..How dare you wound me!\r
+这里有一处潭水,竟然令得附近奇寒无比,真是神奇!\r=A cold aura surrounds this mysterious pool\r
+最大次数=Max Attempts
+这些山贼必定是作恶多端之辈，如果不除掉，周边的百姓必定永无宁日；你毫不犹豫的冲了进去。\r=These bandits are surely wicked beyond redemption. If they're not eliminated, the nearby villagers will never know peace. Without hesitation, you charge in.\r
+嗯？！什么人！居然有人敢单枪匹马闯我们山寨！不要命了？\r=Huh?! Who goes there?! Someone dares charge into our stronghold alone? Tired of living, are you?!\r
+Storm挑=Storm Pick
+Storm绞=Storm Twist
+Storm劈=Storm Split
+Storm撩=Storm Flick
+你正行至半路,忽然从路旁窜出<color\=red>2</color>名手持刀剑之人,观其打扮,应该不是什么好人！=As you make your way down the road, suddenly <color\=red>2</color> sword-wielding men leap out from the roadside. Judging by their appearance, they’re clearly up to no good!
+站住！打劫！要钱还是要命！=Stop right there! This is a robbery! Your money or your life!
+止痛合血,能治疗角色伤势。=Pain-relief and blood-recovery medicine that heals the character's injuries.
+普通白色玉石,对韧性略有助益。=A common white jade. Slightly enhances toughness.
+此时你来到山寨各处，释放了那些被抓到山寨中的妇女；而且这伙山贼抢夺来的财物也都被你一并拿走。\r=You make your way through the bandit stronghold, freeing the captured women held within. You also seize the loot the bandits had plundered.\r
+这是一处自然形成的洞穴,不知道里面有什么。\r=A natural cave—its depths unknown.\r
+这里竟然是一处温泉,进去泡一下应该很舒服!\r=A hot spring! A soak should feel great.\r
+阁下有何赐教？\r=What guidance does your esteemed self have to offer?\r
+江湖险恶,在下不想与人随意结交。\r=The martial world is rife with danger — I prefer not to form bonds so carelessly.\r
+抱歉,在下还要赶路。\r=Forgive me, but my journey awaits — I cannot linger.\r
+阁下是何人？\r=And who, may I ask, are you?\r
+Storm削=Storm Cleave
+Storm断筋=Storm Tendon Break
+<color\=#FF54C0>「Storm断筋</color>=<color\=#FF54C0>Storm Tendon Sever | </color>
+After some careful exploration here, I found out<color\=#CF2B21>大衍天书X1</color>=After some careful exploration here, I found out<color\=#CF2B21>Da Yan's Divine Scroll X1</color>
+看过此书会使人性情大变。=Those who read this tome often undergo a drastic change in temperament.
+无色透明晶体,对灵敏略有助益。=A colorless, transparent crystal that slightly enhances agility and perception.
+补气养阴,提升身体各个属性。=Replenishes Qi and nourishes Yin, enhancing all physical attributes.
+可恶！快放了我！\r=Damn you! Let me go, now!\r
+江湖游侠=W.Swordsman
+精炼之铜,锻造之削略有助益。=Refined copper, offering slight enhancement when forging edged weapons.
+素色绸缎,能对斩稍作抵挡。=Plain silk fabric that offers slight resistance against slashing attacks.
+Storm刺=Storm Pierce
+这里是山贼都老巢，穷凶极恶之徒众多，再下去恐怕会很危险，你只能选择撤退。\r=This is the heart of the bandit stronghold, crawling with ruthless thugs. Going any deeper would be too dangerous—you have no choice but to retreat.\r
+村民=Villager
+哟~我们这个山沟沟里,可好久没有外来人了;你是打这路过的吗？\r=Well now~ It’s been a long time since we’ve seen an outsider in this remote mountain village. Just passing through, are you?\r
+我们村子很小,前方不远处就可下山,大侠慢走。\r=Our village is small. You can head down the mountain just a short way ahead. Safe travels, hero.\r
+拜访=Visit
+援助=Assistance
+什么？！竟是<color\=red>飞云门</color>的余孽！快通知帮主！兄弟们上！！\r=What?! It's a remnant of <color\=red>Feiyun Sect</color>! Notify the boss—brothers, attack!!\r
+Storm斩=Storm Chop
+Storm突=Storm Rush
+参加=Join
+武道会=Martial Tournament
+拍卖会=Auction
+容量=Capacity
+让开!否则别怪我不客气！\r=Out of my way! Or don’t blame me for what happens next!\r
+江湖游侠Disciple=Wandering Disciple
+原来如此,在下Min Yun ,不知阁下如何称呼。\r=I see. I am Min Yun. May I ask how I should address you?\r
+还有指教吗？\r=Do you have any further guidance?\r
+听说有人在附近得到个不得了的宝贝,也不知道是真是假。\r=They say a rare treasure was found nearby. Truth or tale, who can say?\r
 降级=Downgrade
 任务=Mission
 药师:=Pharmacist:
@@ -290,7 +356,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 悟性：=Wits：
 内功=Inner Strength
 灵敏:=Agility :
-更\n换\n功\n法=Change\n Martial \n Method
+更\n换\n功\n法=SWT\nManual
 草药=Herbs
 俘虏=Captivation
 改善伙食=Improve food
@@ -352,7 +418,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 全  部=All
 狩猎野兽=Hunting beasts
 等级=Level
-关系：=Relation:
+关系：=Aff. :
 弟子=Disciple
 点击右键退出=Right click to exit
 醍醐灌顶=The best of all worlds
@@ -372,7 +438,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 临时背包=Temporary backpack
 喵喵小虫=Meow Meow Bug
 习得内功=Acquire inner strength
-帮众：=Sect Members:
+帮众：=MBRS:
 江湖探秘=Exploration of Jianghu
 封闭山门=Seal the Gate
 江=Start
@@ -384,7 +450,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 森林伐木=Forest logging
 更\n换\n属\n性=Reroll \n Traits \n and \n Talents
 掌门在武楼中使用自身参悟点来创造功法，驻守的弟子能获取更多的参悟点，设施等级越高，创造功法的威力越大。=The master uses his own Mastery points to create Skillsets in the martial Hall; the resident disciples can obtain more Mastery points; the higher the level of the facility, the more powerful the Skillsets created.
-玩家可以选择门派中的弟子前往后山闭关；后山区域越深入，闭关效果越好，不仅功法修炼速度加快，还有几率自行领悟出新功法，但是弟子在闭关过程中，心情会逐渐下降；当闭关时间达到6个月后，弟子随时会出关，并且有一定概率会发现下一个区域的入口；下一次闭关必须间隔6个月时间。=Players can choose disciples in the sect to go to the Back Peak Closed Cultivation; the deeper the Back Peak area, the better the effect of Closed Cultivation, not only the speed of cultivation of Skillsets, there is a chance to comprehend new Skillsets on their own, but the disciple's mood will gradually decline during the Closed Cultivation; when the Closed Cultivation time reaches 6 months, the disciple will leave the Closed Cultivation at any time and has a certain probability to find the entrance to the next area; the next Closed Cultivation must be separated by 6 months.
+玩家可以选择门派中的弟子前往后山闭关；后山区域越深入，闭关效果越好，不仅功法修炼速度加快，还有几率自行领悟出新功法，但是弟子在闭关过程中，心情会逐渐下降；当闭关时间达到6个月后，弟子随时会出关，并且有一定概率会发现下一个区域的入口；下一次闭关必须间隔6个月时间。=Players can assign disciples to the Back Peak for Closed Cultivation. The deeper the area, the better the effects. (faster skillset cultivation and a chance to comprehend new skills) However, the disciple's mood will gradually decline. After 6 months, the disciple may exit at any time and might discover the entrance to the next area. A 6-month cooldown is required before the next Closed Cultivation.
 执事弟子每月有一定几率自动交易资源=Deacon disciples have a certain chance to trade resources automatically every month
 门派弟子可以在后山闭关修炼，也能进行探索来获得道具，驻守弟子每月会产出木，设施等级越高，木的获得越多。=The disciples of the sect can enter Closed Cultivation in the Back Peakto cultivate and also explore to get props. The stationed disciples will produce wood every month, the higher the level of the facility, the more wood you get.
 建立贸易=Establish trade
@@ -494,6 +560,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 称号=Title
 威胁=Threat
 随机=Random
+Disciples began to garrison仓库=Disciples have begun garrisoning the warehouse.
 药庐中可以使用药材来炼制各种丹药，驻守弟子每月会产出药，设施等级越高，药的获得量越多。=You can use herbs in the medicine lodge to make various kinds of elixirs, and the stationed disciples will produce medicine every month, the higher the level of the facility, the more medicine you get.
 剑\n法=Sword\n Law
 仓库:=Warehouse :
@@ -519,7 +586,7 @@ Quest to obtain props will be put into the Back Peak to obtain the end of the wo
 设施功能=Facility function
 结交=Befriend
 拒绝释放=Refuse to release
-囚犯数量：=N° of prisoners：
+囚犯数量：=Prisoners:
 剑法：=Sword
 驻守弟子=Resident disciples
 寒潭=Cold pool
@@ -596,6 +663,166 @@ sr:"^([\S\s]*>)掌门(<[\S\s]*)$"=$1Leader$2
 确认消耗<color%3Dred>金钱3000</color>,门派<color%3Dred>威望50</color>,实施招收弟子的政策吗？<color%3Dred>(三个月)</color>\n每月武馆招收学徒<color%3D#1DB72F>概率翻倍</color>=Confirmation consumption<color%3Dred>Money 3000</color>Sect<color%3Dred>Prestige 50</color>,Implement the policy of recruiting disciples?<color%3Dred>(3 months)</color>\nEvery month the martial arts school recruits apprentices<color%3D#1DB72F>The probability is doubled</color>
 门派弟子忠诚度提升量下降30%=30% reduction in the amount of loyalty enhancement for disciples of the sect
 弟子的战斗指令对真气消耗增加30%=Disciple's combat commands increase the consumption of Qi by 30%
+可是我<color\=red>飞云门</color>与对方已经争斗数十年，怎会突然就化解仇恨结为同盟！=But my <color\=red>Feiyun Sect</color> has been in conflict with the other side for decades—how could we suddenly let go of our hatred and form an alliance!
+此事必有蹊跷，我必须找掌门询问一番。=There must be something suspicious about this—I must ask the sect leader about it.
+近年我等虽然式微，但是门中弟子却越来越是骁勇，对方损失也很大，现在不敢和我们硬拼，便想使用阴谋诡计来对付我们，掌门千万不能相信他们。=Though our sect has waned in recent years, our disciples have grown ever more valiant. The enemy, having suffered heavy losses, now dares not face us in open battle. Instead, they resort to devious plots and underhanded schemes. The Sect Master must not, under any circumstances, place trust in their words!
+什么！我为本门出生入死十余年，为门派赴汤蹈火，数次险些丢掉性命，对门派忠心耿耿，只为帮助门派发展壮大，现在竟然如此随意就要将我逐出师门？=What! I have risked life and limb for our sect for over ten years—braving fire and water, narrowly escaping death time and again, all out of unwavering loyalty to help the sect grow strong. And now, you would cast me out so casually, as though all that meant nothing?
+既然如此，就此拜别，望掌门保重！=So be it. From this day forth, we part ways. May the Sect Master take good care of himself.
+掌门怎能如此对我！还轻信对方之言，几乎就等于任人鱼肉，而我又做不了什么，只能先自己立足以后再做打算。=How could the Sect Master treat me so! To so easily believe the enemy's words—it's no different than handing oneself over to be butchered! And yet, there is nothing I can do. For now, I must find my own footing... and bide my time.
+这个地方还算不错，先在这里安家吧。=This place isn't too bad...I'll settle down here for now.
+Disciples began to garrison武楼=Disciples stationed at Martial Tower.
+Pu First Grade-守 | Absolute First Grade-=Pu First Grade-Guardian | Absolute First Grade-
+舵=Branch
+点击<color\=red>背包任意空格</color>打开仓库，然后<color\=red>点击右键</color>进行装备与学习功法。\r=Click <color\=red>any empty slot in your inventory</color> to open the storage, then <color\=red>right-click</color> to equip or learn a martial art technique.
+这里管事的是谁！给我出来！\r=Who's in charge here? Show yourself!\r
+正是在下，足下是哪位。\r=I am indeed the one in charge. May I ask who you are?\r
+原来这样，在下初来乍到，还真不知道有这事，不知道需要什么条件呢。\r=So that's how it is. I've only just arrived and truly wasn't aware of this matter. Might I ask what the requirements are?\r
+好说好说，缴上10000保护费，让你在这随便做啥生意都行！\r=Easy enough—just hand over 10,000 as a protection fee, and you're free to do whatever business you want around here!\r
+这…！\r=Wha—?\r
+哪来的小崽子，看爷爷不收拾你！\r=Where'd this brat crawl out from? Watch how I teach you a lesson!\r
+小心！\r=Be careful!\r
+初级铁料,锻造之斩略有助益。=Basic Iron-Slightly enhances bladed forging.
+此处山谷云山雾罩神秘异常,深入其中还需格外小心。\r=A hidden valley veiled in fog. Stay alert.\r
+这么大的雾说不定会有什么奇遇宝贝，你一边摸索着一边前进。\r=Where mist gathers, fortune may follow—you edge onward through the haze, each step taken with quiet anticipation.\r
+前方雾气渐淡，你发现不远处有一个石洞，直觉告诉自己这洞中可能不简单。\r=As the mist thins ahead, a stone cave emerges in the distance. A feeling stirs within—you sense this cave holds hidden secrets.\r
+你戒备着进入到石洞之中，发现其内部空空如也，但是发现在洞壁之上刻画着一些动作，仿佛是一套功法。\r=Entering the cave with caution, you find it empty. Yet strange patterns etched on the stone walls seem to form a martial technique.\r
+于是你拿出自己的武器照着上面的动作练习起来。\r=Taking up your weapon, you begin to train, move by move, as instructed.\r
+你逐渐熟练这些动作之后心里暗自惊叹，这些动作玄妙异常，无论是刀法还是剑法皆能施展，并且威力不俗。\r=As the forms take root in your body, you secretly marvel—their intricacy is beyond compare, and whether with saber or sword, each strike holds formidable force.\r
+你感觉差不多便收拾东西离开了此处，刚离开没多远，忽然雾气翻滚，哪里还有之前石洞的踪影。\r=With training complete, you turned to leave. But soon after, the mist rolled in thick waves—where the stone cave once stood, there was only emptiness.\r
+有此奇遇自己真是幸运，你继续向前，并未多时便走出了山谷。\r=Blessed by this rare chance, you stride ahead. Before long, the misty valley lies behind you.\r
+什么！光天化日你居然敢如此！\r=What audacity! You dare act so brazenly under the open sky?\r
+Pu First Grade-守 | Absolute First Grade-准=Pu First Grade-Guardian | Absolute First Grade-Precise
+谁让你在这里教人武功的？这里是我<color\=red>雷火帮</color>的地盘，有没有跟我们打过招呼？=Who gave you permission to teach martial arts here? This is <color\=red>Thunderfire sect</color> territory—did you even check in with us?
+（这里居然也被<color\=red>雷火帮</color>控制了吗？）=(Even this place is under the <color\=red>Thunderfire sect</color> control?)
+师父！别理他，这人是附近的无赖，专门欺骗外来人的，他根本不是<color\=red>雷火帮</color>的弟子。=Master! Don't listen to him—he's just a local scoundrel who tricks outsiders. He's not even a member of the <color\=red>Thunderfire sect!</color>
+Storm砸=Storm Smash
+对方被打败后，一边放着狠话一边逃跑离开了。\r=After being defeated, the opponent fled while shouting threats.\r
+你胆子到是不小，没练几天功夫就敢跟人动手。\r=You've got guts, I'll give you that—barely trained a few days and already picking fights?\r
+师父，这种小混混，正好交给徒儿练手了，师父教的功夫果然厉害！=Master, this little punk is just right for me to hone my skills. The martial arts you taught me are truly powerful!
+切记与人动手要先观察对手虚实，不可以貌取人，不然小心吃大亏。\r=Always remember—before engaging in a fight, observe your opponent carefully. Never judge by appearance alone, or you might suffer a serious loss.\r
+徒儿记住了。\r=I will remember, Master.\r
+好，都下去各自练功去吧。=Alright, off you go—return to your training
+是！师父！=Understood, Master!
+现在过来的学徒已经比较多了，像今日这种情况恐怕以后还会遇到，不能随随便便就让外人进入才行。\r=With the growing number of incoming apprentices, situations like today may become more common. We mustn't allow outsiders to enter without proper scrutiny.\r
+有了山门就可以阻挡外人随意进出了，但是同样的需要有弟子驻守其中才能发挥作用。\r=The Sect gate can block unwanted intrusions, but it requires disciples to be stationed there to truly serve its purpose.\r
+现在也没其他事情了 开始<color\=red>下个月</color>吧。\r=There's nothing else for now. Time to move on to <color\=red>next month</color>.\r
+师父，今日弟子外出采购的时候听说最近江湖上发现了一件大事！\r=Master! While I was out buying supplies today, I heard there's been a major event in the jianghu!\r
+呵呵！江湖是非多，时不时就有不大不小的事情到处流传，最近有出了什么大事了？\r=Heh, the jianghu is full of rumors—every now and then, some minor or major tale makes the rounds. So, what's this big news you've heard lately?\r
+听说一个叫<color\=red>飞云门</color>的门派，一夜之间被<color\=red>雷火帮</color>全部屠杀一空，一个都没留下呢，<color\=red>飞云门</color>掌门尸体现在都还被吊在山门示众呢。=They say a sect called <color\=red>Flying Cloud Sect</color> was wiped out overnight by the <color\=red>Thunderfire Gang</color>—not a single soul survived. The sect leader's body is still hanging at the mountain gate as a warning.
+什么！！！=Impossible!
+啊？师父怎…怎么了…？\r=Huh? M-Master, what's wrong...?\r
+没事… 你先下去吧，为师有点事要处理。=Don't worry...Leave me for now. I have things I need to handle.
+哦… 那徒儿先告辞了。=Very well...I shall take my leave, Master.
+没想到才短短数月！就发生了这种事！\r=I never imagined...that in merely a few short months, things would come to this!\r
+我虽已脱离<color\=red>飞云门</color>，但是里面有我出生入死的师兄弟，掌门…也对我有授业之恩，我要马上回去看看。\r=Though I've already left <color\=red>Flying Cloud Sect</color>, many of my sworn brothers remain—men I've fought beside with my life. And the Sect Master...he once taught me everything I know. I must return at once.\r
+置=To place
+二=Two
+配=match
+你赶到的时候天色已经傍晚，原本应有弟子驻守的山门处只剩血迹斑斑，而有一人被吊在山门最高处的房檐上，从穿着上看确实是掌门无疑。=When you arrive, the sky is already darkening. The gate, where disciples once stood watch, is now covered in blood. One figure hangs lifeless from the highest roofbeam—there's no mistaking it...it's the Sect Master.
+你施展轻功登上山门，将掌门放了下来，看着尸体触目惊心的伤势，心情无比悲痛。\r=You leap up to the sect gate using your qinggong and bring the Sect Master's body down. Gazing upon the horrifying wounds, your heart fills with overwhelming grief.\r
+掌门…你当初为何不愿听我之言…\r=Master...why did you refuse to listen to my warning back then...\r
+<color\=red>雷火帮</color>一群贼子，总有一天，我会找你们算账！=<color\=red>Thunderfire Gang</color>...you vile bandits. One day, I will settle this score!
+现在事情已经发生，无法挽回；你在山门附近将掌门下葬后，便赶回了家。\r=The tragedy has already come to pass, beyond all remedy. You lay the Sect Master to rest near the mountain gate...and then set off on the road home\r
+但是现在我势单力薄，要想报仇要等到何年何月，我必须也要有自己的一方势力才行！\r=But right now, I stand alone and powerless—who knows how long it'll take to avenge them? I must build a force of my own!\r
+徒儿，为师打算在此开宗立派，建立一番基业，你可愿从此跟随为师，也成为江湖里的一方势力！\r=Disciple, I intend to found a sect here and establish a lasting legacy. Are you willing to follow me—and rise to become a force in the martial world?\r
+那徒儿岂不是开山大弟子了？太好了！=That means I'll be the sect's first disciple, won't I? What an honor!
+师父，我们门派叫什么名字啊？\r=Master, what shall our sect be called?\r
+我们的门派就叫\r<color\=red>Luoxi</color>！=We shall name our sect\r <color\=red>Luoxi</color>！
+好气派的名字！=What an imposing name!
+作为一个门派 现在这里的建设还不够。\r=As a sect, this place is still far from fully developed.\r
+好了，这才是一个门派应该有的样子！\r=There! Now this is what a true sect should look like!\r
+(等我实力壮大！第一个便要踏平你<color\=red>雷火帮</color>！)=(Just wait—once I'm strong enough, <color\=red>Thunderfire Gang</color>, I'll wipe you off the face of the earth!)
+这里地势不错，可以在此先行安顿下来，可是白手起家何其困难！=The terrain here is favorable—this shall do for now as a place to settle. But to build a new life from nothing...what a daunting task it is!
+先不想那么多，必须先有收入才行，我除了一身武艺别无长处，只能先在此地教人习武再慢慢发展。=No use dwelling on it for now—what I need first is a source of income. Aside from my martial skills, I possess no other craft. For the time being, I can only teach others the art of combat and slowly build from there.
+呼呼……终于建好了，教人习武也得有个地方才行，看样子还不错！进去看看吧。=Whew...it's finally complete. If I'm to teach martial arts, I need a proper place for it—this looks quite decent! Let's step inside and have a look.
+先要给武馆定一个合适的学费；学费多少会影响到招收学徒的概率，现在我们还没什么名声，每月<color\=red>30金</color>就差不多了。=First, I must set an appropriate tuition fee for the martial arts academy. The fee will greatly affect the number of apprentices willing to join. Since we have no reputation yet, a monthly fee of <color\=red>30 gold</color> should be about right.
+嗯，就这么多吧，反正学费随时都可以调整，现在就等学徒上门了。=Mm, 30 gold it is. After all, the tuition can always be adjusted later. For now, we simply wait for the apprentices to come.
+请问… 这里是武馆吗？可以学功夫那种吗？=Excuse me...is this a martial arts academy? Can one learn martial arts here?
+没错！本人十八般兵器样样精通，来就对了！哈哈哈~=Indeed! I am well-versed in all eighteen weapons—you're in the right place! Hahaha~
+好呀好呀！我要学！=Great! I want to learn
+(护法童子)=(Protector D.)
+世界总揽=Global Overview
+进入门派能学到更强的武艺？那我同意加入！\r=Join a sect to master greater techniques? I'm in!\r
+弟子总数=Disciples Count
+武馆学徒=Martial Hall Apprentice
+交好=Allied
+拍卖大会=Auction
+武道大会=M.Arts Tmt
+投资商人=Investor
+选择门派=Choose a sect
+贸易=Trade
+资=Funds
+源=Origin
+成=Disc.
+员=Memb.
+查看=Check
+炼制=Refine
+精炼=Enhance
+锻造=Forge
+取回仓库=Retrieve from Warehouse
+开始合成=Forge Now
+修复材料<color\=red>品级</color>越高 耐久修复量越高 弟子<color\=red>驻守等级</color>越高 装备耐久上限下降概率与量越少=The higher the <color\=red>Material Grade</color>, the more durability is restored. The higher the disciple's <color\=red>Guard Level</color>, the lower the chance and amount of durability loss.
+（快速移除道具）=(Quick Remove Item)
+家畜失踪=Livestock Missing
+抢收粮食=Emergency Harvest
+第  阶=Tier 1
+The disciple is not equipped with any martial arts and cannot be stationed山门=This disciple is not equipped with any martial arts and cannot be stationed at the mountain gate.
+Disciples began to garrison山门=Disciples have begun garrisoning the mountain gate.
+门派掌门=Sect Leader
+门派影响=Sect Influence
+山下有村民反应，其圈养的家畜最近经常莫名失踪，怀疑是山中野兽所为，希望派一名拥有一定<color\=#FFB851>「洞察与力量」</color>的弟子前往协助村民，抓住这只野兽。=Villagers at the foot of the mountain report that their livestock have recently gone missing under mysterious circumstances. Suspecting a wild beast from the mountains, they request assistance from the sect. Send a disciple with sufficient <color\=#FFB851>Insight and Strength</color> to aid the villagers and capture the creature.
+总算是有收入了，我们先开始<color\=red>下个月</color>，再走一步算一步吧。=At last, we have some income. We'll begin next <color\=red>month</color> and take things one step at a time.
+以后要发展壮大必须要有一帮优秀的徒弟才行，试下能否将其收为入门弟子培养一番，他现在人应该在<color\=red>主厅</color>练功呢。=To grow and thrive in the future, I must have a group of exceptional apprentices. I should try to take him in as an inner disciple and train him properly. He should be in the <color\=red>Main Hall</color> training right now.
+经过这一个月的观察，发现你的习武资质不错，想收你为我入门弟子，你可愿意？=After observing you for a month, I've found that your martial arts talent is quite promising. I wish to take you as my inner disciple. Do you accept?
+真的吗？太好了！特别希望能学到绝世武功，成为一代大侠！=Really? That's wonderful! I've always hoped to learn peerless martial arts and become a legendary hero!
+哈哈哈~好，现在开始你就是我的入门弟子了，自然会好好栽培于你。=Hahaha~ Good! From this moment on, you are my inner disciple. I will naturally train you well.
+多谢师父，请受徒儿一拜。=Thank you, Master. Please allow your disciple to pay respects.
+哈哈哈~好吧 你先回去练功，我会单独找时间传授你武艺。=Hahaha~ Very well. You may return to your training for now. I will find a time to personally teach you the martial arts.
+是！师父!=Yes! Master!
+消耗<color\=red>同类型同品质</color>装备提升主装备属性=Use <color\=red>same type & grade</color> gear to boost main gear's attributes.
+真的吗？太好了，我一直想加入门派，成为一代大侠！\r=Really? That's great! I've always wanted to join a sect and become a legendary hero!\r
+开始参悟=Commence Insight
+投资力度=Invest Level
+协助炼器=Assist with Forging 
+外围狩猎=Outer Hunting
+发现矿坑=Mine Discovered
+	刺-=	Stab-
+	突-=	Break-
+	撩-=	Tear-
+	砸-=	Smash-
+	斩-=	Slash-
+	挑-=	Flick-
+	劈-=	Rip-
+	削-=	Cut-
+	绞-=	Twist-
+我现在收了一名弟子，但是才刚刚习武，我的功法他还无法练习，要专门为他准备一套武技才行。=I've just taken in an apprentice, but he's still a beginner in martial arts. He's not yet ready to practice my techniques. I'll need to prepare a set of skills tailored specifically for him.
+我自幼习武，自诩也是悟性非凡，自创一套入门武技还是能做到的。=I have practiced martial arts since childhood and pride myself on my extraordinary understanding. Creating a set of entry-level techniques should be well within my abilities.
+以后就在<color\=red>武楼</color>摸索新的武学吧。=From now on, I'll refine my new martial arts in the <color\=red>Martial Hall</color>
+刚刚听到消息，最近本门将要宣布与<color\=red>雷火帮</color>结盟。=I've just received word—our sect is about to announce an alliance with the <color\=red>Thunderfire Sect</color>
+掌门！我们与<color\=red>雷火帮</color>乃是世仇，对方突然提出结盟，肯定背后有阴谋，不能草率决定！=Master! Our sect and the <color\=red>Thunderfire Sect</color> have been mortal enemies for generations. Now they suddenly propose an alliance—there must be treachery behind this! We cannot make a hasty decision!
+掌门！我入<color\=red>飞云门</color>十余年，跟随本门弟兄与<color\=red>雷火帮</color>打过无数交道，对方帮主极其狡诈。=Master! I have served in the <color\=red>Flying Cloud Sect</color> for over ten years, and have crossed blades with the <color\=red>Thunderfire Sect</color> more times than I can count. Their leader is a cunning and treacherous man—he cannot be trusted.
+好了现在有弟子驻守 我们可以进入开始自创一套功法吧。=Good. Now that a disciple has been stationed as guardian, we may proceed and begin forging a new martial art of our own.
+选择需要的<color\=red>招式类型</color>与<color\=red>属性</color>，调整<color\=red>威力</color>，会显示消耗相应的<color\=red>参悟值</color>，然后选择<color\=red>护法弟子</color>就可以参悟功法了。=Select the desired <color\=red>technique type</color> and <color\=red>attribute</color>, then adjust the <color\=red>power level</color>—the required amount of <color\=red>Comprehension Points</color> will be displayed accordingly. Once that's done, choose a <color\=red>guardian disciple</color>, and the cultivation of the technique may begin.
+我派近些年来已经式微，再与<color\=red>雷火帮</color>斗下去，门派迟早要覆灭，现在对方既然主动要求同盟，我们正好有所喘息，也可尝试化解多年双方仇恨。=In recent years, our sect has fallen into decline. If we continue to clash with the <color\=red>Thunderfire Sect</color>, our destruction is but a matter of time. Now that they have taken the initiative to propose an alliance, it grants us a chance to catch our breath—and perhaps, at long last, dissolve the enmity that has plagued both sides for so many years.
+我们虽与<color\=red>雷火帮</color>结为同盟，但也会有所提防，此乃门中大事！你莫要再说，马上给我退下！=Though we have allied with the <color\=red>Thunderfire Sect</color>, we shall remain on guard—this concerns the very future of our sect! Say no more—stand down at once!
+可是<color\=red>雷火帮</color>是狼子野心！他们这么多年一直想要吞并我们，所谓“同盟”不过是借口！肯定会在背后暗算我们的！=But the <color\=red>Thunderfire Sect</color> is ruthless and full of wolfish ambition! For years, they've hungered to annex our sect. This so-called 'alliance' is nothing more than a veil for their schemes—they will surely betray us when our guard is down!
+一派胡言！我派即将与<color\=red>雷火帮</color>结为盟友，怎能容你坏了我门中大事！从现在开始我便将你逐出师门！收拾好你的东西，现在就给我离开！=Nonsense! Our sect is on the verge of forging an alliance with the <color\=red>Thunderfire Sect</color>—how dare you jeopardize such a vital matter! From this moment forth, you are expelled from the sect! Gather your belongings and leave at once!
+要自创功法的话，还需要驻守弟子进行护法才能起到事半功倍的作用，正好让我那刚收的弟子驻守在<color\=red>武楼</color>里吧。=To develop a Martial arts of one's own, one must have a disciple posted as guardian—only then can the process proceed with twice the effect for half the effort. As it happens, I've just accepted a new disciple, let him take up the post at the <color\=red>Martial Hall</color>.
+通过这段时间观察,没想到发现其中一名学徒资质不错。=After observing them over this period, I did not expect to find one among the apprentices with such promising talent.
+但是只有功法却没有武器是不行的，还好之前从门派出来的时候带了一些，现在和功法一起都放在仓库里。=But a technique alone is not enough without a proper weapon. Fortunately, I brought a few with me when I left the sect. They're now stored in the warehouse along with the cultivation manuals.
+在<color\=red>主厅</color>中的<color\=red>弟子管理</color>找到<color\=red>入门弟子</color>并且把功法和装备都给弟子装备上。=Go to the <color\=red>disciple management</color> in the <color\=red>main hall</color>, locate the <color\=red>novice disciple</color>, and equip them with both the Martial art and the equipament.
+好了，现在弟子功法和装备都有了，使用中的功法会随着时间慢慢成长，能学到什么程度就靠他自己了。我们先进入<color\=red>下个月</color>吧。=Good. Now that the disciple is equipped with both technique and gear, the martial art in use will gradually improve over time. How far he can go depends on his own ability. Let us proceed to the <color\=red>next month</color>.
+嗯，这部功法很适合给我这名弟子学习。=Hmm, this technique is well-suited for this disciple of mine to learn.
+武器=Weapon
+选择属性=Select Attributes
+属性=Attribute
+SHIFT+右键=Press SHIFT + Right-Click
+生命=Life
+真气=True Qi
+资质=Aptitude
+忠诚=Loyalty
+开始创造=Begin Creation
+
 
 sr:"^湖$"=Travel
 sr:"^([\S\s]*>)掌门(<[\S\s]*)$"=$1Leader$2

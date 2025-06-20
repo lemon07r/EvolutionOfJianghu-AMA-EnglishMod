@@ -8372,7 +8372,7 @@ Finally got out of the Back Peak, and said that this retreat allowed him to impr
 设施驻守经验获取速度提升50%¤Facility resident experience acquisition speed increased by 50%%
 绝技伤害提升50%¤Stunt damage increased by 50%
 功法技能触发概率提升100%¤Skill trigger probability increased by 100%
-气血低于50%时伤害降低30%¤Damage is reduced by 30% when blood is less than 50%%
+气血低于50%时伤害降低30%¤DMG -30% when HP < 50%
 体力消耗增加30%¤Physical exertion increased by 30%
 俸禄需求提升150%¤Salary demand increased by 150%
 暴击概率降低30%¤30% lower probability of Crit%
@@ -8380,7 +8380,7 @@ Finally got out of the Back Peak, and said that this retreat allowed him to impr
 绝技伤害降低30%¤Stance damage reduced by 30%
 功法技能触发概率降低50%¤Probability of triggering kung fu skills reduced by 50%
 门派弟子剑法修炼速度提升25%¤The speed of disciples' Sword training increased by 25%
-门派弟子刀法修炼速度提升25%¤The speed of Blade training for disciples of the sect increased by 25%
+门派弟子刀法修炼速度提升25%¤Sect disciples' blade training speed +25%
 门派弟子剑法刀法修炼速度提升10%¤The speed of sword and blade training of disciples of the sect increased by 10%.
 自身参悟点获得提升30%¤Mastery points gain increased by 30%
 自身参悟点消耗降低30%¤Mastery points consumption reduced by 30%
@@ -8631,7 +8631,7 @@ liangong_role.GetComponent<liangongroleui>().Roles.Name}在武楼中的经验提
 每月心情会有一定概率自动下降¤There is a certain probability that the mood will automatically decrease every month
 无法结交朋友并且身价下降¤Unable to make friends and declining in worth
 所有功法修炼速度下降20%¤The speed of all Skillsets is reduced by 20%
-所有功法突破概率下降50%¤The probability of breaking through all Skillsets drops by 50%
+所有功法突破概率下降50%¤All skill breakthrough chances -50%
 设施驻守经验获取速度下降30%¤Facility resident experience acquisition speed decreased by 30%
 门派被侵犯概率概率下降50%¤The probability of martial arts being violated decreased by 50%%
 门派弟子剑法修炼速度下降25%¤Martial arts disciple swordsmanship practice speed decreased by 25%
