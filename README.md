@@ -22,6 +22,7 @@ See the ADVANCED section of the mod-tools branch readme if you are interested in
 - Beast - Translated Textures Creator, and Troubleshooting
 - Sennek - Mod Creation Help
 - Sweetbro - IWOL Replacer Creator (tool used for creating this mod)
+- WomegaX825 - For the big 2025 update / Release 6, translating images, the prologue, some interactions and other things
 - Lamim (lemon07r) - Current Mod and Github Maintainer
 - Everyone else at the Amateur Modding Venue discord for any help or support they might have provided
 
